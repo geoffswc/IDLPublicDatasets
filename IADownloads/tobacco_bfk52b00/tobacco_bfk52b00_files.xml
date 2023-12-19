@@ -1,0 +1,2626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1686015954</mtime>
+    <size>1059</size>
+    <md5>19b4d8b39093ac947b8a16804750b357</md5>
+    <crc32>77318c70</crc32>
+    <sha1>1043f783f9f015c01a10adb1d6dec552d3bf8888</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="bfk52b00-2.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816062</mtime>
+    <size>426164</size>
+    <md5>8d93f46e45f526d23f2ad79b66ee60f6</md5>
+    <crc32>dd5d6146</crc32>
+    <sha1>b269946bc951ae07b58032ecd8e792e79af23d70</sha1>
+  </file>
+  <file name="bfk52b00-2.mp4" source="derivative">
+    <format>h.264</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391817254</mtime>
+    <size>186946383</size>
+    <md5>4449b01b3cd49e070eed7d7d5a1d52b3</md5>
+    <crc32>cbaf2541</crc32>
+    <sha1>b89fc32b9f4e9188d49fb7b028ee14dbf86491f4</sha1>
+    <length>1796.6</length>
+    <height>480</height>
+    <width>582</width>
+  </file>
+  <file name="bfk52b00-2.ogv" source="derivative">
+    <format>Ogg Video</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391822978</mtime>
+    <size>133148290</size>
+    <md5>97ad45abc1613102dd195c70def00d19</md5>
+    <crc32>2f509440</crc32>
+    <sha1>0f70d7c9a1053fa49b8d2757ed54e74a1d7e2f80</sha1>
+    <length>1796.57</length>
+    <height>300</height>
+    <width>364</width>
+  </file>
+  <file name="bfk52b00-2.wmv" source="original">
+    <format>Windows Media</format>
+    <length>1796.56</length>
+    <height>240</height>
+    <width>291</width>
+    <mtime>1391815511</mtime>
+    <size>97143444</size>
+    <md5>c884dcaa7bbf566f880e8396f4894a76</md5>
+    <crc32>b564fbca</crc32>
+    <sha1>0c80cdcbde29941b5df1351d8cae50b4e229902e</sha1>
+  </file>
+  <file name="bfk52b00-3.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391815667</mtime>
+    <size>423629</size>
+    <md5>95805efb3e59596327638a779532c251</md5>
+    <crc32>bb1a7584</crc32>
+    <sha1>0cf6ddbd9926ca1c6475978221df0b90416a3f6f</sha1>
+  </file>
+  <file name="bfk52b00-3.mp4" source="derivative">
+    <format>h.264</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391819791</mtime>
+    <size>182980869</size>
+    <md5>e8c6331805271548f9591d17d8df9185</md5>
+    <crc32>1327bfc2</crc32>
+    <sha1>1f4303e77eb2fa77a287a9646229fe1e23be06ca</sha1>
+    <length>1754.06</length>
+    <height>480</height>
+    <width>582</width>
+  </file>
+  <file name="bfk52b00-3.ogv" source="derivative">
+    <format>Ogg Video</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391830720</mtime>
+    <size>129981657</size>
+    <md5>b55bacc116ecedbf2bab4e86ca8dd9d7</md5>
+    <crc32>26676ed6</crc32>
+    <sha1>1059a73a873eeaf1c743ef91d90d14f24d087f41</sha1>
+    <length>1754.04</length>
+    <height>300</height>
+    <width>364</width>
+  </file>
+  <file name="bfk52b00-3.wmv" source="original">
+    <format>Windows Media</format>
+    <length>1754.02</length>
+    <height>240</height>
+    <width>291</width>
+    <mtime>1391815506</mtime>
+    <size>94855572</size>
+    <md5>8816882a83efb51941a8d01202980dbc</md5>
+    <crc32>dda756d8</crc32>
+    <sha1>2633578f950c6542f033f49619b4e97670c58c23</sha1>
+  </file>
+  <file name="bfk52b00-4.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391815729</mtime>
+    <size>424696</size>
+    <md5>f4ce589e2f1051856c4a59284692966f</md5>
+    <crc32>0dd6efed</crc32>
+    <sha1>6d47e7013ca9343b52a9b28d86583a44e5d617d1</sha1>
+  </file>
+  <file name="bfk52b00-4.mp4" source="derivative">
+    <format>h.264</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391818499</mtime>
+    <size>182301028</size>
+    <md5>5e8f399ef68e45b8dfdf11a3dd1f16ec</md5>
+    <crc32>7a3885c2</crc32>
+    <sha1>f9aece589813e62a050d4507b88f6ab39a441dee</sha1>
+    <length>1749.69</length>
+    <height>480</height>
+    <width>582</width>
+  </file>
+  <file name="bfk52b00-4.ogv" source="derivative">
+    <format>Ogg Video</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391832073</mtime>
+    <size>129762018</size>
+    <md5>416759d9b8d9415dad86ff602d21f906</md5>
+    <crc32>4bb08401</crc32>
+    <sha1>3d1e318c459312f6e5ac08400bf61383b2a0c4d5</sha1>
+    <length>1749.67</length>
+    <height>300</height>
+    <width>364</width>
+  </file>
+  <file name="bfk52b00-4.wmv" source="original">
+    <format>Windows Media</format>
+    <length>1749.65</length>
+    <height>240</height>
+    <width>291</width>
+    <mtime>1391815489</mtime>
+    <size>94597782</size>
+    <md5>624efe4de9f874ae39849763c8fbcebc</md5>
+    <crc32>b38b9f0a</crc32>
+    <sha1>bd06b3d54e3096c506b486924b95b692997db2a3</sha1>
+  </file>
+  <file name="bfk52b00-5.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391815859</mtime>
+    <size>410487</size>
+    <md5>1ab52397e21161c7478d162caa96fbdc</md5>
+    <crc32>2d88a1ca</crc32>
+    <sha1>d40787a75906e1e4518bb6bcd4928e0fc0fb5d12</sha1>
+  </file>
+  <file name="bfk52b00-5.mp4" source="derivative">
+    <format>h.264</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391817863</mtime>
+    <size>182293830</size>
+    <md5>7848e4dc3779d0f51a6bcd60bb99f5e3</md5>
+    <crc32>a8eb97c6</crc32>
+    <sha1>23ca70a295fcc52b602751a54ff703dbb5ef116e</sha1>
+    <length>1749.69</length>
+    <height>480</height>
+    <width>582</width>
+  </file>
+  <file name="bfk52b00-5.ogv" source="derivative">
+    <format>Ogg Video</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391824212</mtime>
+    <size>129762018</size>
+    <md5>34ffadf43fa08284efd962faa32d7cb6</md5>
+    <crc32>09bc74fc</crc32>
+    <sha1>e5f82aeb290eabfdf2eb9769facb44f48e284377</sha1>
+    <length>1749.67</length>
+    <height>300</height>
+    <width>364</width>
+  </file>
+  <file name="bfk52b00-5.wmv" source="original">
+    <format>Windows Media</format>
+    <length>1749.65</length>
+    <height>240</height>
+    <width>291</width>
+    <mtime>1391815500</mtime>
+    <size>94597782</size>
+    <md5>624efe4de9f874ae39849763c8fbcebc</md5>
+    <crc32>b38b9f0a</crc32>
+    <sha1>bd06b3d54e3096c506b486924b95b692997db2a3</sha1>
+  </file>
+  <file name="bfk52b00-6.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816000</mtime>
+    <size>446799</size>
+    <md5>052d30beb7f913cf12cc553adf44b700</md5>
+    <crc32>0c4fdb2e</crc32>
+    <sha1>93845098ce018d7b5d0ed3399a442c14d92ecd83</sha1>
+  </file>
+  <file name="bfk52b00-6.mp4" source="derivative">
+    <format>h.264</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391819198</mtime>
+    <size>200358984</size>
+    <md5>e835055a9014d7d57a1884950ca1b4bf</md5>
+    <crc32>f9667f47</crc32>
+    <sha1>ad5868943a9e77c6b30981ec5e2490a3cd58f72d</sha1>
+    <length>1920.04</length>
+    <height>480</height>
+    <width>582</width>
+  </file>
+  <file name="bfk52b00-6.ogv" source="derivative">
+    <format>Ogg Video</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391825730</mtime>
+    <size>143525645</size>
+    <md5>a70e9e1f706e0fa420daaf49134e63a2</md5>
+    <crc32>6fc85de4</crc32>
+    <sha1>96d0acff7b16ad49aff7112e2ecf8126a9c957a2</sha1>
+    <length>1920.01</length>
+    <height>300</height>
+    <width>364</width>
+  </file>
+  <file name="bfk52b00-6.wmv" source="original">
+    <format>Windows Media</format>
+    <length>1919.98</length>
+    <height>240</height>
+    <width>291</width>
+    <mtime>1391815495</mtime>
+    <size>103845942</size>
+    <md5>31913896fb5a2262598790070424d315</md5>
+    <crc32>43a6669a</crc32>
+    <sha1>fac259fa31c882f9a6ec74e2d9d87f63f78f1449</sha1>
+  </file>
+  <file name="bfk52b00-8.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816134</mtime>
+    <size>482822</size>
+    <md5>087407fbeeb242d11666523b05fa36e3</md5>
+    <crc32>eb80fe0c</crc32>
+    <sha1>9ddb9ed41f3ed1ee539308d4245a1b45f088c40e</sha1>
+  </file>
+  <file name="bfk52b00-8.mp4" source="derivative">
+    <format>h.264</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391821696</mtime>
+    <size>195576342</size>
+    <md5>5a7b3db718ba5910cddac1dedabe3994</md5>
+    <crc32>08ef5fb8</crc32>
+    <sha1>8629ea3510081009a165a705c0ef01fd5d0e5a2b</sha1>
+    <length>1903.36</length>
+    <height>480</height>
+    <width>640</width>
+  </file>
+  <file name="bfk52b00-8.ogv" source="derivative">
+    <format>Ogg Video</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391827008</mtime>
+    <size>139136021</size>
+    <md5>95356e9659134af465aecb1cb860c78c</md5>
+    <crc32>7253b73a</crc32>
+    <sha1>49c79bf31ed9ccb779dd68ab10558e858589cb10</sha1>
+    <length>1903.34</length>
+    <height>300</height>
+    <width>400</width>
+  </file>
+  <file name="bfk52b00-8.wmv" source="original">
+    <format>Windows Media</format>
+    <length>1903.3</length>
+    <height>240</height>
+    <width>320</width>
+    <mtime>1391815473</mtime>
+    <size>114788360</size>
+    <md5>b4fd9f74f166fd821df117e190765b8d</md5>
+    <crc32>25a52fb0</crc32>
+    <sha1>094afb3ffed551afab921400ae66b67ab26da13c</sha1>
+  </file>
+  <file name="bfk52b00-9.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391815929</mtime>
+    <size>448284</size>
+    <md5>1d615d7046cc0047f56572ebe33b3cab</md5>
+    <crc32>88c31279</crc32>
+    <sha1>f5c10c186e3389aa1fc51d8cc0e075086f95a8d1</sha1>
+  </file>
+  <file name="bfk52b00-9.mp4" source="derivative">
+    <format>h.264</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391820415</mtime>
+    <size>195249212</size>
+    <md5>bf3f1254fcf3891fe883c5a6c33119c8</md5>
+    <crc32>e6cd042c</crc32>
+    <sha1>87b9eb30181ae4497d541040247ca637abb02b39</sha1>
+    <length>1873.74</length>
+    <height>480</height>
+    <width>582</width>
+  </file>
+  <file name="bfk52b00-9.ogv" source="derivative">
+    <format>Ogg Video</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391828294</mtime>
+    <size>139346542</size>
+    <md5>a5edc096d313e58b6763664347deb9cb</md5>
+    <crc32>82ba277d</crc32>
+    <sha1>a8d05ea7e2d1d14e4203a1180d68c7a887e80127</sha1>
+    <length>1873.71</length>
+    <height>300</height>
+    <width>364</width>
+  </file>
+  <file name="bfk52b00-9.wmv" source="original">
+    <format>Windows Media</format>
+    <length>1873.71</length>
+    <height>240</height>
+    <width>291</width>
+    <mtime>1391815526</mtime>
+    <size>101311026</size>
+    <md5>bc3bb59adb9fd8848e79987d18172afa</md5>
+    <crc32>1cc0aa41</crc32>
+    <sha1>f41e1934b1357a5f4b5d2168da0a6a31fb7ad406</sha1>
+  </file>
+  <file name="bfk52b00.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391815794</mtime>
+    <size>432289</size>
+    <md5>d470033d4786b5dbc7d28c0b679b73f7</md5>
+    <crc32>c5cdb5a1</crc32>
+    <sha1>3be60be742161221b49bd49859b4299bbdaf7452</sha1>
+  </file>
+  <file name="bfk52b00.mp4" source="derivative">
+    <format>h.264</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391821038</mtime>
+    <size>190111623</size>
+    <md5>a9f5c3b99f520d212f717ba7fb6e03de</md5>
+    <crc32>cfd0f42e</crc32>
+    <sha1>788888e9bea9e1f14ef927d19e661bd7fe585bc2</sha1>
+    <length>1828.5</length>
+    <height>480</height>
+    <width>582</width>
+  </file>
+  <file name="bfk52b00.ogv" source="derivative">
+    <format>Ogg Video</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391829529</mtime>
+    <size>135634094</size>
+    <md5>53d76dc1a47ccb65e3e7fe15d896e9f4</md5>
+    <crc32>bcec56c3</crc32>
+    <sha1>5170bd144fe930970c3cefa8e09f6fe87ff1de30</sha1>
+    <length>1828.48</length>
+    <height>300</height>
+    <width>364</width>
+  </file>
+  <file name="bfk52b00.wmv" source="original">
+    <format>Windows Media</format>
+    <length>1828.46</length>
+    <height>240</height>
+    <width>291</width>
+    <mtime>1391815517</mtime>
+    <size>99001656</size>
+    <md5>20aefb02fbcfbffd258d11ac3770c395</md5>
+    <crc32>e081538e</crc32>
+    <sha1>424e47bce366a18b28332c0744d32d1108b05491</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816201</mtime>
+    <size>1167</size>
+    <md5>139445efa7f6c8106f7ed988b6468903</md5>
+    <crc32>acd7f5a2</crc32>
+    <sha1>3c34dc477eee6baa09c7e8670632473104d5c368</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816202</mtime>
+    <size>1241</size>
+    <md5>26847d49fc01a6a5a91382db84e09b63</md5>
+    <crc32>e8e4cefa</crc32>
+    <sha1>2d0cd4e706fd8478cd338be2018a58f8f788ccb4</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816204</mtime>
+    <size>1891</size>
+    <md5>ab350bc50e19f7cbabb8814f8f2c17ed</md5>
+    <crc32>b29f1198</crc32>
+    <sha1>1177a218486f92464a42b84cd225d28d82e68f0b</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816206</mtime>
+    <size>5249</size>
+    <md5>b95df811eb993dd531d31299713bd81c</md5>
+    <crc32>dbf9cf85</crc32>
+    <sha1>c0d0e779e285553b2c3f61ed49dfbb5996e4193c</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816208</mtime>
+    <size>4903</size>
+    <md5>0a59976bfc3217c9de3e1b9ec667ce16</md5>
+    <crc32>b732aada</crc32>
+    <sha1>7e008eefd2acd0c799d8d9fe90f7372d3fdb484d</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816210</mtime>
+    <size>5007</size>
+    <md5>e62b7956b7a199ca84c1e5ae3202d9ca</md5>
+    <crc32>47708130</crc32>
+    <sha1>808673b5f1ee2f8581a9aa66dbfd18f49c239963</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_000330.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816212</mtime>
+    <size>4842</size>
+    <md5>021209a3faca827965ae0a15ca23a3bc</md5>
+    <crc32>ecf85b7e</crc32>
+    <sha1>5197876e9c1f586d708920661e395c9d36b79bf2</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_000390.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816214</mtime>
+    <size>4827</size>
+    <md5>68df3763eca01588fbcf3a016307fcd0</md5>
+    <crc32>28f3d267</crc32>
+    <sha1>910deaa834f7a2a4bee4713371bef4097e3f519f</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_000450.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816216</mtime>
+    <size>6142</size>
+    <md5>883ff0184af3124573013a132129a1a4</md5>
+    <crc32>9ecc866e</crc32>
+    <sha1>68b3261d097f8798412e70bef593dc868a9c6099</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_000510.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816218</mtime>
+    <size>6049</size>
+    <md5>3a8286ed495ce7f4b4a029f364dc49fd</md5>
+    <crc32>88b335ef</crc32>
+    <sha1>c2468696cf20a3fb2582a798cc39ac270314d7d7</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_000570.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816220</mtime>
+    <size>6104</size>
+    <md5>7c0c6c94912eda8ab250a703a22b977b</md5>
+    <crc32>a9636e27</crc32>
+    <sha1>525a7561206d587f16880141153a5053c371cecf</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_000630.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816222</mtime>
+    <size>6148</size>
+    <md5>717acd1ea5e6654bde2b62b653c83d0f</md5>
+    <crc32>6818f4ad</crc32>
+    <sha1>d7f5c02a1f84dc0685790eca4b7864906c41dee8</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_000690.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816224</mtime>
+    <size>6202</size>
+    <md5>abba2f45bf98f2e27d4011d48a6ca78f</md5>
+    <crc32>d0bfc538</crc32>
+    <sha1>70b6e276b01b44fc3939a7f010719016d30733cc</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_000750.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816226</mtime>
+    <size>6293</size>
+    <md5>ce404241d453a4503afb513311386046</md5>
+    <crc32>47a1774e</crc32>
+    <sha1>62c4b5eb82768269e8a33de308666dc2616f68fe</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_000810.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816228</mtime>
+    <size>6158</size>
+    <md5>cbbf9293033fed5b38556990c9625358</md5>
+    <crc32>4cf8d149</crc32>
+    <sha1>a0efaf9eb10bd75c8c786cb1a3fdeb559aa09d9f</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_000870.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816230</mtime>
+    <size>6191</size>
+    <md5>b6730426f93dfa98e640ded4bf387ba0</md5>
+    <crc32>64487689</crc32>
+    <sha1>9a0fe24b8ff30f814ca04c1aae8421dc71ec8276</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_000930.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816232</mtime>
+    <size>6189</size>
+    <md5>e0437d37e61c7383575d6192c94ed32f</md5>
+    <crc32>63c2f473</crc32>
+    <sha1>9bbce23f336d1ff22488df274816814d764ce1c3</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_000990.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816234</mtime>
+    <size>6127</size>
+    <md5>b8eed87b2c97c49dc46b7e35142dfe75</md5>
+    <crc32>8099b9b5</crc32>
+    <sha1>85cf9c47372be7a66e91fb95d93c258a713a9e8f</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_001050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816236</mtime>
+    <size>6196</size>
+    <md5>365eee62c17e2b9408065fa4a8b873e0</md5>
+    <crc32>17cbcbe9</crc32>
+    <sha1>f0334ac0c40bbeb8e765cdede41397e31a8095ad</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_001110.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816238</mtime>
+    <size>6093</size>
+    <md5>c356cf7adca59c56a021dac1352a58d2</md5>
+    <crc32>0166c808</crc32>
+    <sha1>db90449a396dd19746928897d97b9de433dab717</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_001170.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816240</mtime>
+    <size>6157</size>
+    <md5>392c8659bc32a9515205977194e7d973</md5>
+    <crc32>2762fb10</crc32>
+    <sha1>5f9fd1680a821ccf0df0f0999551cb9d749dee11</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_001230.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816242</mtime>
+    <size>6067</size>
+    <md5>95803c63d7aabf6085ab9385ef9c3d4e</md5>
+    <crc32>6e499057</crc32>
+    <sha1>d6e878ae6be7e41f820b2fc56ca0055869ed4bd1</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_001290.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816244</mtime>
+    <size>6136</size>
+    <md5>c5b1b6141f60d1e345045bb2e2cd832a</md5>
+    <crc32>8d42164b</crc32>
+    <sha1>539888f731c920e14d6adaf7a44ad3343c44717d</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_001350.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816246</mtime>
+    <size>6250</size>
+    <md5>09e32382ca881509feb9d46190f95b54</md5>
+    <crc32>03074422</crc32>
+    <sha1>50e7368577b4e8fd0951c53de1697ac2933d0680</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_001410.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816249</mtime>
+    <size>6147</size>
+    <md5>6bbefe5fc5220673cbaf170af890abeb</md5>
+    <crc32>a7fb9577</crc32>
+    <sha1>73f01f1ad1f97f798f445d33f198843568a882b4</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_001470.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816251</mtime>
+    <size>6269</size>
+    <md5>db0cfd4b3dcfec74f57f179e249d6f95</md5>
+    <crc32>7c70370b</crc32>
+    <sha1>d9522458ff8d8b002284b4d04a9094d7cd0c72ab</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_001530.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816252</mtime>
+    <size>6250</size>
+    <md5>158fd17a228c3e054dc744deece8beec</md5>
+    <crc32>f8f484f9</crc32>
+    <sha1>1003195b027316c5d8f33efa91befe9eb44ddeb2</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_001590.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816254</mtime>
+    <size>6365</size>
+    <md5>db1b4aeaa9689a14ca23324917311b49</md5>
+    <crc32>f20ad880</crc32>
+    <sha1>e66a05f240e08daff663b5bc27a0b0babc40618d</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_001650.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816256</mtime>
+    <size>6209</size>
+    <md5>81b7fa030ae556ff66a28b555c49ed0a</md5>
+    <crc32>e42c1c01</crc32>
+    <sha1>6e5a545e5873fc2ad0db41c0c531333986a55580</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_001710.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816258</mtime>
+    <size>6422</size>
+    <md5>8d73e76b4ee713781878a4e220fe3ce1</md5>
+    <crc32>f6f4f78f</crc32>
+    <sha1>6a146b729be97dcc0e4ad86e0a1f6058a761f89c</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-2_001770.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-2.wmv</original>
+    <mtime>1391816260</mtime>
+    <size>6461</size>
+    <md5>05f41bb655c654f0dc30ce2a0bd17159</md5>
+    <crc32>75948243</crc32>
+    <sha1>edee2e4799f520a19ec519651487a0eadc5476c9</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816522</mtime>
+    <size>1245</size>
+    <md5>6e2bc2eaab7cf30c087f604ed2171e83</md5>
+    <crc32>40111cd9</crc32>
+    <sha1>b274135708e70d5176a93d1b19a52598277b4c41</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816523</mtime>
+    <size>1814</size>
+    <md5>579f2a703da971ce2dbec53f082517a2</md5>
+    <crc32>a9db40bf</crc32>
+    <sha1>fbb9eecba07bc2387af7d3656081d1b0294b3b54</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816525</mtime>
+    <size>5034</size>
+    <md5>be236749ebe9ef9cf709f4d0f2838f05</md5>
+    <crc32>0bd7f4ba</crc32>
+    <sha1>423e665196de2895a793b847668fe09a4df39f86</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816527</mtime>
+    <size>5099</size>
+    <md5>38bff848051e668624da2be1ac012d0d</md5>
+    <crc32>b11c1c85</crc32>
+    <sha1>1b0f23e3d1484fb1048d68b633347b173cffe38a</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816529</mtime>
+    <size>5243</size>
+    <md5>acf969d145ca48b71773a64239fa145e</md5>
+    <crc32>958a9c87</crc32>
+    <sha1>55ed49cf6b0a2cd7e5c3e3922c5e5937a7ad04db</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816531</mtime>
+    <size>5025</size>
+    <md5>dd2e8fc58f2980ae432e1a89e234ce82</md5>
+    <crc32>a6a34e37</crc32>
+    <sha1>65f04a2fbe2fcebe502085787d1e4177d98e3d8b</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_000330.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816534</mtime>
+    <size>6162</size>
+    <md5>77bb52961345132b3710638e9569d7c6</md5>
+    <crc32>4753de03</crc32>
+    <sha1>4008d73ddfcb59eb307f2d2e4262ec786228c650</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_000390.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816536</mtime>
+    <size>6566</size>
+    <md5>f42fcaa439f07e10872c76b46c60b1ab</md5>
+    <crc32>dfdc679f</crc32>
+    <sha1>f09ee7c1194039fedfcc3e6628f9a40650e5177a</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_000450.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816538</mtime>
+    <size>6603</size>
+    <md5>5faa2f729efc802ac26c6838ad2e2df9</md5>
+    <crc32>cec4a012</crc32>
+    <sha1>78188fc980902852cff92c2c8b2c5933f0e534d4</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_000510.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816540</mtime>
+    <size>6672</size>
+    <md5>8276d145d164ef3b99d0fdbd2f0a2712</md5>
+    <crc32>22360b1d</crc32>
+    <sha1>949255b27ea4d4bbaaebaf5a91d58ba5db571089</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_000570.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816542</mtime>
+    <size>6406</size>
+    <md5>090bf24eb927a6c1778dc0cd597e5d4f</md5>
+    <crc32>a4da8a45</crc32>
+    <sha1>5a5cb522273e981a1d3125eb33c5593656481ef9</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_000630.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816544</mtime>
+    <size>6619</size>
+    <md5>3df848c69efe7656910a49ab85345438</md5>
+    <crc32>d98bda39</crc32>
+    <sha1>37f02313ec91194ec97040cb2ecb9834e926b2dd</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_000690.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816546</mtime>
+    <size>6669</size>
+    <md5>dc85d7ccc60926bdc5f14a64fd64053c</md5>
+    <crc32>16ec6e94</crc32>
+    <sha1>6237045b324b39121adc926f4c21c51144860156</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_000750.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816548</mtime>
+    <size>6655</size>
+    <md5>f3b33fb31f9254fec406422c8aeab4d3</md5>
+    <crc32>d7217d4e</crc32>
+    <sha1>749f819c6cf73007363a56b258174d3977dd35f3</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_000810.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816550</mtime>
+    <size>6582</size>
+    <md5>2a7767ea67ec2095dacacc48fed06262</md5>
+    <crc32>87f02575</crc32>
+    <sha1>0eaa3e359e1933f52c643d5af4a9af84da9fd826</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_000870.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816552</mtime>
+    <size>6434</size>
+    <md5>cec564c9f52fa4c0c4dc90228232e875</md5>
+    <crc32>e9ca4ddc</crc32>
+    <sha1>cbaf27cf91eed028fde106439f9ad9747638276a</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_000930.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816554</mtime>
+    <size>6653</size>
+    <md5>bcefa1c1c7198ffad1b6f35c737453a2</md5>
+    <crc32>8a4a1138</crc32>
+    <sha1>1bcde5999a9fe5dcb24e179ef62ab90c41385ed7</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_000990.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816555</mtime>
+    <size>6510</size>
+    <md5>0d0de7f20fa83b39a15ab7a142aef768</md5>
+    <crc32>b2f898e5</crc32>
+    <sha1>a46b8f6f2d5c04362565258bca3b46b890afc7ba</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_001050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816557</mtime>
+    <size>6537</size>
+    <md5>08f02915b6b8563a195d7465f84c62f4</md5>
+    <crc32>711d29a3</crc32>
+    <sha1>2aaf39f0cdcd7f072feac100e343cdac78567e79</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_001110.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816559</mtime>
+    <size>6693</size>
+    <md5>6618b6c5be8ecdc77c2d22dc6fc9e928</md5>
+    <crc32>122a1e7c</crc32>
+    <sha1>a2a201020b5a6a109375cbebd8d8d58f305654d6</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_001170.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816561</mtime>
+    <size>6652</size>
+    <md5>c5b30b8d9e4cab653be8c1b0b539c573</md5>
+    <crc32>b401011e</crc32>
+    <sha1>047a4518f4b91d385456f5f48618d67cfed59735</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_001230.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816563</mtime>
+    <size>6569</size>
+    <md5>16555dfcfc8abe7dbc2b4a9ffea0cff1</md5>
+    <crc32>5ff11fba</crc32>
+    <sha1>a8bc23757f45636ab2f764f9b185a6ac6d2e0095</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_001290.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816565</mtime>
+    <size>6571</size>
+    <md5>e1118310e46d12ec16465459faf4a51b</md5>
+    <crc32>a3472fe2</crc32>
+    <sha1>68b36724e936f6e70a56b8d9d6b9ea1fab8ad981</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_001350.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816567</mtime>
+    <size>6625</size>
+    <md5>2d4b1d3befe859c14c6aa41040a76c19</md5>
+    <crc32>11c55f32</crc32>
+    <sha1>4cd0da46ac874c39f4c2d975afb80f4593613fcd</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_001410.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816569</mtime>
+    <size>6673</size>
+    <md5>9e7b3ff1050cce0ef03abce55461e8b8</md5>
+    <crc32>9acd7950</crc32>
+    <sha1>5d1f47959b964c3037d7b87eb76b5ba59cd2a5bb</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_001470.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816571</mtime>
+    <size>6639</size>
+    <md5>08146602844daef75a41e1885141aba2</md5>
+    <crc32>60a545ab</crc32>
+    <sha1>b7ba672a69a81f09b7ca331e056a644836641738</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_001530.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816573</mtime>
+    <size>6614</size>
+    <md5>ff517320a9568c7b969d81bcd3b2e727</md5>
+    <crc32>a391654e</crc32>
+    <sha1>8e85af7047098e88b3561f92d117bc7a4cc1f0bc</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_001590.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816575</mtime>
+    <size>6675</size>
+    <md5>537bb4f3198740dd3f567cccfd36520c</md5>
+    <crc32>8a72ee08</crc32>
+    <sha1>4a5665e5013aeda2f95afabab8e97417e902d6ee</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_001650.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816577</mtime>
+    <size>6375</size>
+    <md5>3352a49f5aae69be3377a06ba76adcb8</md5>
+    <crc32>65a2c7a9</crc32>
+    <sha1>6e8d2cbf50366a36de74c86da65f538c8a8295a0</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-3_001710.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-3.wmv</original>
+    <mtime>1391816578</mtime>
+    <size>6639</size>
+    <md5>8bd6984bcc9a32a932f5bf7f0cddfc31</md5>
+    <crc32>7f686e6d</crc32>
+    <sha1>a9fc75d3051911eb78d7eb318166290a0780577d</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816322</mtime>
+    <size>1269</size>
+    <md5>c0e8a6868b08b2cd17894c6838056e7e</md5>
+    <crc32>4a45fa26</crc32>
+    <sha1>cbf4dddd86195315956de729c9fb6649c2f84596</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816324</mtime>
+    <size>1935</size>
+    <md5>6caee07ba99603090bf68cad6e299f85</md5>
+    <crc32>653862a8</crc32>
+    <sha1>e73c562156b8eea407a928d9538639be09d3b706</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816326</mtime>
+    <size>5415</size>
+    <md5>4cc2cbf97b078ca146a2016e33506fcc</md5>
+    <crc32>4dd871fd</crc32>
+    <sha1>9e4653edabdb9501d52af7860fa5d099b1ef5790</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816328</mtime>
+    <size>4698</size>
+    <md5>21c1a3d839aa415485b51c8eb3224581</md5>
+    <crc32>4fd729e8</crc32>
+    <sha1>1dff2fe66b3e0ebf60c551d6084122651090befb</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816330</mtime>
+    <size>5385</size>
+    <md5>b220b15b88e8f9d6386eae59fef66507</md5>
+    <crc32>7e50a2fc</crc32>
+    <sha1>cffb34e0809d767b43947dbd7ca714e53d9b6c18</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816332</mtime>
+    <size>6558</size>
+    <md5>bbc174e1ea8a8fd59b3ee6caec0c1d0e</md5>
+    <crc32>021f03d7</crc32>
+    <sha1>bcea90d23924c937493f8dc2fc953008aff262af</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_000330.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816334</mtime>
+    <size>6541</size>
+    <md5>3a1e60cfd5c101c9e169f99a7f75bb59</md5>
+    <crc32>1c850eac</crc32>
+    <sha1>59d4fa931e7f859d920fc6bfa812cfc8bb203c96</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_000390.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816336</mtime>
+    <size>6675</size>
+    <md5>c7b9d0b16f961f5e503c71e21afb5238</md5>
+    <crc32>3e496d24</crc32>
+    <sha1>52a51d29e51261ed69e79a34b8987e204b7663e3</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_000450.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816338</mtime>
+    <size>5444</size>
+    <md5>8f8283cea3b11adc65f41421811ce875</md5>
+    <crc32>13103bb2</crc32>
+    <sha1>e165bcfcdeacbb6c100dca8fc3929fe8380ce1ff</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_000510.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816340</mtime>
+    <size>6853</size>
+    <md5>90314dde728e6f74145f77cf18a92e4c</md5>
+    <crc32>1567a3eb</crc32>
+    <sha1>1ce1b584bd1fbfb397eb255ed0ec49e5b36dc74c</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_000570.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816342</mtime>
+    <size>6583</size>
+    <md5>4e04ad670b8abb4ed25bded3bd46ba9f</md5>
+    <crc32>b52a5d40</crc32>
+    <sha1>fbe8a4f0009754fb87f769a853fc3442569d2ba1</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_000630.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816344</mtime>
+    <size>6888</size>
+    <md5>b20cf3d352ca0dd892a17b0564ba0208</md5>
+    <crc32>728cbc30</crc32>
+    <sha1>66261338c8a626335d7ea2bccbfd2665d991faa5</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_000690.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816346</mtime>
+    <size>6566</size>
+    <md5>22c6dadbb1e5ea54b4d0f552e9a43dd4</md5>
+    <crc32>f3b9f340</crc32>
+    <sha1>8333c0fc7a9c139a0d6b0bb72480002bdd98479f</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_000750.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816348</mtime>
+    <size>6588</size>
+    <md5>cb104525678361cfeaae3e676355bf9d</md5>
+    <crc32>cbc80724</crc32>
+    <sha1>0b07205901fdb876a7b2f9b2d1ffa2a830dfa380</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_000810.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816350</mtime>
+    <size>6234</size>
+    <md5>4188c0f87430feb432323e7c69e55e64</md5>
+    <crc32>5364809d</crc32>
+    <sha1>4830f289574bfba00436856b6cc6768d238f1b8a</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_000870.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816353</mtime>
+    <size>6569</size>
+    <md5>ac4f816d66600132d9b0e9a0d5a8db75</md5>
+    <crc32>a1993780</crc32>
+    <sha1>5b00319b2bec687a78bad7eddecdf30da15b16d3</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_000930.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816355</mtime>
+    <size>6514</size>
+    <md5>8a9c6a5e70f99a36df36dfd1fb15f3d8</md5>
+    <crc32>90f624f0</crc32>
+    <sha1>8eca05cca9140cd1a61b7f8e1c62774983b95b25</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_000990.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816356</mtime>
+    <size>6630</size>
+    <md5>1b5c9165eefce9ad063fa370ca3ea0d5</md5>
+    <crc32>93c16f33</crc32>
+    <sha1>e62dc30469eac01ecbeaac72a69ac464034b002c</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_001050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816358</mtime>
+    <size>6516</size>
+    <md5>f3e002aee0b095bacda85ece125c4f8c</md5>
+    <crc32>25f4bf02</crc32>
+    <sha1>43d1c8cac38d99f1096233134bc8acdd2e946b70</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_001110.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816361</mtime>
+    <size>6824</size>
+    <md5>5944e5b28805fec94bcd9510911fb7b1</md5>
+    <crc32>cda7f238</crc32>
+    <sha1>38dafcc3452de3ebc597393e41db2303c97f938c</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_001170.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816363</mtime>
+    <size>6818</size>
+    <md5>c4ef832f21a17fca3e0447b441f793bb</md5>
+    <crc32>e2962601</crc32>
+    <sha1>4bcb385c5e1c272bbdc1cee142d262aa92fd1674</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_001230.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816365</mtime>
+    <size>7320</size>
+    <md5>2f0e525f8b690612be0ad78c8c6388ec</md5>
+    <crc32>6921dd2f</crc32>
+    <sha1>291f9f79f2dad8be17382b72f3f0d7277db342d7</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_001290.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816367</mtime>
+    <size>6573</size>
+    <md5>a489985d069c1588513c728742ea7c30</md5>
+    <crc32>25b8e443</crc32>
+    <sha1>15643d15e513f9bc218dc3e5a9cf55773984abaa</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_001350.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816369</mtime>
+    <size>6632</size>
+    <md5>57c56ee535f0d5992cbd8d0b8c56f417</md5>
+    <crc32>51eace0b</crc32>
+    <sha1>8c6038d74b6cc38bc9dd6c4405d13ee5317a35fc</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_001410.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816371</mtime>
+    <size>6813</size>
+    <md5>749e93d6ad37c70e49a8929bf804a5ac</md5>
+    <crc32>a2c0f0d1</crc32>
+    <sha1>d292cfc0db037821c7f05eee359fe0122b9b0b0c</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_001470.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816373</mtime>
+    <size>6863</size>
+    <md5>e01afafb1b8f8db427d6b77c85dfb455</md5>
+    <crc32>0414ec30</crc32>
+    <sha1>61766a829ba920b46297005409a95f0b249fe59d</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_001530.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816376</mtime>
+    <size>6815</size>
+    <md5>5c97e10d1f2ada163e84f9109d18f055</md5>
+    <crc32>29ae3088</crc32>
+    <sha1>0b76283572f267cb092f825efc49e3b035305cbe</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_001590.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816378</mtime>
+    <size>6728</size>
+    <md5>e348849146de72814e45bdd5f64e786a</md5>
+    <crc32>6c99c728</crc32>
+    <sha1>e3bf99d7b3aee580c01d41e195e3901de1387565</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_001650.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816381</mtime>
+    <size>6721</size>
+    <md5>8ed8a2eb7badcbeeff750a3405415980</md5>
+    <crc32>e0a0df86</crc32>
+    <sha1>58ee28f8ca392f60dc50d09cf2be08d7023c4e92</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-4_001710.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-4.wmv</original>
+    <mtime>1391816383</mtime>
+    <size>6577</size>
+    <md5>5c3fed4886a1858f0b308f9536491fa5</md5>
+    <crc32>8b7ea407</crc32>
+    <sha1>49b00e4d80084d42a214f99723dfcf456d8e1f58</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816262</mtime>
+    <size>1269</size>
+    <md5>c0e8a6868b08b2cd17894c6838056e7e</md5>
+    <crc32>4a45fa26</crc32>
+    <sha1>cbf4dddd86195315956de729c9fb6649c2f84596</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816263</mtime>
+    <size>1935</size>
+    <md5>6caee07ba99603090bf68cad6e299f85</md5>
+    <crc32>653862a8</crc32>
+    <sha1>e73c562156b8eea407a928d9538639be09d3b706</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816265</mtime>
+    <size>5415</size>
+    <md5>4cc2cbf97b078ca146a2016e33506fcc</md5>
+    <crc32>4dd871fd</crc32>
+    <sha1>9e4653edabdb9501d52af7860fa5d099b1ef5790</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816267</mtime>
+    <size>4698</size>
+    <md5>21c1a3d839aa415485b51c8eb3224581</md5>
+    <crc32>4fd729e8</crc32>
+    <sha1>1dff2fe66b3e0ebf60c551d6084122651090befb</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816269</mtime>
+    <size>5385</size>
+    <md5>b220b15b88e8f9d6386eae59fef66507</md5>
+    <crc32>7e50a2fc</crc32>
+    <sha1>cffb34e0809d767b43947dbd7ca714e53d9b6c18</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816271</mtime>
+    <size>5251</size>
+    <md5>c9c595c053b5fcd4274a2edde4de4766</md5>
+    <crc32>e9d0fe9d</crc32>
+    <sha1>ff0eb8f7264f6be039eed6b5f45304e05023d3ad</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_000330.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816273</mtime>
+    <size>6541</size>
+    <md5>3a1e60cfd5c101c9e169f99a7f75bb59</md5>
+    <crc32>1c850eac</crc32>
+    <sha1>59d4fa931e7f859d920fc6bfa812cfc8bb203c96</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_000390.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816275</mtime>
+    <size>6675</size>
+    <md5>c7b9d0b16f961f5e503c71e21afb5238</md5>
+    <crc32>3e496d24</crc32>
+    <sha1>52a51d29e51261ed69e79a34b8987e204b7663e3</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_000450.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816277</mtime>
+    <size>6725</size>
+    <md5>9b6e778cff37c51dc5ace699ba98a96d</md5>
+    <crc32>789f5bfb</crc32>
+    <sha1>b7656d68c092dae67c6a5cf57bebbd5c555f9e41</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_000510.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816279</mtime>
+    <size>6853</size>
+    <md5>90314dde728e6f74145f77cf18a92e4c</md5>
+    <crc32>1567a3eb</crc32>
+    <sha1>1ce1b584bd1fbfb397eb255ed0ec49e5b36dc74c</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_000570.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816281</mtime>
+    <size>6583</size>
+    <md5>4e04ad670b8abb4ed25bded3bd46ba9f</md5>
+    <crc32>b52a5d40</crc32>
+    <sha1>fbe8a4f0009754fb87f769a853fc3442569d2ba1</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_000630.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816283</mtime>
+    <size>6888</size>
+    <md5>b20cf3d352ca0dd892a17b0564ba0208</md5>
+    <crc32>728cbc30</crc32>
+    <sha1>66261338c8a626335d7ea2bccbfd2665d991faa5</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_000690.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816286</mtime>
+    <size>6566</size>
+    <md5>22c6dadbb1e5ea54b4d0f552e9a43dd4</md5>
+    <crc32>f3b9f340</crc32>
+    <sha1>8333c0fc7a9c139a0d6b0bb72480002bdd98479f</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_000750.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816288</mtime>
+    <size>6588</size>
+    <md5>cb104525678361cfeaae3e676355bf9d</md5>
+    <crc32>cbc80724</crc32>
+    <sha1>0b07205901fdb876a7b2f9b2d1ffa2a830dfa380</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_000810.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816290</mtime>
+    <size>6234</size>
+    <md5>4188c0f87430feb432323e7c69e55e64</md5>
+    <crc32>5364809d</crc32>
+    <sha1>4830f289574bfba00436856b6cc6768d238f1b8a</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_000870.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816292</mtime>
+    <size>6569</size>
+    <md5>ac4f816d66600132d9b0e9a0d5a8db75</md5>
+    <crc32>a1993780</crc32>
+    <sha1>5b00319b2bec687a78bad7eddecdf30da15b16d3</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_000930.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816294</mtime>
+    <size>6514</size>
+    <md5>8a9c6a5e70f99a36df36dfd1fb15f3d8</md5>
+    <crc32>90f624f0</crc32>
+    <sha1>8eca05cca9140cd1a61b7f8e1c62774983b95b25</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_000990.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816297</mtime>
+    <size>6630</size>
+    <md5>1b5c9165eefce9ad063fa370ca3ea0d5</md5>
+    <crc32>93c16f33</crc32>
+    <sha1>e62dc30469eac01ecbeaac72a69ac464034b002c</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_001050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816299</mtime>
+    <size>6516</size>
+    <md5>f3e002aee0b095bacda85ece125c4f8c</md5>
+    <crc32>25f4bf02</crc32>
+    <sha1>43d1c8cac38d99f1096233134bc8acdd2e946b70</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_001110.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816300</mtime>
+    <size>6824</size>
+    <md5>5944e5b28805fec94bcd9510911fb7b1</md5>
+    <crc32>cda7f238</crc32>
+    <sha1>38dafcc3452de3ebc597393e41db2303c97f938c</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_001170.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816303</mtime>
+    <size>6818</size>
+    <md5>c4ef832f21a17fca3e0447b441f793bb</md5>
+    <crc32>e2962601</crc32>
+    <sha1>4bcb385c5e1c272bbdc1cee142d262aa92fd1674</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_001230.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816305</mtime>
+    <size>7320</size>
+    <md5>2f0e525f8b690612be0ad78c8c6388ec</md5>
+    <crc32>6921dd2f</crc32>
+    <sha1>291f9f79f2dad8be17382b72f3f0d7277db342d7</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_001290.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816307</mtime>
+    <size>6573</size>
+    <md5>a489985d069c1588513c728742ea7c30</md5>
+    <crc32>25b8e443</crc32>
+    <sha1>15643d15e513f9bc218dc3e5a9cf55773984abaa</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_001350.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816309</mtime>
+    <size>6632</size>
+    <md5>57c56ee535f0d5992cbd8d0b8c56f417</md5>
+    <crc32>51eace0b</crc32>
+    <sha1>8c6038d74b6cc38bc9dd6c4405d13ee5317a35fc</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_001410.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816310</mtime>
+    <size>6813</size>
+    <md5>749e93d6ad37c70e49a8929bf804a5ac</md5>
+    <crc32>a2c0f0d1</crc32>
+    <sha1>d292cfc0db037821c7f05eee359fe0122b9b0b0c</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_001470.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816312</mtime>
+    <size>6863</size>
+    <md5>e01afafb1b8f8db427d6b77c85dfb455</md5>
+    <crc32>0414ec30</crc32>
+    <sha1>61766a829ba920b46297005409a95f0b249fe59d</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_001530.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816314</mtime>
+    <size>6815</size>
+    <md5>5c97e10d1f2ada163e84f9109d18f055</md5>
+    <crc32>29ae3088</crc32>
+    <sha1>0b76283572f267cb092f825efc49e3b035305cbe</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_001590.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816316</mtime>
+    <size>6728</size>
+    <md5>e348849146de72814e45bdd5f64e786a</md5>
+    <crc32>6c99c728</crc32>
+    <sha1>e3bf99d7b3aee580c01d41e195e3901de1387565</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_001650.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816318</mtime>
+    <size>6721</size>
+    <md5>8ed8a2eb7badcbeeff750a3405415980</md5>
+    <crc32>e0a0df86</crc32>
+    <sha1>58ee28f8ca392f60dc50d09cf2be08d7023c4e92</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-5_001710.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-5.wmv</original>
+    <mtime>1391816320</mtime>
+    <size>6577</size>
+    <md5>5c3fed4886a1858f0b308f9536491fa5</md5>
+    <crc32>8b7ea407</crc32>
+    <sha1>49b00e4d80084d42a214f99723dfcf456d8e1f58</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816451</mtime>
+    <size>1264</size>
+    <md5>8316a645b21e1b1727eb071ed9f74dc9</md5>
+    <crc32>a729e3f4</crc32>
+    <sha1>d543f5362ff4fa3aa219c5a7f67616098d544093</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816451</mtime>
+    <size>1893</size>
+    <md5>bca02f331474beffddea2736fad16948</md5>
+    <crc32>52da55be</crc32>
+    <sha1>b0be3db61f917657ef8f3513fa39286230e53438</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816454</mtime>
+    <size>5411</size>
+    <md5>20e1b1220ab6a8ea1c8d4df51aacd376</md5>
+    <crc32>717ca6fb</crc32>
+    <sha1>dd4ebce9ef301e3c09fb0151b858cb285158a7fb</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816456</mtime>
+    <size>5479</size>
+    <md5>0d1eeb1644d0bc0def2a9bf0b37820e2</md5>
+    <crc32>8a193a4c</crc32>
+    <sha1>c4b4df15deb4ea0353b77077389d57df63cb43be</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816458</mtime>
+    <size>5430</size>
+    <md5>9a115a5d03612ebc777d088da8cdea59</md5>
+    <crc32>174ef28e</crc32>
+    <sha1>25a3a4a0fb833732de542632dd3732fe86fd129f</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816460</mtime>
+    <size>5398</size>
+    <md5>860dc71cc52fb5528e70ed8c953149a8</md5>
+    <crc32>4bc46295</crc32>
+    <sha1>5ca56f2ac93fd3699d949528c32af72124a15fc6</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_000330.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816462</mtime>
+    <size>6843</size>
+    <md5>8fe602152596d909678e947584e19d23</md5>
+    <crc32>65ca2d6d</crc32>
+    <sha1>135a40e5b1c3ec7852b15887c4343944014747b9</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_000390.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816465</mtime>
+    <size>6929</size>
+    <md5>fa36ac4e75de76095405b7e80c622d97</md5>
+    <crc32>3c671c8d</crc32>
+    <sha1>74c301e185a04d644da70309867cf3cc2462a17a</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_000450.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816467</mtime>
+    <size>6826</size>
+    <md5>f0171adbee2bd768e383e84cbdf73b10</md5>
+    <crc32>b53572fd</crc32>
+    <sha1>3272d6982aa1c0ace3fe5e7ff8a23d1399a8bae2</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_000510.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816469</mtime>
+    <size>6650</size>
+    <md5>50d9259998d796cf6ff681d70532b923</md5>
+    <crc32>2af2b034</crc32>
+    <sha1>006d14c9f27ce32224c991344802941277383362</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_000570.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816472</mtime>
+    <size>6614</size>
+    <md5>c4d582384d823f9d2aae07e88cef3161</md5>
+    <crc32>293969a2</crc32>
+    <sha1>d14ab1ad164c797ad7582b487f9a01a77d990f1e</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_000630.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816474</mtime>
+    <size>6727</size>
+    <md5>6dcdd0361091528a865b125e59659cc8</md5>
+    <crc32>e888da95</crc32>
+    <sha1>61c9ac63631ca68e7355df3544ec672ef7d2cd9c</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_000690.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816476</mtime>
+    <size>6476</size>
+    <md5>38e28e7f01c74a54b5286e07d88eee03</md5>
+    <crc32>17f59e45</crc32>
+    <sha1>33d5b9ae60c5ef24279632cf3f1ee3dd272f0f0f</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_000750.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816478</mtime>
+    <size>7014</size>
+    <md5>e55bc9feb3060c7b974a77f39ece16d8</md5>
+    <crc32>d1b12544</crc32>
+    <sha1>d785e0120dd10239559f8dc565b94795f4a4bdad</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_000810.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816481</mtime>
+    <size>6772</size>
+    <md5>762954353cc90f71b44160025da5c476</md5>
+    <crc32>a1d8e369</crc32>
+    <sha1>7cd0cc723be72e48c4bcf1488e7a47969c3fd4ef</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_000870.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816483</mtime>
+    <size>6838</size>
+    <md5>2ec9d1844a1dd8c66867b7113f33ffad</md5>
+    <crc32>1d5b4346</crc32>
+    <sha1>2089d066a1d17fdfdd2a355f145f23a5276fb1cd</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_000930.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816485</mtime>
+    <size>6750</size>
+    <md5>121b262395171828a8caf5396c053b90</md5>
+    <crc32>8c6020d0</crc32>
+    <sha1>cd426e1a8c8ca3e49b04a3a292f28ae02f755fc7</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_000990.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816487</mtime>
+    <size>6692</size>
+    <md5>a0733da31a684cb6726299202e44ae46</md5>
+    <crc32>e98e093f</crc32>
+    <sha1>4b526420da03e90b66f4946dc0bfa3281b3b67cd</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_001050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816489</mtime>
+    <size>6617</size>
+    <md5>17f9ee8eb2173ca072adcb2d2995bbbe</md5>
+    <crc32>590cb4e9</crc32>
+    <sha1>b5f0e162d367b3687b9cb9fce2fc08b9ac434074</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_001110.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816491</mtime>
+    <size>6671</size>
+    <md5>c3ab017f341f40ed59f34f499eebd41b</md5>
+    <crc32>d3d9e42e</crc32>
+    <sha1>97b9ba538ecd3c89777d2c508bb82db8cda6746c</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_001170.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816493</mtime>
+    <size>6638</size>
+    <md5>c7e4717e5b3e20310d39906075d88780</md5>
+    <crc32>b20a750e</crc32>
+    <sha1>24eb713798cc27fef74a604b27ebe1f84e31a6a9</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_001230.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816495</mtime>
+    <size>6686</size>
+    <md5>3d1e3c918fdbccb10c0b979f862abe4d</md5>
+    <crc32>b09f306e</crc32>
+    <sha1>926a865ba0d5a8c57cc36bb9e35f04608ef886c7</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_001290.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816497</mtime>
+    <size>6776</size>
+    <md5>ee036bc6e1a5fffcdb379be04319c925</md5>
+    <crc32>340440c4</crc32>
+    <sha1>de2fe05c746ab966601536d001af94f4a0618b2b</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_001350.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816499</mtime>
+    <size>6784</size>
+    <md5>7e77beab9547e9706fcaac6e7b1e1930</md5>
+    <crc32>1c9e998c</crc32>
+    <sha1>bc71cf40cef93107e6c2f343e6acb9bd04b3f247</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_001410.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816502</mtime>
+    <size>6703</size>
+    <md5>aa1c89a164155e0ef6cfc7bc80109173</md5>
+    <crc32>b9380260</crc32>
+    <sha1>2d97eabcdf7a0d920ea19b833dc84ed42dd69e08</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_001470.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816504</mtime>
+    <size>6702</size>
+    <md5>2fbafd64cd222df98807ce43b28bdf40</md5>
+    <crc32>1e77c623</crc32>
+    <sha1>0b22885757388e41d4ed7744dbc6f7b4d67c4821</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_001530.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816507</mtime>
+    <size>6705</size>
+    <md5>22f9706b63360349efecefb102bc9534</md5>
+    <crc32>b8818c11</crc32>
+    <sha1>827739c3ba94f0458dc7126bcedf60df510e9f73</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_001590.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816510</mtime>
+    <size>6798</size>
+    <md5>51a75b2a90c7263077e7adc344817694</md5>
+    <crc32>05894a18</crc32>
+    <sha1>cff39bddd5112e0938ee2edf6b07dcc40a8100e5</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_001650.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816512</mtime>
+    <size>6843</size>
+    <md5>5d68ccaf3a6c0beeffbae4c5f5acc6b7</md5>
+    <crc32>289e86e7</crc32>
+    <sha1>23ef399b558ad7de620a78b7fff3aac7f5ee2319</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_001710.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816514</mtime>
+    <size>6988</size>
+    <md5>e2f86e59ccb9d6aba88956bab3e2cfca</md5>
+    <crc32>7b25dbb7</crc32>
+    <sha1>4523bc23dc0899e2ff202a4332bf31c885914b0e</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_001770.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816516</mtime>
+    <size>6807</size>
+    <md5>dba4ff38ffcae915d145050750e7ca03</md5>
+    <crc32>c8b013dc</crc32>
+    <sha1>22edaad0cbafe02653949ba8844336a5492038ce</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_001830.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816518</mtime>
+    <size>6856</size>
+    <md5>b546f14a8b4fdef54634a0c55f2135a2</md5>
+    <crc32>60e45726</crc32>
+    <sha1>029d2c53e4f1cce516ecf10513b2a2b78f26753f</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-6_001890.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-6.wmv</original>
+    <mtime>1391816520</mtime>
+    <size>6918</size>
+    <md5>e8d3bbe6cd04e16716486fbff1ea5e68</md5>
+    <crc32>998429b5</crc32>
+    <sha1>113e4e210a7f1632d94ef2fcc0347810ccd3d48c</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816386</mtime>
+    <size>1273</size>
+    <md5>7d9e4bb643829215baa62d3a5ea0c61f</md5>
+    <crc32>821888cc</crc32>
+    <sha1>8e2cc8ba783649759f8b1edcecd3fc622dc45186</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_000030.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816387</mtime>
+    <size>1735</size>
+    <md5>d66219279f262ea66dcfed75fc48010e</md5>
+    <crc32>72831268</crc32>
+    <sha1>217d8ade32e79c574e72a7cafee20ca9f6ef4c52</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816389</mtime>
+    <size>5170</size>
+    <md5>86a00293b4ae7b58c97e5a83d6ec19a7</md5>
+    <crc32>4c1e97a0</crc32>
+    <sha1>9d1d434d35c85e8bb37526ec5b5ea0f63aa93bcf</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816391</mtime>
+    <size>5445</size>
+    <md5>580cbe8beed3282ddbd07f0738895897</md5>
+    <crc32>02538e0f</crc32>
+    <sha1>9592051557797cf43dc7f947b573b4afa11035b8</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816393</mtime>
+    <size>5257</size>
+    <md5>d4ad36a01f74c12992e4ca6c8cb03209</md5>
+    <crc32>caa41f1f</crc32>
+    <sha1>77a188db2f4e93f48799ae6e2cd625ec33e990e6</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816395</mtime>
+    <size>5449</size>
+    <md5>66b00fae12d372ec9216cd4162f594c1</md5>
+    <crc32>e541491b</crc32>
+    <sha1>79036a4116864f4fe72f27c582344a7e0cdd6004</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_000330.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816397</mtime>
+    <size>7642</size>
+    <md5>93db0d00c8de8025a88e892682d84595</md5>
+    <crc32>5bb71e1c</crc32>
+    <sha1>f0ea8138f206ae7a119ff427ecd1e8460c09cf82</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_000390.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816399</mtime>
+    <size>7917</size>
+    <md5>8135ac8eaa98a8ced556354bf35d7c41</md5>
+    <crc32>01e405b1</crc32>
+    <sha1>3a9718447c61aba5a28282e5cbd0cadf814475cb</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_000450.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816401</mtime>
+    <size>7837</size>
+    <md5>72928834130438a56f202d7d2f76cf25</md5>
+    <crc32>5a4de5c2</crc32>
+    <sha1>b9b93eb63dc6d2317ad890c3fa544c687f9331f0</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_000510.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816403</mtime>
+    <size>7721</size>
+    <md5>5a2a76b49afb2c0d117877b46f50f090</md5>
+    <crc32>1ae51288</crc32>
+    <sha1>c5a46feafe41f176693681709a0a3a57489d6308</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_000570.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816405</mtime>
+    <size>7621</size>
+    <md5>ede12fe13283c63e1fbed791ab158ff8</md5>
+    <crc32>75520d17</crc32>
+    <sha1>d59ccb289dc144f98e9923514c4e2343f589ae70</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_000630.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816407</mtime>
+    <size>7857</size>
+    <md5>2bfe7dee581dd9a3da72c72092a94804</md5>
+    <crc32>73006ca9</crc32>
+    <sha1>687b0bba6a479d92ca5682204481c5222fdd25ef</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_000690.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816409</mtime>
+    <size>7497</size>
+    <md5>83c91d2c4a192140881d04d0052aed1e</md5>
+    <crc32>4ac88a93</crc32>
+    <sha1>519d43087851e8711816d897b4f6fc80bf2dd6a6</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_000750.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816411</mtime>
+    <size>8646</size>
+    <md5>19fae5c2e47f05bc472fd646b8c32093</md5>
+    <crc32>daa2d6f2</crc32>
+    <sha1>a064c90b22ec7396eb86c779baea40d407305299</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_000810.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816413</mtime>
+    <size>8504</size>
+    <md5>744a05fedd918fe5ddd132b2759fdf75</md5>
+    <crc32>a462f35a</crc32>
+    <sha1>3c8e45dfb653c24ecc37b2a827c516a1eca377ef</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_000870.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816415</mtime>
+    <size>8627</size>
+    <md5>9830b5a488549751d94c804122bfaa07</md5>
+    <crc32>24256a33</crc32>
+    <sha1>c242161183cdfb9b530edc322e1e1a5e79c4d675</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_000930.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816417</mtime>
+    <size>8674</size>
+    <md5>5e67890ee36e6d344e459af906d65eea</md5>
+    <crc32>168a71da</crc32>
+    <sha1>04a4128c45dc997d413ff49615eb2b66dcb5ade1</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_000990.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816419</mtime>
+    <size>8486</size>
+    <md5>5cc1952a681fc4e6e6e4f81b3e544827</md5>
+    <crc32>b1074592</crc32>
+    <sha1>e53b4a1895c13c2cfde025b30016fb2af98a64d2</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_001050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816421</mtime>
+    <size>8801</size>
+    <md5>bafbf14db659bbb385e4f970950cfb9f</md5>
+    <crc32>2772981f</crc32>
+    <sha1>4a1f13c3678f648aae66a35833a3b292691f9c2e</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_001110.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816423</mtime>
+    <size>8475</size>
+    <md5>63ff9ed8f903edd136fb853c2acae0e8</md5>
+    <crc32>db2d9a8c</crc32>
+    <sha1>4b820f23459339806f15329a8a0b69a8e5aee8b6</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_001170.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816425</mtime>
+    <size>8491</size>
+    <md5>8de70265baa68ab820963142f796d316</md5>
+    <crc32>998a4cfd</crc32>
+    <sha1>d92c7f61ab412c9e8781edbfdd5dac4ca03c3ef4</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_001230.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816427</mtime>
+    <size>8269</size>
+    <md5>a308d48b3843c05f3d3732886379f10d</md5>
+    <crc32>97ed084a</crc32>
+    <sha1>63b5f7c4ff1d10d96e5fb821e9f16c6e474cfbe6</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_001290.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816428</mtime>
+    <size>8548</size>
+    <md5>71a54a7620e975bc17a0a397cc61cf43</md5>
+    <crc32>915e3672</crc32>
+    <sha1>04f54ca977fa53d1755aa626b25e6069adba23a2</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_001350.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816431</mtime>
+    <size>8485</size>
+    <md5>a0e2ce15af5a67fab5ccaa1fc26202c9</md5>
+    <crc32>5d56ae41</crc32>
+    <sha1>7505ce0488f96688365a2d934e552e88c04f9e2d</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_001410.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816432</mtime>
+    <size>8539</size>
+    <md5>e3affa6a2940bf2ed483d075bd9ed744</md5>
+    <crc32>eef9ab16</crc32>
+    <sha1>c37e9b490fc7e8b9ffbe868813ba6dc1686a7dea</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_001470.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816434</mtime>
+    <size>8511</size>
+    <md5>ffd356503a99f75cb7684bfbdebb8a23</md5>
+    <crc32>59538871</crc32>
+    <sha1>2e86759f2c496fe8be393af8affe2e6e3a1a6d0b</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_001530.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816436</mtime>
+    <size>8491</size>
+    <md5>6e9568dc991278162e19ca42b62337f2</md5>
+    <crc32>2b1808e3</crc32>
+    <sha1>774c716f25798e59222a72364bda2d67890d08d7</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_001590.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816438</mtime>
+    <size>8386</size>
+    <md5>1d210000084e2095d75cab7cc6d0bdbd</md5>
+    <crc32>47f24699</crc32>
+    <sha1>da33f191dafb61679ee42cf0d2f3c01ddebe1d9a</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_001650.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816440</mtime>
+    <size>8404</size>
+    <md5>899ef5dfcd4acfa634b936139b669952</md5>
+    <crc32>ce205db5</crc32>
+    <sha1>51ac2b967a40883f746633cc98f7fc998f64e7d1</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_001710.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816442</mtime>
+    <size>8605</size>
+    <md5>8f963e788fe677baf07505d7586bb68e</md5>
+    <crc32>e5464283</crc32>
+    <sha1>1109c68150952aed4020bb3196862fc83d4868ee</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_001770.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816444</mtime>
+    <size>8658</size>
+    <md5>9c5f2e47865e748980d49b5c9e98d15c</md5>
+    <crc32>b372b2d3</crc32>
+    <sha1>850470b4ebc643407cbc128a6ee7850ede533553</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_001830.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816447</mtime>
+    <size>8710</size>
+    <md5>9415379af478934e319d8fbbdabebfd2</md5>
+    <crc32>2a023abf</crc32>
+    <sha1>365e401fcc5cfb3f79c13d301e6f6e414ae82499</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-8_001890.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-8.wmv</original>
+    <mtime>1391816449</mtime>
+    <size>8509</size>
+    <md5>a10ae6d97f6a7d26c46c3cf9cc9575dd</md5>
+    <crc32>1dafdcf8</crc32>
+    <sha1>0f7be6d33f97376dbc01d693bda864505a548c30</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816136</mtime>
+    <size>1167</size>
+    <md5>139445efa7f6c8106f7ed988b6468903</md5>
+    <crc32>acd7f5a2</crc32>
+    <sha1>3c34dc477eee6baa09c7e8670632473104d5c368</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816138</mtime>
+    <size>1292</size>
+    <md5>ef435a430c1cbe327fefe0bfab3683b1</md5>
+    <crc32>13aa1e22</crc32>
+    <sha1>817928aa52d9e9a1b9fea6661206f17262db4c7d</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816141</mtime>
+    <size>1989</size>
+    <md5>e50aa6f8dbc1e221fa0302e1a5a28f2e</md5>
+    <crc32>3d57ce94</crc32>
+    <sha1>febd90eb39ecba881bd0b91961bd6c381de0d709</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816143</mtime>
+    <size>5894</size>
+    <md5>67a61d8307d38e68a36a4ed57dabfdee</md5>
+    <crc32>720bc927</crc32>
+    <sha1>d6f8a14d4c8a5a60ccd48654a4324420eee3f5fd</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816145</mtime>
+    <size>5935</size>
+    <md5>310923783354eb9d439ef714c1dc1747</md5>
+    <crc32>d2250f0c</crc32>
+    <sha1>0e6b0e621fb0bf741b9efe185056270bc623fbb8</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_000330.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816147</mtime>
+    <size>6084</size>
+    <md5>5186ec6230277c54634873dd370f6859</md5>
+    <crc32>4dbaa3ca</crc32>
+    <sha1>545870cd305953d51de8dff345635a79f77c19cd</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_000390.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816149</mtime>
+    <size>6115</size>
+    <md5>1cd93cfd31ab365c50174b0d893b398c</md5>
+    <crc32>7b74307d</crc32>
+    <sha1>41414a95f504dcae4862e4f80c1734afff95758d</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_000450.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816151</mtime>
+    <size>5970</size>
+    <md5>823a5a13cfa775ada052e8fffe65badc</md5>
+    <crc32>e04a51da</crc32>
+    <sha1>579c9a61739850e22c369f6117320b55f247a945</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_000510.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816153</mtime>
+    <size>7421</size>
+    <md5>44f890fffa30349828759daf727d8aa4</md5>
+    <crc32>9d747673</crc32>
+    <sha1>145004dd3d4414e59b2855381cb3d003849b4447</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_000570.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816155</mtime>
+    <size>7538</size>
+    <md5>6ce5963f271ba5baf21453800e466eaa</md5>
+    <crc32>0a56593f</crc32>
+    <sha1>680ebc7b0164d9b8bfdce198c8cdcb37225bd4a9</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_000630.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816157</mtime>
+    <size>7576</size>
+    <md5>90f0f6da0a31445e29f3c85d5bee0006</md5>
+    <crc32>5559ae04</crc32>
+    <sha1>57b00ee45860e720aa9acc4d0b03f39667842ea4</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_000690.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816159</mtime>
+    <size>7683</size>
+    <md5>82dbd3f6a3c09c36c2cc9cdcc3a4dd2c</md5>
+    <crc32>731a2c15</crc32>
+    <sha1>c7375223cce4c1d285695981f9bf2a9ef70ebe35</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_000750.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816161</mtime>
+    <size>7583</size>
+    <md5>0f2c3491144f791a9e6948e9a4ac7144</md5>
+    <crc32>a46f474e</crc32>
+    <sha1>c974e630e5213962bf6dafd3bde1910c733eff16</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_000810.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816163</mtime>
+    <size>7593</size>
+    <md5>c582c38173e9af5c8207cae07421174c</md5>
+    <crc32>f0cbbca2</crc32>
+    <sha1>97c691e877e13ed5782d32b6fd542bc5e0e4bdd6</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_000870.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816165</mtime>
+    <size>7557</size>
+    <md5>3872431dfc413758f4ea36da7a4e4c4c</md5>
+    <crc32>b9c97073</crc32>
+    <sha1>7cf777600a6f730d384460755849930461ecb79a</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_000930.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816167</mtime>
+    <size>7405</size>
+    <md5>87ea6050f16aa0ddbbb09ecf0c0e946c</md5>
+    <crc32>6f92cc3a</crc32>
+    <sha1>dd77c580927e2548edfaa06db03a67b630ff1305</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_000990.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816169</mtime>
+    <size>7438</size>
+    <md5>3c57b2dd6cfa97192173ea92d0fb75b3</md5>
+    <crc32>6ae3f16d</crc32>
+    <sha1>c915511fdb8470bd3ba3d5da33a3f9ba372779d5</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_001050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816171</mtime>
+    <size>7640</size>
+    <md5>d18dc18be44436007e0525c531ffe5c7</md5>
+    <crc32>0908cb31</crc32>
+    <sha1>9ab4e88f655eeaca653a6eab6a1a7506c2dfeb26</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_001110.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816174</mtime>
+    <size>7343</size>
+    <md5>4d99af3be55b38d8df79e8b8800fb5e0</md5>
+    <crc32>29c5e01f</crc32>
+    <sha1>fff5ec9642a9e3f1cbbda15582947e56edaff691</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_001170.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816175</mtime>
+    <size>7489</size>
+    <md5>2e23643679bbe0fff42ccc29228ecf20</md5>
+    <crc32>17d7490b</crc32>
+    <sha1>e871d8875f26a9036797ef18e117eee6cbab74e1</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_001230.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816178</mtime>
+    <size>7680</size>
+    <md5>5908be1e3a1a8ed58c0048d31ac21544</md5>
+    <crc32>37c8e1d4</crc32>
+    <sha1>c4ff2b31b642317066f4cc491dc27351427a0558</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_001290.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816180</mtime>
+    <size>7689</size>
+    <md5>3ea3529625cb8ec3d51a407123333536</md5>
+    <crc32>eee8df0a</crc32>
+    <sha1>8d8b74278c9602391cea9ae2a199cb97955bbd45</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_001350.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816182</mtime>
+    <size>7389</size>
+    <md5>a579b1994a7efdb34ac1fc87ee71b576</md5>
+    <crc32>fba1a5d2</crc32>
+    <sha1>f2fcda9372783798952f430dfd3f3adc3dae78b5</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_001410.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816184</mtime>
+    <size>7614</size>
+    <md5>b3f3a8ffc8f7fdb8c1cab365e13208e0</md5>
+    <crc32>945259c1</crc32>
+    <sha1>a10b1ad403bf3f9bcdb4d14deb62cd61788f82b9</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_001470.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816186</mtime>
+    <size>7577</size>
+    <md5>c7eb3778fbbd6d1c6011c499bc1323e1</md5>
+    <crc32>74d27895</crc32>
+    <sha1>022eec1d48570bee8d3dace467448119aed908db</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_001530.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816188</mtime>
+    <size>7576</size>
+    <md5>950930887559139a0dfa48336580bdb5</md5>
+    <crc32>f927c81a</crc32>
+    <sha1>ed63193f007419fafa8dbc17002abaa11b3455dd</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_001590.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816190</mtime>
+    <size>7609</size>
+    <md5>826ff3e9bc8b52825dd2fe18ae4b66b5</md5>
+    <crc32>2a87264e</crc32>
+    <sha1>77e7b5b63b597769b8cfac88b3217e948969f29b</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_001650.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816192</mtime>
+    <size>7458</size>
+    <md5>b7a4d54786dba711dcc8985b0898ad22</md5>
+    <crc32>221768d6</crc32>
+    <sha1>f32eee62bb86f35a81171c5389433a436ed6d73d</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_001710.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816194</mtime>
+    <size>7709</size>
+    <md5>ba06632a3de99471cac26ce2968f3f72</md5>
+    <crc32>9e747b74</crc32>
+    <sha1>787c8e69de2c0d247d32abc671a3c75dc518d46a</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_001770.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816196</mtime>
+    <size>7393</size>
+    <md5>93b8b76a01985e077294c56649706dc7</md5>
+    <crc32>46da5671</crc32>
+    <sha1>16e8da6f29595b94d4a308920c13c6f209512521</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00-9_001830.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00-9.wmv</original>
+    <mtime>1391816198</mtime>
+    <size>6353</size>
+    <md5>3789e4dd16bd77141f5b8c9b480f8fce</md5>
+    <crc32>14c2f61a</crc32>
+    <sha1>9bd6010ee1f7ea73393b335531fdb834af26df09</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816582</mtime>
+    <size>1167</size>
+    <md5>5c544206b29eb066e3e34b7e0a4a39fc</md5>
+    <crc32>e669ed58</crc32>
+    <sha1>0106b3db6ab1b529972cfca6a2324292a1cf1287</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816584</mtime>
+    <size>1211</size>
+    <md5>177166a55028a21c245ea32bcaa5550b</md5>
+    <crc32>d2da31c3</crc32>
+    <sha1>6fa5dfc98073a2e9a2be06ac569d691c65203417</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816586</mtime>
+    <size>5335</size>
+    <md5>89935ec29b3dbf988f667928a0072c41</md5>
+    <crc32>b8a83525</crc32>
+    <sha1>b604be6caed806e2b051a708f0ae7f9a5455eb6b</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816588</mtime>
+    <size>5370</size>
+    <md5>1ca3148eafd273d75a0de8ef4c97ed2b</md5>
+    <crc32>c71f9c09</crc32>
+    <sha1>f2300060ec00e1d52f14349c0e100dad69e21acd</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816590</mtime>
+    <size>5380</size>
+    <md5>72d000b72554b7ebe9b6afd373252a3d</md5>
+    <crc32>ac6881ea</crc32>
+    <sha1>eaf9cb8218ec094baf28abeaad624b8cf38b6b4e</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_000330.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816592</mtime>
+    <size>5369</size>
+    <md5>f40d5a65c3fb57aeecd943785853dac8</md5>
+    <crc32>6a29faf1</crc32>
+    <sha1>f13b02585dac6aeebc4d1b591db840b426f19ae1</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_000390.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816594</mtime>
+    <size>6555</size>
+    <md5>cbf7af7c2cfe399eb972971f3ddf3e6e</md5>
+    <crc32>e7fb49c0</crc32>
+    <sha1>e6fc4778bcb1a30e51196230dc4bab5c2338c271</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_000450.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816596</mtime>
+    <size>6698</size>
+    <md5>c0b364b6961050835a41433b7c5b17a7</md5>
+    <crc32>cd122d88</crc32>
+    <sha1>e5e26f5f803e68c5b9aa2e14a835f721169f97fd</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_000510.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816598</mtime>
+    <size>5395</size>
+    <md5>e91e0687726245d59d937db2e6d2b194</md5>
+    <crc32>373e2ab0</crc32>
+    <sha1>3b20f5b2f19d7c13fa0e8922000accc909019f96</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_000570.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816600</mtime>
+    <size>6683</size>
+    <md5>466cb659b6f92f1ce96e746d501fd99f</md5>
+    <crc32>7efe7020</crc32>
+    <sha1>50bc5eb73c27c25672e0a886d76f73e7f7d2dffa</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_000630.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816602</mtime>
+    <size>6649</size>
+    <md5>212e2197031cb6a746a862218f33471b</md5>
+    <crc32>fd7ef3da</crc32>
+    <sha1>073e6b6a42de5602a1d77d2ead792926a4469843</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_000690.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816604</mtime>
+    <size>6675</size>
+    <md5>c4ba45474a3aeb66abe51c6a441cb573</md5>
+    <crc32>d0c3c988</crc32>
+    <sha1>a3b1702d4b5a7508213f2136ee18072164c51e5b</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_000750.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816606</mtime>
+    <size>6629</size>
+    <md5>eed671fac6cbf0b7bd8dbfa687630ef2</md5>
+    <crc32>4a6e8dc5</crc32>
+    <sha1>d02a257bad74e4dcaaa48dc8d0b38e3161caa6c7</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_000810.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816608</mtime>
+    <size>6571</size>
+    <md5>efc66f1312de7f85a58a831535ef163f</md5>
+    <crc32>ee0a8f4e</crc32>
+    <sha1>ad797b721df00a1cbdb7c2a1c3dfe7c2bfab2704</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_000870.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816610</mtime>
+    <size>6542</size>
+    <md5>52e5d34ebc813530b8d255dda7557feb</md5>
+    <crc32>31fa80cf</crc32>
+    <sha1>758059bea0ee63dcba0d3c9225e292b7e23bb533</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_000930.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816612</mtime>
+    <size>6694</size>
+    <md5>0981393aefc69882a4200acbd9dfec43</md5>
+    <crc32>ea55285a</crc32>
+    <sha1>88e873011a672536d098f22e3d27c36360f11a68</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_000990.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816614</mtime>
+    <size>6640</size>
+    <md5>0b0a348e6450650dc5126c8f3a5667df</md5>
+    <crc32>79ca6dc1</crc32>
+    <sha1>c1f683cc0bbeee2ebeebf0178d594394cfcf8656</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_001050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816616</mtime>
+    <size>6730</size>
+    <md5>30406bfd080f4e970d53914576955d23</md5>
+    <crc32>4081e451</crc32>
+    <sha1>e624ae80a8c34e510caabc1b75469803364eb13c</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_001110.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816618</mtime>
+    <size>6588</size>
+    <md5>bdadf608a13c95ffa41d90061f2a0f9b</md5>
+    <crc32>707f1854</crc32>
+    <sha1>1f8794d05a941f7fbb826a90bb97bf4ef12abea6</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_001170.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816619</mtime>
+    <size>6556</size>
+    <md5>928ebdbac8d2a13213b9533c9536eeed</md5>
+    <crc32>d94cff4e</crc32>
+    <sha1>5e2ff408d099f84f70841b4a7a3332290a50032d</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_001230.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816621</mtime>
+    <size>6495</size>
+    <md5>73906ac9b93d2560cac113ad2b80e0e9</md5>
+    <crc32>7ffeea70</crc32>
+    <sha1>6e0bd35793d108e4999f0a04db3179d2958c734d</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_001290.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816623</mtime>
+    <size>6643</size>
+    <md5>87a30a9eaaaa4d8f381547042ba7456b</md5>
+    <crc32>35eab836</crc32>
+    <sha1>fa1b1ad14b35fed353a7b58b3feb92ab9a134cab</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_001350.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816625</mtime>
+    <size>6542</size>
+    <md5>d6c0671f8a779531d9e324b2f5dc6a97</md5>
+    <crc32>4fb3949c</crc32>
+    <sha1>f556e2ae21ba271f9d219266ed336fd00584981b</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_001410.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816627</mtime>
+    <size>6594</size>
+    <md5>a44af260dd35ac20e0655746d594d317</md5>
+    <crc32>c0abd883</crc32>
+    <sha1>5e8d04c5bce1ffc56d0aa72ba40955d4df82a483</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_001470.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816629</mtime>
+    <size>6481</size>
+    <md5>15cf167e9ba67b340c642fbe7478f368</md5>
+    <crc32>588e7b7b</crc32>
+    <sha1>43cd5b17b97488bcc8d1da86e4e02797d1d76b12</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_001530.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816631</mtime>
+    <size>6126</size>
+    <md5>86bbd550010fce9b2ef7f5ee9f5a810b</md5>
+    <crc32>80255b61</crc32>
+    <sha1>93e7945a47f2f342dc4d6e3e7b9341859178efe9</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_001590.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816633</mtime>
+    <size>6095</size>
+    <md5>ab1be4722f2037a4de5931ac5cf9cc50</md5>
+    <crc32>980033ac</crc32>
+    <sha1>e53d5c994c5b2a7e180332bf4ed1b64262e13567</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_001650.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816635</mtime>
+    <size>6072</size>
+    <md5>de3513a5841b4f458a5fd5dfa212be9d</md5>
+    <crc32>5a5f21e6</crc32>
+    <sha1>f310ae5b0b9f2656982acba4febc79edf6ec6a15</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_001710.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816637</mtime>
+    <size>6154</size>
+    <md5>5b9555b43244f40f528baa267c9ded70</md5>
+    <crc32>63ce1295</crc32>
+    <sha1>8da934c64d77ba222b1c39e03a66cb32247d498d</sha1>
+  </file>
+  <file name="tobacco_bfk52b00.thumbs/bfk52b00_001770.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>bfk52b00.wmv</original>
+    <mtime>1391816639</mtime>
+    <size>6204</size>
+    <md5>5c860effc631184e0916bd2fe993c758</md5>
+    <crc32>170b6e53</crc32>
+    <sha1>f826fed3a4150cd8f245094ede672181de7e0dbc</sha1>
+  </file>
+  <file name="tobacco_bfk52b00_archive.torrent" source="metadata">
+    <btih>c6fd51d45bea143c5feb13f5a4a59b89cb07f573</btih>
+    <mtime>1686015955</mtime>
+    <size>42071</size>
+    <md5>75abdb2742f2f6ec247db875b09c877d</md5>
+    <crc32>7cbb7de2</crc32>
+    <sha1>ea0d72c1f5a4b36697c281b45d954dbf33a0497f</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="tobacco_bfk52b00_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d71a4eb7935b30a287a48f834276c5b7</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="tobacco_bfk52b00_meta.sqlite" source="original">
+    <format>Metadata</format>
+    <mtime>1391815582</mtime>
+    <size>24576</size>
+    <md5>e765ebfdff4667e57f1eb353fc081cc4</md5>
+    <crc32>5d507d5f</crc32>
+    <sha1>50e52226ab54e442505e1488db851e2a4e849023</sha1>
+  </file>
+  <file name="tobacco_bfk52b00_meta.xml" source="original">
+    <format>Metadata</format>
+    <mtime>1686015953</mtime>
+    <size>1286</size>
+    <md5>c619db6dea444e63e3c17b900e1d24cb</md5>
+    <crc32>090819d7</crc32>
+    <sha1>50f6a1212db4ce47f749a646ebccc50247e23470</sha1>
+  </file>
+</files>

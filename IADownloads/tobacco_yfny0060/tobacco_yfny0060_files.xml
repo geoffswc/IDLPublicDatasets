@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="_HOUR_00_yfny0060.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626216006</mtime>
+    <size>463352</size>
+    <md5>f4bfe9c94f08f5cdb37c3259d8f558e8</md5>
+    <crc32>5f2b8209</crc32>
+    <sha1>777f7e41e563f97afbacdd4288a53eb26acb35e9</sha1>
+  </file>
+  <file name="_HOUR_01_yfny0060.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626216021</mtime>
+    <size>230256</size>
+    <md5>0c24bb6d3a5ca9d635c11b5956785ea8</md5>
+    <crc32>1558b39e</crc32>
+    <sha1>7f80ec36ae62f3a1ae702635b0abeb0b01513003</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1626216104</mtime>
+    <size>7784</size>
+    <md5>f0d08e9314698e0da82249a80b048356</md5>
+    <crc32>08cf61ce</crc32>
+    <sha1>2403271d6c84290a474f626d407eea8f0fc2a1b4</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212655</mtime>
+    <size>23039</size>
+    <md5>95c8b91daac15c86d581e8effd5cf242</md5>
+    <crc32>5d2976a7</crc32>
+    <sha1>549b95cfa1787cb03806c6e165a9cec45c1025d9</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_000114.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212663</mtime>
+    <size>27203</size>
+    <md5>f24d4307caae1b150e60a06fe4172f50</md5>
+    <crc32>d74951fc</crc32>
+    <sha1>bb28c175cf27d933a5282b3be57f30435c21676f</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_000174.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212672</mtime>
+    <size>26912</size>
+    <md5>cc3c6b807950d4c3a8d0b65163421ec7</md5>
+    <crc32>cf33a1be</crc32>
+    <sha1>c0b886beac5e38806824a39ddcd3a585806b5dcc</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_000234.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212679</mtime>
+    <size>25064</size>
+    <md5>27bc26159f6c5367fcd1eeb240eeae5b</md5>
+    <crc32>182089b1</crc32>
+    <sha1>146f73402454d3bbf51b8ec598be1bfbcdc9ddd8</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_000294.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212687</mtime>
+    <size>23771</size>
+    <md5>b008a699fe4aa65101a858d636a763fc</md5>
+    <crc32>811ce0fe</crc32>
+    <sha1>2af145d972ab041288de10bb4fe4eb7fcd78b516</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_000354.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212694</mtime>
+    <size>23673</size>
+    <md5>b29d861f5a4235c731f9e101ccf09b93</md5>
+    <crc32>b5654880</crc32>
+    <sha1>ebcba23ea2f9b862bf81eae5d15ff93979633e95</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_000414.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212703</mtime>
+    <size>24741</size>
+    <md5>27a009fa4da6fc04c207a414e22bf9d2</md5>
+    <crc32>228799e2</crc32>
+    <sha1>651543135ba7444605cbadaa1240025a5ddd69de</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_000474.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212710</mtime>
+    <size>24406</size>
+    <md5>e5bbb742e924d9022220aaceb68ab6db</md5>
+    <crc32>1a196b80</crc32>
+    <sha1>2123eeacbabf6bd4b4fd341640f12dcd0b23e734</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_000534.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212717</mtime>
+    <size>23441</size>
+    <md5>3aa12861693b3a76adbe8db112a105ee</md5>
+    <crc32>728e88de</crc32>
+    <sha1>2d2b4ec3f5a9c9dc3a4de94989edff9533539b99</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_000594.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212726</mtime>
+    <size>23608</size>
+    <md5>19e67b67e16ebbacd34c0095f3f4a762</md5>
+    <crc32>01121ef1</crc32>
+    <sha1>1d35f1e7553bd0be41d02818285a31ce91f94af1</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_000654.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212733</mtime>
+    <size>24292</size>
+    <md5>9b1c4ea096e2bcba70e7197977799bd2</md5>
+    <crc32>290f8aba</crc32>
+    <sha1>ff90a616613d8dc74fff714eecee1ef6f9b8cb09</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_000714.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212740</mtime>
+    <size>24633</size>
+    <md5>60f90242b9b0781193dd3801e54479ad</md5>
+    <crc32>04d08efa</crc32>
+    <sha1>9ab30ff68c31b827252d9811735020088d9a061e</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_000774.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212746</mtime>
+    <size>28194</size>
+    <md5>848dba5949f23cc1a1afce4860c4fc8c</md5>
+    <crc32>fe0231c0</crc32>
+    <sha1>e36b27b658be1720ecbb8089ddd537f1faa2f771</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_000834.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212753</mtime>
+    <size>24018</size>
+    <md5>3d113ac8a55a85c38dd34ed5837da5cc</md5>
+    <crc32>a3d8f382</crc32>
+    <sha1>c05b33b8c12ca0b56160a9e5a41a3ec4401d3146</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_000894.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212760</mtime>
+    <size>25212</size>
+    <md5>3de8fec94c59a61a0be079051ae0edf0</md5>
+    <crc32>9cf3d676</crc32>
+    <sha1>5326d3564009fd9bc972922463ea1a11615913ae</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_000954.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212765</mtime>
+    <size>26075</size>
+    <md5>e2503e2ff4b811572aa9ecc2124d0056</md5>
+    <crc32>f41ee534</crc32>
+    <sha1>eb47fcb23e50cca5aff827caa66287144a9f834e</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_001014.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212768</mtime>
+    <size>23262</size>
+    <md5>4c5e2190c485c673561c668354ad0903</md5>
+    <crc32>be4ddfb8</crc32>
+    <sha1>25735a836d0c996fbc78f59d049e813a8b9f93df</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_001074.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212773</mtime>
+    <size>23803</size>
+    <md5>1b2802eac68339fedd8de374b2a0788a</md5>
+    <crc32>914cea48</crc32>
+    <sha1>1b505849b137c3c2449940ff459024dcd36ee54c</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_001134.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212776</mtime>
+    <size>23452</size>
+    <md5>5f35f4c19d0e78ab20ee6b2339341b57</md5>
+    <crc32>5106091f</crc32>
+    <sha1>b17142b6301576ebd44218336147ab72049d917b</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_001194.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212780</mtime>
+    <size>25977</size>
+    <md5>318f78d7e243f2b9bb195897f3faf946</md5>
+    <crc32>fb9759fa</crc32>
+    <sha1>aca4ea225bef08dbf506f186e6e81ec0579241bf</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_001254.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212784</mtime>
+    <size>25168</size>
+    <md5>8739ea4d00ef19f1bcb6cbb13d973578</md5>
+    <crc32>2842cff7</crc32>
+    <sha1>c304b44b2e3f024eeb4a1dc5bdae34854834dda9</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_001314.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212788</mtime>
+    <size>27226</size>
+    <md5>ffdfb733677df914cfecf20ca6f77057</md5>
+    <crc32>572a814e</crc32>
+    <sha1>9d42ef792345b62adf51a8168e50579fa35b4718</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_001374.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212792</mtime>
+    <size>26191</size>
+    <md5>0c89e3b6632127e9e4b48b1ea6c46e75</md5>
+    <crc32>4884a68b</crc32>
+    <sha1>8b8e9b6a3564f2dceb2e9314203e9a38d21404e7</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_001434.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212798</mtime>
+    <size>26002</size>
+    <md5>2ea503d8db14c9cac483964b3f803587</md5>
+    <crc32>c88c78cc</crc32>
+    <sha1>8af413d21c00b9e16fba337f7861a5301fca05c0</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_001494.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212803</mtime>
+    <size>26160</size>
+    <md5>730e4303dfef30351d1293a14be6b062</md5>
+    <crc32>32e593b3</crc32>
+    <sha1>ab2e7fbc4cd651c0afcc911cd8e189f0f6d22bd2</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_001554.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212808</mtime>
+    <size>25936</size>
+    <md5>dcd34edc4adfd77e18d09082d04e28d2</md5>
+    <crc32>3ff9f9f5</crc32>
+    <sha1>1da3eaf8c45e83bea2f194b754cafc6d10d947b8</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_001614.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212812</mtime>
+    <size>24441</size>
+    <md5>d61311ce31e00f373b32c0bd750d8545</md5>
+    <crc32>a8b99410</crc32>
+    <sha1>7f18d59eed4c24c4c9b1aac43ad6bdd078ca8300</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_001674.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212819</mtime>
+    <size>24578</size>
+    <md5>4373e1b554663e0ff0def50c282f5863</md5>
+    <crc32>f4a59fc9</crc32>
+    <sha1>3f091303cf522458af2c1174039dacda1aa91f1f</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_001734.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212825</mtime>
+    <size>24477</size>
+    <md5>fbcbc3aa8d012565094814b01161e560</md5>
+    <crc32>71e00ec6</crc32>
+    <sha1>4d7f7db3f4025bcf1f9aab057aba68dbbc5cb29b</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_001794.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212833</mtime>
+    <size>23768</size>
+    <md5>c02e9b971dcbf8bff19225ca22fc40ea</md5>
+    <crc32>529eee9d</crc32>
+    <sha1>19ae54c95bfd298bed0da68938f247efe5ea84a4</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_001854.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212839</mtime>
+    <size>24466</size>
+    <md5>1e7aad5e2d545f750bae87d12ac5f419</md5>
+    <crc32>274875f2</crc32>
+    <sha1>7375cbc06a7c493cfce24f2738b8b3f90a574461</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_001914.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212846</mtime>
+    <size>25068</size>
+    <md5>fb9c3db5267701f32355ac74b3086939</md5>
+    <crc32>482c149c</crc32>
+    <sha1>f1875c426e0d70f4f48f4f735efe54fbdf28e214</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_001974.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212853</mtime>
+    <size>25212</size>
+    <md5>37fef97b8830e6a05831bb93689e0fc3</md5>
+    <crc32>aaf6400e</crc32>
+    <sha1>8e117250ccaac9465b6f627cce913a77f3907c90</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_002034.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212860</mtime>
+    <size>22731</size>
+    <md5>977966dba8a17719bba933ec3a24c2fe</md5>
+    <crc32>6883cd1f</crc32>
+    <sha1>619a3d8c85819aa2c4dd334264837b7eff99b21c</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_002094.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212868</mtime>
+    <size>23860</size>
+    <md5>09602fc208702e2a02b529a2f5466bcb</md5>
+    <crc32>740768c3</crc32>
+    <sha1>11d1a995df25983936ec158813cbe3bf852863fd</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_002154.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212876</mtime>
+    <size>26695</size>
+    <md5>3d52f092e1034e183a81cf8aa09bf533</md5>
+    <crc32>375fe780</crc32>
+    <sha1>cf594bbb7be7ed4850b6bc01d9f8dcd0a5cbad7f</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_002214.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212883</mtime>
+    <size>22980</size>
+    <md5>8e0ef1bdfa93a476abebbf8040da972d</md5>
+    <crc32>737524b5</crc32>
+    <sha1>a91da419158620844c344bb3616b68580db880ce</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_002274.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212890</mtime>
+    <size>26867</size>
+    <md5>fb0a60eea817b2f9591c7b83fe6dfd71</md5>
+    <crc32>87477d8c</crc32>
+    <sha1>48ad30fd973da8e73b3db4e41d504ac95b216ea9</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_002334.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212898</mtime>
+    <size>24187</size>
+    <md5>5dde7b131ef468322d66fb2956c16709</md5>
+    <crc32>b372198e</crc32>
+    <sha1>01f1a67af372db484fd37479b1a7d5ced1993610</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_002394.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212903</mtime>
+    <size>24481</size>
+    <md5>cbf66d6167605e0bee6a8950e5fb0da3</md5>
+    <crc32>2ba4a9b1</crc32>
+    <sha1>7c9c4416e9b92cce5a85132bc7bd918ba2771205</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_002454.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212911</mtime>
+    <size>24801</size>
+    <md5>7750c3b3a6c5540150c4da97c140cd46</md5>
+    <crc32>6d4b9278</crc32>
+    <sha1>eff394dd849b81a56e50aee0d9eb0fc982d61beb</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_002514.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212918</mtime>
+    <size>24685</size>
+    <md5>8c22ac4ce6dd20339dc01394fbd9c45a</md5>
+    <crc32>9aedfc0b</crc32>
+    <sha1>5fd3ea47256ec03bcd505321689faa8d4147bc85</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_002574.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212925</mtime>
+    <size>27002</size>
+    <md5>9f74402ce286658b3f22a54a5c3ddf53</md5>
+    <crc32>9a0f4d85</crc32>
+    <sha1>609210d3b69caab1a2a73639ad6b644c07c81b9b</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_002634.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212933</mtime>
+    <size>23506</size>
+    <md5>e09549039dca885fcb52d78a982ade35</md5>
+    <crc32>7c65a943</crc32>
+    <sha1>2315c3016a595ff541f8e071c303752e1f41ac95</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_002694.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212941</mtime>
+    <size>26683</size>
+    <md5>2ff0f3dc369948eb889e968ba8c250d5</md5>
+    <crc32>d661941c</crc32>
+    <sha1>d9a28ea68efcf481c5b53c04bf7dca5b8a7926d5</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_002754.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212947</mtime>
+    <size>26768</size>
+    <md5>1e22f36d87d8c0a9650014728469ca65</md5>
+    <crc32>e9f26ae4</crc32>
+    <sha1>792d27081261119915d7dde02fdd85f2b8a78878</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_002814.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212954</mtime>
+    <size>29638</size>
+    <md5>46f5e5b5aa21169300784f202711cb23</md5>
+    <crc32>7f5f14fe</crc32>
+    <sha1>79f37f01dc5796440b9edc49d66fb287a1a32554</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_002874.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212962</mtime>
+    <size>26638</size>
+    <md5>f4af920406aaf4767eeff41d469c8a89</md5>
+    <crc32>60e24eec</crc32>
+    <sha1>59cb0d3307801d0a42c83c9a011786e2cdb372ab</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_002934.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212970</mtime>
+    <size>27286</size>
+    <md5>027d73a27d5b8e740c8b1cbce61c5c7c</md5>
+    <crc32>611b1235</crc32>
+    <sha1>0069e0025af10a699c88c1bb6326d2ac8058c5c3</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_002994.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212978</mtime>
+    <size>26664</size>
+    <md5>4ea0852a3c706bbffd65fbc3ff7bb46b</md5>
+    <crc32>0b4f0384</crc32>
+    <sha1>e5da0974a516d5093d4c2e218ad0f762c8130294</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_003054.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212984</mtime>
+    <size>28482</size>
+    <md5>53f9028dfe31008c10b467a508b73986</md5>
+    <crc32>2c03e971</crc32>
+    <sha1>ba03e35a12860b0efb636f1b23046cf1ca1587c0</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_003114.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212990</mtime>
+    <size>27865</size>
+    <md5>8a4bfbacf3e076c444a39395d607e2d0</md5>
+    <crc32>7383e2f9</crc32>
+    <sha1>7200aa984d875bed89152d491e2982e5eac50157</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_003174.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626212997</mtime>
+    <size>26437</size>
+    <md5>94b96ecf298a413e3c93836e25a4cbb8</md5>
+    <crc32>1b67157c</crc32>
+    <sha1>9b5928622e57a41e48df2803b8c78529a45f09fa</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_003234.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213005</mtime>
+    <size>26075</size>
+    <md5>18b59edd3f3948e593fc29d9af779a2d</md5>
+    <crc32>a5252b12</crc32>
+    <sha1>8748462e971d1c21f7707b74e053a495bf0fe483</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_003294.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213013</mtime>
+    <size>27769</size>
+    <md5>e6e58f548adc01f534cb97b694ec4554</md5>
+    <crc32>aceb59a0</crc32>
+    <sha1>79e6c2cf7aa7102c85d3b5c0327470e75bae8ab0</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_003354.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213021</mtime>
+    <size>27190</size>
+    <md5>9a6be839a8bf3f72486f48c3a61689fc</md5>
+    <crc32>009a5bc4</crc32>
+    <sha1>ccb93683693a8de52cc691f834c2f96ab62d0d21</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_003414.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213029</mtime>
+    <size>26425</size>
+    <md5>2682b18978a998d4dba724f87f96f4dd</md5>
+    <crc32>26220c88</crc32>
+    <sha1>f00da5a1c32350f96f1b66bd99cc94cc850bab9a</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_003474.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213037</mtime>
+    <size>26773</size>
+    <md5>455353d3dcc612125aa14dc3a758fe2d</md5>
+    <crc32>c865089f</crc32>
+    <sha1>a8331c5223f860b08a17a7ad46262551749c7527</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_003534.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213044</mtime>
+    <size>25626</size>
+    <md5>382517ecf9adce2d36969dfae0a4fedf</md5>
+    <crc32>b1d63f9a</crc32>
+    <sha1>41ffbecf37b1304c9bb30deb7fef6c5ca4cfe799</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_003594.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213050</mtime>
+    <size>25752</size>
+    <md5>7511907ac8acb0abf5c39bf4e5e795c7</md5>
+    <crc32>323036cc</crc32>
+    <sha1>c658a2c0ea3b8d6fe394331bc7e035f341213673</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_003654.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213058</mtime>
+    <size>25411</size>
+    <md5>5bc7cfacce347cfb94c59d1b30f53fd7</md5>
+    <crc32>10ccb245</crc32>
+    <sha1>4954bca9e0f67ee34699a07e9020d24a5b586358</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_003714.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213067</mtime>
+    <size>25070</size>
+    <md5>baf319673405ffdb3f7191ccdf211573</md5>
+    <crc32>89dac03b</crc32>
+    <sha1>3e5dc6fa4c134b59d3175b1d85c83e3fcf5b0f7c</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_003774.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213074</mtime>
+    <size>25113</size>
+    <md5>1774a2db09a25e5418f534eb32ce659b</md5>
+    <crc32>1d0cbe48</crc32>
+    <sha1>27214d3c8a71e30a48d12aaa7d58408e43d55130</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_003834.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213081</mtime>
+    <size>26303</size>
+    <md5>e0ee6367ec4323674b9372e91c00b8b6</md5>
+    <crc32>7aac56ce</crc32>
+    <sha1>bc629a5d3ed57c8a2737be98edb8e830b40f9bbb</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_003894.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213087</mtime>
+    <size>26505</size>
+    <md5>a8c6c3352c8dd8bbae94bda8aa0ebb4e</md5>
+    <crc32>cf697c3d</crc32>
+    <sha1>a30eec535567f10088e20f4a0b82dc9ae7ddf7d9</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_003954.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213093</mtime>
+    <size>25730</size>
+    <md5>100ecdd8b3d08061667b87a22f96249a</md5>
+    <crc32>0c854385</crc32>
+    <sha1>ae5fe60c727d5c64526ef7f09702be1cee665377</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_004014.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213099</mtime>
+    <size>25108</size>
+    <md5>aa452c41ae2a49e6b4f0e3a8ab53bf11</md5>
+    <crc32>7ae3a987</crc32>
+    <sha1>e857df0eac2bbf5dc2142c9dcc7f1047e7bb02f3</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_004074.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213106</mtime>
+    <size>26086</size>
+    <md5>77d28e7f781c08b8b096b07752c5e5e7</md5>
+    <crc32>c25a8eb7</crc32>
+    <sha1>6addccd52f3d13af343e63c881236da7e523a280</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_004134.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213113</mtime>
+    <size>24429</size>
+    <md5>0f786afc650486534ed2a5a8995cbac1</md5>
+    <crc32>62044887</crc32>
+    <sha1>72ac839c786144ebe96f0e290e4f0c8d276d9f89</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_004194.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213120</mtime>
+    <size>24578</size>
+    <md5>bf3d029c7212aeafaea10add8a4ff4e4</md5>
+    <crc32>26e67c42</crc32>
+    <sha1>9ad8d867cbfc62955b1c61a65dc3a633088949c8</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_004254.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213128</mtime>
+    <size>24906</size>
+    <md5>95defe21110dcf6b27c2744b0c58dcb4</md5>
+    <crc32>0e41d781</crc32>
+    <sha1>cddbd3707dfdb7f1a2a0da9807bb4d88be67fa8a</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_004314.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213136</mtime>
+    <size>24377</size>
+    <md5>b00018cde11aa5f7c1c1d6cb1f6c012c</md5>
+    <crc32>95a5fe6b</crc32>
+    <sha1>1d7c58872d85e33c803de97ab89b4014b755267b</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_004374.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213143</mtime>
+    <size>25048</size>
+    <md5>110f265663e37f645a185226690f57a4</md5>
+    <crc32>1c0c0e5a</crc32>
+    <sha1>d8993480ffc40d0140122243fc14ffd18e3829d9</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_004434.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213148</mtime>
+    <size>27001</size>
+    <md5>6da8858556d8792be5b1f03ad787c6a3</md5>
+    <crc32>eb4ef991</crc32>
+    <sha1>766ddc92687f32e19517d1b29da9bf5541cc3306</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_004494.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213156</mtime>
+    <size>27033</size>
+    <md5>4b0255c38331570454bd5895003b572c</md5>
+    <crc32>025869db</crc32>
+    <sha1>c4b8f9953c84c2b71c364511870bd87c63958f19</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_004554.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213162</mtime>
+    <size>25364</size>
+    <md5>de0b8313c93b762c35dd23fd47f656ee</md5>
+    <crc32>6f2cb1f3</crc32>
+    <sha1>c1cc35f37484e7c9cdb9d93140c1caf45c326ae0</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_004614.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213168</mtime>
+    <size>24732</size>
+    <md5>6db59880d7476f9a20e10196e5f7ab74</md5>
+    <crc32>aac75a13</crc32>
+    <sha1>63e01852179fcd7bc63dff2aed621c442c3717ad</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_004674.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213174</mtime>
+    <size>23870</size>
+    <md5>7ad0c68b622d1c6d6e4ce95048a80008</md5>
+    <crc32>ff2f694e</crc32>
+    <sha1>249698cb5b7be1dfc0981a137ef288b139c42c84</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_004734.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213179</mtime>
+    <size>9549</size>
+    <md5>b5373cca671be831df4a848d53e1193d</md5>
+    <crc32>e51e4e90</crc32>
+    <sha1>d25825fc5540fceb714ccfdd55dcedb14a1f76be</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_004794.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213184</mtime>
+    <size>7962</size>
+    <md5>6e5b4d02f8e4512802aa077dc49d464a</md5>
+    <crc32>f6939071</crc32>
+    <sha1>84d0f0cd4bb918d37f24de5094066d83facd3ec8</sha1>
+  </file>
+  <file name="tobacco_yfny0060.thumbs/yfny0060_004854.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626213191</mtime>
+    <size>7850</size>
+    <md5>abd6779ecc133861ce9117873a4171bc</md5>
+    <crc32>47da5c13</crc32>
+    <sha1>f94d4e07619c2ff10b9c444538cb69416d6c5532</sha1>
+  </file>
+  <file name="tobacco_yfny0060_archive.torrent" source="metadata">
+    <btih>17402851437976aa3776b75349630d02a023ef11</btih>
+    <mtime>1686025085</mtime>
+    <size>39288</size>
+    <md5>b538169f23a022b5698d1928928a4b6f</md5>
+    <crc32>0e459649</crc32>
+    <sha1>8df2173e1ab59a30abb9a74ff9e82af608f7e1b5</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="tobacco_yfny0060_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>fa8d58be6718fba082c02a62f7792f37</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="tobacco_yfny0060_meta.sqlite" source="original">
+    <mtime>1626212585</mtime>
+    <size>20480</size>
+    <md5>1b6accfc69c0a114ae2a076c37e44dfa</md5>
+    <crc32>82aa2243</crc32>
+    <sha1>7b8f91ac3377a34f767182afb1fe7171e78467ac</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="tobacco_yfny0060_meta.xml" source="original">
+    <mtime>1686025068</mtime>
+    <size>1813</size>
+    <md5>a0378ed80731e0a69b4a31c9cd9fbc84</md5>
+    <crc32>2160ba9f</crc32>
+    <sha1>6bab90854180350f1c7a5b768b5c92f2aee226a9</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="yfny0060.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626216068</mtime>
+    <size>694912</size>
+    <md5>edf81b022312c39ef8ef17b81d3dabcb</md5>
+    <crc32>12173ee0</crc32>
+    <sha1>7269253ce0f64f5139dea7cf51db054ce2e6828e</sha1>
+  </file>
+  <file name="yfny0060.mp4" source="derivative">
+    <format>h.264</format>
+    <original>yfny0060.wmv</original>
+    <mtime>1626215840</mtime>
+    <size>509544546</size>
+    <md5>c39e89836bb984a72d08fe94231b05ef</md5>
+    <crc32>dd780153</crc32>
+    <sha1>8e7530b749633523361dde1e528831fc565d2872</sha1>
+    <length>4887.19</length>
+    <height>480</height>
+    <width>720</width>
+  </file>
+  <file name="yfny0060.wmv" source="original">
+    <mtime>1626212556</mtime>
+    <size>452154747</size>
+    <md5>5e423d0e68f77efabf90b2f04c4b67f7</md5>
+    <crc32>9c0434e6</crc32>
+    <sha1>bcd6af69007b1b4f9ceb867b0269bcc6ea32f83a</sha1>
+    <format>Windows Media</format>
+    <length>4887.15</length>
+    <height>480</height>
+    <width>720</width>
+  </file>
+</files>

@@ -1,0 +1,1733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Bates_92377751-7756A_chunk_1.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>2adf301936772baf3619b4bbc7d0fa65</md5>
+    <mtime>1228079452</mtime>
+    <size>476476</size>
+    <crc32>4c0737c5</crc32>
+    <sha1>88f70fd47ebe8e34819f7268f81f2eb1411611b1</sha1>
+  </file>
+  <file name="Bates_92377751-7756A_chunk_1.mpg" source="original">
+    <format>MPEG1</format>
+    <format>MPEG1</format>
+    <md5>2097a5526d2b228c5523ade5f51e588c</md5>
+    <mtime>1203635835</mtime>
+    <size>2674823168</size>
+    <crc32>56b2e1b6</crc32>
+    <sha1>18dd47781a6e093a3efbcf086aa1947cc16b715b</sha1>
+    <length>3396.15</length>
+    <height>480</height>
+    <width>640</width>
+  </file>
+  <file name="Bates_92377751-7756A_chunk_1.ogv" source="derivative">
+    <format>Ogg Video</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>aac9cfbd51e06107128ff90dfe0804a6</md5>
+    <mtime>1228082664</mtime>
+    <size>242049099</size>
+    <crc32>0db641ba</crc32>
+    <sha1>aaaac6f520eb8d6d23061a0138340dcc2ad4737f</sha1>
+    <length>3396.09</length>
+    <height>304</height>
+    <width>400</width>
+  </file>
+  <file name="Bates_92377751-7756A_chunk_1_512kb.mp4" source="derivative">
+    <format>512Kb MPEG4</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>ae7601cfae83e02ce7921652302a7e8a</md5>
+    <mtime>1228078989</mtime>
+    <size>246831194</size>
+    <crc32>5d4a796f</crc32>
+    <sha1>04edf7d956532c736eeb018d8a73dd4ea86abca5</sha1>
+    <length>3396.09</length>
+    <height>240</height>
+    <width>320</width>
+  </file>
+  <file name="Bates_92377751-7756C_chunk_1.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>e27c4cc6aa5ac7a291ce9a841e60c8f9</md5>
+    <mtime>1228061038</mtime>
+    <size>478764</size>
+    <crc32>554d592</crc32>
+    <sha1>02df447886cf38c6752a579c207141ddf06a4a54</sha1>
+  </file>
+  <file name="Bates_92377751-7756C_chunk_1.mpg" source="original">
+    <format>MPEG1</format>
+    <md5>8388c57a0fa9c6e0b5f2217e913f7c6c</md5>
+    <mtime>1203635755</mtime>
+    <size>3848951808</size>
+    <crc32>42781e1a</crc32>
+    <sha1>fc1066ebc4050e9426f15805d87253633946ae44</sha1>
+    <length>7200.25</length>
+    <height>480</height>
+    <width>640</width>
+  </file>
+  <file name="Bates_92377751-7756C_chunk_1.ogv" source="derivative">
+    <format>Ogg Video</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>2aa41efdf255c3ab2c2efa5ab997b588</md5>
+    <mtime>1228071430</mtime>
+    <size>521785505</size>
+    <crc32>239f9886</crc32>
+    <sha1>f52822235207372ea6ed83f77050b3ec5c40dfb4</sha1>
+    <length>7200.26</length>
+    <height>304</height>
+    <width>400</width>
+  </file>
+  <file name="Bates_92377751-7756C_chunk_1_512kb.mp4" source="derivative">
+    <format>512Kb MPEG4</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>9cc5c56e9bce683a2fde5bd627cdc1e5</md5>
+    <mtime>1228059485</mtime>
+    <size>523247437</size>
+    <crc32>b43fbbcf</crc32>
+    <sha1>b8af6139cfc3320811edfbf19c65072cec060318</sha1>
+    <length>7200.26</length>
+    <height>240</height>
+    <width>320</width>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1686017372</mtime>
+    <size>7803</size>
+    <md5>88fe0aeac73e9d90a259bbcddd7976e8</md5>
+    <crc32>996b58c5</crc32>
+    <sha1>cdddb5a78ac27b6d00a810731b183ea23b367b76</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>84b6ca0fca5456677ad298cc2717a7a6</md5>
+    <mtime>1228071478</mtime>
+    <size>1884</size>
+    <crc32>9e9f7e48</crc32>
+    <sha1>55c154a7342f8fdbac54d4d5a535e43d3faa57e7</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>624ead7becda8d32cb2bf04301a15969</md5>
+    <mtime>1228071492</mtime>
+    <size>6449</size>
+    <crc32>f1d37ce1</crc32>
+    <sha1>d835014d18b2e70be94f67446dfd925ee8464615</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>7100b3822637fb5deb97ca897c517af6</md5>
+    <mtime>1228071508</mtime>
+    <size>6571</size>
+    <crc32>94d90fb9</crc32>
+    <sha1>42f2c90fa04ddccd914416720daf7f4527c969d8</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>67ddb09267cdb009d9b2e2b7af7cb8ca</md5>
+    <mtime>1228071523</mtime>
+    <size>6325</size>
+    <crc32>5b466dad</crc32>
+    <sha1>246be0a4bdf3ff099567d2ef09335a6f736c6908</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>5b0fb8661f5e5d7ffaed5a15f57ba993</md5>
+    <mtime>1228071538</mtime>
+    <size>6484</size>
+    <crc32>9e10f1b6</crc32>
+    <sha1>f85f4e4bdfe6c61ab2dd68a18bcb282432962639</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_000300.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>c06575d13c9c102ae15b84c4438974c5</md5>
+    <mtime>1228071554</mtime>
+    <size>6513</size>
+    <crc32>a12a3644</crc32>
+    <sha1>83df37f194ca23dad962bf15c4dfd8082ba2c87f</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_000360.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>28398db87c91f513d559ab47a1e5e9cd</md5>
+    <mtime>1228071569</mtime>
+    <size>6420</size>
+    <crc32>28d4ea14</crc32>
+    <sha1>c60b1942ea44e782eb37bbd2fba009269d91d432</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_000420.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>d026d537163cff23d7e74afcbfe7bfd7</md5>
+    <mtime>1228071585</mtime>
+    <size>6138</size>
+    <crc32>44cb1bea</crc32>
+    <sha1>9d3ae23c30e3ab45f1a8fe1e2e61c90486dc62c0</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_000480.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>3b224ec19e9c5b4340d88ab315c7a3a5</md5>
+    <mtime>1228071601</mtime>
+    <size>6212</size>
+    <crc32>cc2a7383</crc32>
+    <sha1>a9614adbf841d9814cf110dad081c558b22b3fbc</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_000540.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>3e74257c2b32a057edd927db45c6a5be</md5>
+    <mtime>1228071618</mtime>
+    <size>6855</size>
+    <crc32>d689990c</crc32>
+    <sha1>2fd5d40ee0bf27e1d68c8cf408b1c329cf840397</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_000600.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>e4955563df4dce34aea330f11ea97ff4</md5>
+    <mtime>1228071633</mtime>
+    <size>6693</size>
+    <crc32>dec1a9c7</crc32>
+    <sha1>1a6f796e3d8dc05bfa928b9d31d0c74ca390bf59</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_000660.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>d0c9e0ee0569bc4c012ba825cc94d2be</md5>
+    <mtime>1228071648</mtime>
+    <size>6787</size>
+    <crc32>d049091d</crc32>
+    <sha1>cb1a6edfc6b3e0b37db861d1016e554a3240b568</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_000720.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>f56e65fcdcdfbcadb8a64874f8a89470</md5>
+    <mtime>1228071664</mtime>
+    <size>6524</size>
+    <crc32>29e79418</crc32>
+    <sha1>597e222351e9e3d69a439475efb57888e97eb992</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_000780.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>8c3d6fa62dc5252dca78f866483b7fb6</md5>
+    <mtime>1228071679</mtime>
+    <size>6720</size>
+    <crc32>1f973c5</crc32>
+    <sha1>cab4350a04ecc146d6e396dd2f6123f44c3b5d49</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_000840.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>12f3363fba64bd9bda707ebe99dad1ac</md5>
+    <mtime>1228071695</mtime>
+    <size>6472</size>
+    <crc32>410b82c2</crc32>
+    <sha1>69ecbc7099e4227055b89c1e363a998a9b9ff40b</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_000900.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>f6d352bcf8e205eb4087ba4687f18002</md5>
+    <mtime>1228071710</mtime>
+    <size>6550</size>
+    <crc32>18aa4448</crc32>
+    <sha1>d6057f463ee01df9d2be1ce65c4e3091f8178dcf</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_000960.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>10f83dd5d39b83ace0fb7c1dfa178708</md5>
+    <mtime>1228071726</mtime>
+    <size>6279</size>
+    <crc32>c1835cec</crc32>
+    <sha1>85926fee3443e1a869f73bd35174f22fb65474a2</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_001020.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>85e4b81d883f6f0751e372965d421172</md5>
+    <mtime>1228071738</mtime>
+    <size>6346</size>
+    <crc32>1f830d43</crc32>
+    <sha1>34129c7f78cbcb17f064c8bd19d5aa21509e742c</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_001080.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>7498067f704fbf6ce1f6a4cf53c4fdcb</md5>
+    <mtime>1228071753</mtime>
+    <size>6193</size>
+    <crc32>4d6df0ca</crc32>
+    <sha1>55c3887491905ecfdbbdb415550339f5f020a27f</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_001140.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>0794a0e1e4bc9087ef2c2f0b5e8174fc</md5>
+    <mtime>1228071769</mtime>
+    <size>5488</size>
+    <crc32>f13e4576</crc32>
+    <sha1>dfa84810fdcd8a3dac3af19ea8adf8c2fde0bd96</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_001200.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>fca6cebe5bf3f1b00715eaff6f550216</md5>
+    <mtime>1228071784</mtime>
+    <size>6508</size>
+    <crc32>d2c42347</crc32>
+    <sha1>67981b7882df7aa50a93cb5c1d0856ab99c6d93c</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_001260.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>d25638353c99ccbb958d1f4d84ded236</md5>
+    <mtime>1228071799</mtime>
+    <size>6417</size>
+    <crc32>bc83044f</crc32>
+    <sha1>3b2b70a38953f28fdfdbe70fc93f904b2538ebfc</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_001320.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>6c099397e45622edb0e60d1c0edd87e9</md5>
+    <mtime>1228071814</mtime>
+    <size>6291</size>
+    <crc32>b9ad5690</crc32>
+    <sha1>66dc18041a5773cec4bb9517857b81c53d3569c9</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_001380.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>cd45ccb9f0e85cafb71dcac7440e2414</md5>
+    <mtime>1228071829</mtime>
+    <size>6360</size>
+    <crc32>f79bd8eb</crc32>
+    <sha1>9298e0419af37e762862923ce46e73d09944d247</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_001440.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>77e6863a4a84cd921f2a51e13533d3a0</md5>
+    <mtime>1228071845</mtime>
+    <size>6030</size>
+    <crc32>3d178443</crc32>
+    <sha1>6adefcafb0b6cae4051f9706f976f0650f656a3c</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_001500.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>bc225631d293950a92bd137d57d02744</md5>
+    <mtime>1228071862</mtime>
+    <size>6591</size>
+    <crc32>c5b1041c</crc32>
+    <sha1>852ab21355ee23e3c6c76ca02facc69f81dec269</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_001560.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>0cf3f209cb082431d52bb977f5a5182a</md5>
+    <mtime>1228071879</mtime>
+    <size>6548</size>
+    <crc32>194d108e</crc32>
+    <sha1>e2be839f8e3e6d7988b86d5281d62ddbfd30dc4a</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_001620.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>102c46aaaeacbbf3271bee18187da67e</md5>
+    <mtime>1228071896</mtime>
+    <size>6062</size>
+    <crc32>b7bd2d01</crc32>
+    <sha1>ab3582b62afbeb114857e121e0f6bf6c7671b756</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_001680.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>ae3a6fc10bf2d5495901fc112ab0224a</md5>
+    <mtime>1228071912</mtime>
+    <size>6398</size>
+    <crc32>6d62d3ce</crc32>
+    <sha1>87e3d9a889af6c38bb171bcc46029bc4c25256b5</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_001740.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>8191d72364bc2dba5cf165aedba6d551</md5>
+    <mtime>1228071930</mtime>
+    <size>7095</size>
+    <crc32>775315c6</crc32>
+    <sha1>70e575f8bcf8df881d69dd6902a0fc6c419e0532</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_001800.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>f71f63a5bc3c48636f9b5ca07a15f208</md5>
+    <mtime>1228071946</mtime>
+    <size>6852</size>
+    <crc32>88aace6</crc32>
+    <sha1>7c781995b55d86fafc561d78a07ea6865eca4b22</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_001860.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>0842e25235680c7d374bf8d7fe539eba</md5>
+    <mtime>1228071963</mtime>
+    <size>7089</size>
+    <crc32>5b722b34</crc32>
+    <sha1>61876710d8fc2a1354f2ba8ca7791f4ea51f45aa</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_001920.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>b415e5b2b92d9d2ff0055ccea46252ac</md5>
+    <mtime>1228071979</mtime>
+    <size>6741</size>
+    <crc32>cb85dd39</crc32>
+    <sha1>639f07a3b94520b9b9dad96e0adaa8c9ce2c2169</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_001980.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>a6591e2f35a19af10056da75ea47f5c4</md5>
+    <mtime>1228071995</mtime>
+    <size>6441</size>
+    <crc32>26d51739</crc32>
+    <sha1>6d41e6768360c4f99748bd09265aed680a9bb49e</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_002040.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>78c36e08946c078fc843a7c9d0647f08</md5>
+    <mtime>1228072010</mtime>
+    <size>6358</size>
+    <crc32>41eac740</crc32>
+    <sha1>710524d6f12b306f81e7830ca5df24dda75b61b0</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_002100.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>809ebda29202b35e2e51dd390f8440af</md5>
+    <mtime>1228072026</mtime>
+    <size>6589</size>
+    <crc32>92b0aab1</crc32>
+    <sha1>5581231c01ed163e1408fba05758402d31a03673</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_002160.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>c8dff372abc388cf2b5985f5e22a96c2</md5>
+    <mtime>1228072043</mtime>
+    <size>6008</size>
+    <crc32>8cdbf0dd</crc32>
+    <sha1>6f5dbf75279eabbcc8766f48739f93bb66d05deb</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_002220.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>6b23feba0dbe6983ce9384d2a8091885</md5>
+    <mtime>1228072059</mtime>
+    <size>6670</size>
+    <crc32>80e7f7aa</crc32>
+    <sha1>ecb6d81e7050dbd24b833df6077ae631c5f5eda5</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_002280.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>54c872c896a46c0f14b3dea219cf2cd1</md5>
+    <mtime>1228072075</mtime>
+    <size>6487</size>
+    <crc32>c83d80ac</crc32>
+    <sha1>e3ea868b3fd94999b9840b2cd5952027a4b05220</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_002340.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>c0d3fdd41e97134bac0ec0508ced6bfa</md5>
+    <mtime>1228072091</mtime>
+    <size>6415</size>
+    <crc32>4550bd96</crc32>
+    <sha1>c2a6d2c7dfeb1fc5559abf718fb3d160b41ed46b</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_002400.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>acc68b8d37eede74594472f323dcc04b</md5>
+    <mtime>1228072108</mtime>
+    <size>6393</size>
+    <crc32>576f6287</crc32>
+    <sha1>c4c05b38e0c9863f8db6dc1cc44027554ff7a760</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_002460.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>343ec3e1088460e36d66f19abd5f6bf3</md5>
+    <mtime>1228072124</mtime>
+    <size>6464</size>
+    <crc32>e0cea97b</crc32>
+    <sha1>2d44ec40f3b050aab6e9ea0ae5ef35ed1a333571</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_002520.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>c3dcdd06c4f4840b4aea5e066a290fe9</md5>
+    <mtime>1228072140</mtime>
+    <size>6309</size>
+    <crc32>4c0c75b4</crc32>
+    <sha1>3609df787f9a824f955bab8e3cc1baba00c0dfc2</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_002580.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>56cfe8731d15bbc92dbb1423041bdceb</md5>
+    <mtime>1228072156</mtime>
+    <size>6163</size>
+    <crc32>6377c665</crc32>
+    <sha1>e798eacd0a6b4e427a5394e0983ee161b2d7aa9a</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_002640.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>e7398810724f0174abf37d8164945f5e</md5>
+    <mtime>1228072173</mtime>
+    <size>6016</size>
+    <crc32>31ba7e78</crc32>
+    <sha1>fe3a3b5fe85577c02a8848234fb85ce8c92f63f0</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_002700.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>2c105f3c533d98c1e77e03c1e57696e0</md5>
+    <mtime>1228072189</mtime>
+    <size>6123</size>
+    <crc32>1465f184</crc32>
+    <sha1>2c01c070c253e9456cd6f718de77ed50c6aac217</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_002760.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>b46b43a40cc77081bb1a26cffd2c2731</md5>
+    <mtime>1228072205</mtime>
+    <size>6223</size>
+    <crc32>748ecb01</crc32>
+    <sha1>01a1d316b90c9bef0b49d4ddd562ccddac62b2b6</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_002820.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>65fb3bb683e7eb607872a2b5a885d9f7</md5>
+    <mtime>1228072221</mtime>
+    <size>6064</size>
+    <crc32>9004ef05</crc32>
+    <sha1>2347f259d9195280486155c6de47932980a0df19</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_002880.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>d0f771744b34acaee61017e1aa5cff5d</md5>
+    <mtime>1228072238</mtime>
+    <size>6989</size>
+    <crc32>87a2562d</crc32>
+    <sha1>11695a5b7f9490bc455ee046d1c31eb72f915cc3</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_002940.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>aee0e0f2ec8de74434dd3e8d4bf41151</md5>
+    <mtime>1228072253</mtime>
+    <size>6918</size>
+    <crc32>24e8a609</crc32>
+    <sha1>aceefcb464ec93bfcfd8704c5f39ef254bade335</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_003000.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>137527bd6662604f351ad5093cb30c2a</md5>
+    <mtime>1228072269</mtime>
+    <size>6910</size>
+    <crc32>190915ab</crc32>
+    <sha1>facaf72e2a4410bb71d09a6724c4919e40cb6f47</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_003060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>e146ebe47e0274063ee81a277db00b5a</md5>
+    <mtime>1228072285</mtime>
+    <size>7144</size>
+    <crc32>d8f74ecb</crc32>
+    <sha1>3b672e7e5f39ffcb7c92c1db8279319faaa81088</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_003120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>70881b582175f5d350cc4fdb0676ad2a</md5>
+    <mtime>1228072302</mtime>
+    <size>6990</size>
+    <crc32>c2d3197c</crc32>
+    <sha1>4fa4e93b19f9fcb736c4d59e43c3e46b1280a169</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_003180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>09b6528bf30e4658e73975ddc4b1eaac</md5>
+    <mtime>1228072319</mtime>
+    <size>6718</size>
+    <crc32>469198a9</crc32>
+    <sha1>2f9aa4640b344a2bd74b3f2164584a8170ca133c</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_003240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>9ebe1dbeebb4f581e150cc831ee92734</md5>
+    <mtime>1228072329</mtime>
+    <size>6569</size>
+    <crc32>c77c60ae</crc32>
+    <sha1>ff1ffed42ea1586e97ca4f5b7cbc3a02197d6623</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_003300.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>466961fb9f6b0f48ba72da268467a275</md5>
+    <mtime>1228072345</mtime>
+    <size>7009</size>
+    <crc32>28836b3f</crc32>
+    <sha1>2fc7f10e2ee6e07ec3b7c1b6ce7b7838c0481fc3</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756A_chunk_1_003360.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756A_chunk_1.mpg</original>
+    <md5>7b8de93674ed920dc603c5737c9a69bc</md5>
+    <mtime>1228072361</mtime>
+    <size>6995</size>
+    <crc32>9832630a</crc32>
+    <sha1>d4d95233a641474d270c9805d5d133514cdd148f</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>aa4d55ed1351d0100482a2be73ca4527</md5>
+    <mtime>1228061041</mtime>
+    <size>1461</size>
+    <crc32>a5d84d87</crc32>
+    <sha1>088a21c63e9b3a80da9d097fa4bbc672135c19f1</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_000060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>dc6d6229d5df994524fd60f147b59ba1</md5>
+    <mtime>1228061053</mtime>
+    <size>6620</size>
+    <crc32>779e53ee</crc32>
+    <sha1>26aa293fa2f239d1cc3f514fd66f39c4282cf21f</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_000120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>927ecaa89b512ba36c881c02bf3aaac3</md5>
+    <mtime>1228061067</mtime>
+    <size>6729</size>
+    <crc32>37da0a8</crc32>
+    <sha1>d00ceaa8e069a1cf03d9ae533132078e710f8cef</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_000180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>852edce876ae86a5667533fedc86deea</md5>
+    <mtime>1228061080</mtime>
+    <size>6681</size>
+    <crc32>bf3899b5</crc32>
+    <sha1>9843fffc84c09c7e4b4e3d6ad3ad53c0b4d59faf</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_000240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>d8c00b0764a595f1877e54d5b645dc4c</md5>
+    <mtime>1228061093</mtime>
+    <size>6840</size>
+    <crc32>4e6b9596</crc32>
+    <sha1>aa937d80c75e004d890a3fba6b1f192e5b0a1a73</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_000300.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>7b8305e3ae4a2ae98b60a90f51bb9dc5</md5>
+    <mtime>1228061106</mtime>
+    <size>6943</size>
+    <crc32>9af10fac</crc32>
+    <sha1>588f2cf123f8bcb532ece1c09b264245543f5e19</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_000360.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>b4982b894f3aad2a55439581f0048cab</md5>
+    <mtime>1228061120</mtime>
+    <size>6804</size>
+    <crc32>38a40e75</crc32>
+    <sha1>1cff202b2897b97974414697fd4f5f9d0150f214</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_000420.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>c35d5de493801dd55140a1b7354cbf7d</md5>
+    <mtime>1228061133</mtime>
+    <size>6699</size>
+    <crc32>b1254260</crc32>
+    <sha1>fe9a0f01ae883aca1df2a7279e15396d1d59f76b</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_000480.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>078bbcc370634b52dc813ee20d35f02a</md5>
+    <mtime>1228061146</mtime>
+    <size>6621</size>
+    <crc32>f060a5d8</crc32>
+    <sha1>cf2e3b1194657924a536be3cdce28af31403ccdb</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_000540.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>ea21791c73015db3dc592ebfd572afbd</md5>
+    <mtime>1228061160</mtime>
+    <size>6767</size>
+    <crc32>7489fc66</crc32>
+    <sha1>d9428e84c0f4e8f5a2c00bab605f99bff0a340fe</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_000600.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>1f25306b400984308647d000ea402e75</md5>
+    <mtime>1228061173</mtime>
+    <size>6654</size>
+    <crc32>bb6da62d</crc32>
+    <sha1>48d5b220ef5a1935cb8e55a726ba49a7533c6a6c</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_000660.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>f8369a496f5c4605a990c5291d710715</md5>
+    <mtime>1228061187</mtime>
+    <size>6917</size>
+    <crc32>d319e841</crc32>
+    <sha1>4a80fbb23af0d624c87fc88fb51b7809869c854f</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_000720.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>2f32ffbf31fcf940fad4ad4923bc36a6</md5>
+    <mtime>1228061200</mtime>
+    <size>6625</size>
+    <crc32>b7456d7e</crc32>
+    <sha1>3fa1a0e8390fd1fa905b8a39b097258c89dc5d2c</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_000780.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>ac709e659fc956be95b28dc988ca6bd6</md5>
+    <mtime>1228061214</mtime>
+    <size>6578</size>
+    <crc32>db151554</crc32>
+    <sha1>5419a7d56e5d5d8c42ff9e1161af5f8f436b36fc</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_000840.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>31ed131cfff894fcb962ed6253e8dd4f</md5>
+    <mtime>1228061227</mtime>
+    <size>6517</size>
+    <crc32>e60b565b</crc32>
+    <sha1>5de8f8e45662470556d902e94935152c60b09e32</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_000900.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>a95fc507fb60cf19481c3d9abe0e251e</md5>
+    <mtime>1228061241</mtime>
+    <size>6841</size>
+    <crc32>c10297ea</crc32>
+    <sha1>216d3b83e72a0ad00b84719eae7c86588645f274</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_000960.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>76f09da3acf72be2bce3fb00da719377</md5>
+    <mtime>1228061254</mtime>
+    <size>6492</size>
+    <crc32>f7b76c69</crc32>
+    <sha1>c521a09b512174ce509403ca599f04d0df61f3c1</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_001020.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>7808d5b0dfd040c1ad6b2baf5b5daa17</md5>
+    <mtime>1228061267</mtime>
+    <size>6528</size>
+    <crc32>3ae21e65</crc32>
+    <sha1>84a86427681365cd962fce0904ac4a135b9e668c</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_001080.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>82a32d028a1c1ea11e8c421c5986ff6e</md5>
+    <mtime>1228061280</mtime>
+    <size>6477</size>
+    <crc32>2bf890f2</crc32>
+    <sha1>1de9bd76f5cd2602c5ad8061a528cd0ddbd386b3</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_001140.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>8467ebd4381994a57c77c987c6486209</md5>
+    <mtime>1228061292</mtime>
+    <size>6394</size>
+    <crc32>659b5923</crc32>
+    <sha1>7630f26e795f727f69162d5e0e56706ffb931278</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_001200.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>b0f9e2459fda08060d60e0a043f934f4</md5>
+    <mtime>1228061306</mtime>
+    <size>7247</size>
+    <crc32>869be21f</crc32>
+    <sha1>51737c5902d8f07240b5bf2726f685c1772b531e</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_001260.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>697cf30e9b1ad79635d35c429e96fcc1</md5>
+    <mtime>1228061319</mtime>
+    <size>7233</size>
+    <crc32>9c084a79</crc32>
+    <sha1>8d97912c53cad6a8c0c3a8576e62265145b1aa6c</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_001320.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>e9c16ca4e74928980edbcf97be2bec87</md5>
+    <mtime>1228061332</mtime>
+    <size>6869</size>
+    <crc32>f3921075</crc32>
+    <sha1>a5be52693d9e393ca51895b72af2cd6ca4b127de</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_001380.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>459721ab965a7f01c3a5afceebdc2351</md5>
+    <mtime>1228061345</mtime>
+    <size>6969</size>
+    <crc32>2c4f0c93</crc32>
+    <sha1>0ef629990e31def4b3e026520df1e6e64f48b27c</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_001440.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>d2e5c1fa21cdb3db184d48756ee169f0</md5>
+    <mtime>1228061359</mtime>
+    <size>7043</size>
+    <crc32>ba244773</crc32>
+    <sha1>593f53194aa1a2292eb6a86eac5433bf521e8678</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_001500.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>c3dcfffa88da690cd70e44a29ecf2799</md5>
+    <mtime>1228061374</mtime>
+    <size>6907</size>
+    <crc32>e508c56f</crc32>
+    <sha1>46f258c8ae396081e83b0f11c3c6bdc9d0c349a5</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_001560.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>b71bfe66933e8c77dbdfe9e05c591974</md5>
+    <mtime>1228061387</mtime>
+    <size>7266</size>
+    <crc32>ae875210</crc32>
+    <sha1>12bad18096265659a24090454151fb34527c0fb3</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_001620.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>c3c912170fac05491ad016f0679e691a</md5>
+    <mtime>1228061399</mtime>
+    <size>7160</size>
+    <crc32>e6e0c33d</crc32>
+    <sha1>12d334d1f1a2aea0532cd08593a09a3eab1884dc</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_001680.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>4cde89fffd0663df12fadc582a34eea9</md5>
+    <mtime>1228061413</mtime>
+    <size>7020</size>
+    <crc32>db37ffd5</crc32>
+    <sha1>e852fd815e99b545c910a4e4e93b357554aad894</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_001740.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>6c872ea495896f05e250a31e8a275377</md5>
+    <mtime>1228061426</mtime>
+    <size>7059</size>
+    <crc32>670670b9</crc32>
+    <sha1>cf4c99b8afb32a68ddde1d6372c598bbf69b2858</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_001800.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>687d901546726a51582481530b84b4e8</md5>
+    <mtime>1228061440</mtime>
+    <size>6994</size>
+    <crc32>461c66de</crc32>
+    <sha1>66fd8894bf7a834169039cc2eab1d66585f13132</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_001860.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>502724f6848bbbcfc2b896f5b10442bc</md5>
+    <mtime>1228061449</mtime>
+    <size>7087</size>
+    <crc32>8c3337e2</crc32>
+    <sha1>4affd4e7af5e306aa401eb419888a1b33e39a4ec</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_001920.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>9e3665aaeb7600b316a6d83bc2898335</md5>
+    <mtime>1228061460</mtime>
+    <size>6719</size>
+    <crc32>82c4c904</crc32>
+    <sha1>a1647e6ffdba6de3e1b7d491aa6627ef24224291</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_001980.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>cf5be62b54c8a2551d44a5b5f43eba41</md5>
+    <mtime>1228061467</mtime>
+    <size>6502</size>
+    <crc32>54e6d75e</crc32>
+    <sha1>7341dd25f13d9dc27a70433421682c95c06e4448</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_002040.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>3b2c36387dcd27e45c182ac821b92ed4</md5>
+    <mtime>1228061477</mtime>
+    <size>6519</size>
+    <crc32>fb22571f</crc32>
+    <sha1>4399b77468f59223b05f55ff3b5946d6d295a69f</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_002100.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>b2cb6f60215419e82e231158ea534f40</md5>
+    <mtime>1228061489</mtime>
+    <size>6086</size>
+    <crc32>c222bae9</crc32>
+    <sha1>69c8f009786595890e651246eedfd05aec348f02</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_002160.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>5d30dd43dc0f3144325cbac70b01ad7d</md5>
+    <mtime>1228061502</mtime>
+    <size>7150</size>
+    <crc32>ed11dd4a</crc32>
+    <sha1>8b29fc5d7f875e33724493a6f31fcee54317d7bc</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_002220.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>a5afe532e554ed600f77c03b1be00010</md5>
+    <mtime>1228061520</mtime>
+    <size>6377</size>
+    <crc32>4e4e9138</crc32>
+    <sha1>58ec5cfd7272ab90c5a37ddc9b185466b9f60b19</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_002280.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>f2f1aa51f8c7b923875008700032212c</md5>
+    <mtime>1228061537</mtime>
+    <size>5869</size>
+    <crc32>cac27e19</crc32>
+    <sha1>e20e08b6c7240f0325ebb42fb51318e9b47053d6</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_002340.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>b3ded12d2b099e1c3fcccfbce8769db6</md5>
+    <mtime>1228061553</mtime>
+    <size>6325</size>
+    <crc32>3204df3e</crc32>
+    <sha1>76bfa77961270919a91bfaaeab00d2d67cbc3983</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_002400.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>7427ae0c05dae6bd77796aa11bc92d50</md5>
+    <mtime>1228061569</mtime>
+    <size>7114</size>
+    <crc32>bea11b54</crc32>
+    <sha1>2adee0e7e7024d91599b2952b4ef892e6bf16f48</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_002460.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>23c6c367719e0539d7bf22ee07ddef41</md5>
+    <mtime>1228061586</mtime>
+    <size>6983</size>
+    <crc32>8bc26092</crc32>
+    <sha1>fa9b66e66f80f2442b445b6eaf9396afc6b3cc39</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_002520.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>a6fcc8d71352a61980692293ed8b5317</md5>
+    <mtime>1228061601</mtime>
+    <size>6474</size>
+    <crc32>474d2ae7</crc32>
+    <sha1>10447acf7141eecd5aa46d4a35eb0d4742ed54b6</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_002580.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>094f23e768b910fe5463d07bc848d11c</md5>
+    <mtime>1228061618</mtime>
+    <size>6199</size>
+    <crc32>40e5ce39</crc32>
+    <sha1>e3f68a3cb7b25ea8fe8556547ad8c628be544bd5</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_002640.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>76a93bd13e0aad85952a93fc9b1b7c36</md5>
+    <mtime>1228061635</mtime>
+    <size>6535</size>
+    <crc32>1eda74bf</crc32>
+    <sha1>a1e5a2bff185fbaf615409dbd8fee7b7e73a336f</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_002700.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>847f988c1c0886f91724b9eb4220057e</md5>
+    <mtime>1228061652</mtime>
+    <size>6943</size>
+    <crc32>73343182</crc32>
+    <sha1>3fbaaa99e0eb1bd28f5f7ee3556236bdc305c61c</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_002760.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>b434de790a4613aec4c95177fe95fc93</md5>
+    <mtime>1228061669</mtime>
+    <size>6623</size>
+    <crc32>5e07d53f</crc32>
+    <sha1>6d726db54c67bb91a027a05159c3cd801a750378</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_002820.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>7a1e20dcf9e52a66a3f53693dd203fbe</md5>
+    <mtime>1228061686</mtime>
+    <size>6119</size>
+    <crc32>f10ac986</crc32>
+    <sha1>7f79f0f1b5c46f24ad346320aca1e44a57521ccc</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_002880.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>d1d7ec269e8d8801e8e3e99d49ed99db</md5>
+    <mtime>1228061702</mtime>
+    <size>6406</size>
+    <crc32>32436feb</crc32>
+    <sha1>dbbbc33d4277679d56095a4baf01e941f5f84e5f</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_002940.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>ecaf6bf31c9f38f29308c91eadb431a4</md5>
+    <mtime>1228061719</mtime>
+    <size>6853</size>
+    <crc32>f8b49ff6</crc32>
+    <sha1>7a0f51cb22ab178332eaeab7d604818bbc373d28</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_003000.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>299688cfbab05b327a9554b7972a6508</md5>
+    <mtime>1228061736</mtime>
+    <size>6746</size>
+    <crc32>49d2fd9c</crc32>
+    <sha1>d6bcd8998c52fdde2f8c8849450bec108c690fc0</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_003060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>e1adea3499fb7e69e3029cfd5c9ee5a0</md5>
+    <mtime>1228061753</mtime>
+    <size>6521</size>
+    <crc32>418b716a</crc32>
+    <sha1>3f46b6cf47ce31249a06cb8ebf3a38f3e810622b</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_003120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>7e531714a5423674cf2c079e5e7601fe</md5>
+    <mtime>1228061769</mtime>
+    <size>5666</size>
+    <crc32>2fb6ee8f</crc32>
+    <sha1>be8c9e8c6fff28df98dec34ecc2513c83534baf1</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_003180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>b7a6c71f54a345ced4a6961369d6363e</md5>
+    <mtime>1228061786</mtime>
+    <size>5862</size>
+    <crc32>54a93bf1</crc32>
+    <sha1>3765b31ae1b396144e61a5b759a7cab53678a917</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_003240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>ab1a0547dc09103d15b5120812980058</md5>
+    <mtime>1228061804</mtime>
+    <size>5962</size>
+    <crc32>c199aa9f</crc32>
+    <sha1>f3810a113f9e197ec3e9d5d753a8c59e841b711f</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_003300.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>dae0eaf53dd9831129d3fe8c1f463359</md5>
+    <mtime>1228061821</mtime>
+    <size>6285</size>
+    <crc32>25a17e71</crc32>
+    <sha1>57232f861bbf05d3e2a82db179dc3b132316be46</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_003360.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>689a33da7660c3392ff7b46de716e77a</md5>
+    <mtime>1228061839</mtime>
+    <size>6442</size>
+    <crc32>b82e20d6</crc32>
+    <sha1>b4a55d9a443c0650bafb54b45591785482ee8dbe</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_003420.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>7415ce423cad9fbf0cb6aace8afbf382</md5>
+    <mtime>1228061853</mtime>
+    <size>6615</size>
+    <crc32>7edd8c82</crc32>
+    <sha1>623ae3f967b6c7ed54390c28d0dab8158caf36af</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_003480.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>98c54553d4189b4643cea5eeba7dc481</md5>
+    <mtime>1228061866</mtime>
+    <size>5379</size>
+    <crc32>fc32082b</crc32>
+    <sha1>4b980b27855579169ccdd08007b76f87a680be60</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_003540.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>aaf41765b9ca29b6b51de3c8fd18d87c</md5>
+    <mtime>1228061879</mtime>
+    <size>5690</size>
+    <crc32>4ed2a259</crc32>
+    <sha1>dfd14d44704d8b30ee34afd655a0e5b538f2c8f7</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_003600.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>242131746b5c423ac7c6d7dfab21cd9a</md5>
+    <mtime>1228061891</mtime>
+    <size>5023</size>
+    <crc32>7d8fd53f</crc32>
+    <sha1>562ba8d57570a432a27ad92e87c9eeea9fb1faa2</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_003660.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>042456f6a964451907fa16811fbdcfb3</md5>
+    <mtime>1228061904</mtime>
+    <size>5752</size>
+    <crc32>7ec4912c</crc32>
+    <sha1>faf0de36679817658b50b4221e32708c23547d28</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_003720.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>60fa61b879857b29c5f2cfaeda827636</md5>
+    <mtime>1228061917</mtime>
+    <size>5740</size>
+    <crc32>c929832f</crc32>
+    <sha1>0d2b8eb8ea0e3a45776a1e7016e707f8acb29bb1</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_003780.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>a25c5b1a0a5f4a3939203c890aca301f</md5>
+    <mtime>1228061930</mtime>
+    <size>5958</size>
+    <crc32>d1a62103</crc32>
+    <sha1>cd15d35db1da1ddf486a4fd4920c3dc3964476e2</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_003840.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>0c02d1ceec8203d52bc8c18ee7b34e1d</md5>
+    <mtime>1228061941</mtime>
+    <size>5378</size>
+    <crc32>ba93cf6f</crc32>
+    <sha1>3c360be2633f63a757d6f0429fe062dcc1d64fd2</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_003900.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>8fb41762a4d224465f55b093db890945</md5>
+    <mtime>1228061953</mtime>
+    <size>6478</size>
+    <crc32>37f582a</crc32>
+    <sha1>f49c9d54cca04eafa3d37cadac724df1de419c76</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_003960.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>ae0c1039d9e8508df2f012660ec90d44</md5>
+    <mtime>1228061966</mtime>
+    <size>5066</size>
+    <crc32>2053fff2</crc32>
+    <sha1>c4df3f034853ce0413096965e2bd680d2a5b2baf</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_004020.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>70b270085d752a6633c1004c19eb218c</md5>
+    <mtime>1228061979</mtime>
+    <size>5787</size>
+    <crc32>7d32b29b</crc32>
+    <sha1>43778ebd41493f8be1a982d640aa377d5534830d</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_004080.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>33e07262896399fc5fc11463245aad9f</md5>
+    <mtime>1228061992</mtime>
+    <size>6336</size>
+    <crc32>631595b1</crc32>
+    <sha1>7d56d7da7e892551ab6f6b218c94a69a1bb0c654</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_004140.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>04f3ce30c6d3aca18988cc79963d5ec3</md5>
+    <mtime>1228062005</mtime>
+    <size>5698</size>
+    <crc32>ac2077d3</crc32>
+    <sha1>b6c3deb3d019220f88db11582a482ca8c43a7837</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_004200.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>fc29af10fb45bff1add27a9a76fc5163</md5>
+    <mtime>1228062018</mtime>
+    <size>5694</size>
+    <crc32>bdf7ad75</crc32>
+    <sha1>34bf5ddada8f9959da5d837f53515f3690859c31</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_004260.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>558d61d213fa0e848abdaf653cdce740</md5>
+    <mtime>1228062032</mtime>
+    <size>5895</size>
+    <crc32>10e38f90</crc32>
+    <sha1>28c10d411eeba445a68253f2baa71536f40d3a33</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_004320.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>b2c886c188648446b9d9febcaa5aa90e</md5>
+    <mtime>1228062046</mtime>
+    <size>6620</size>
+    <crc32>6eee38fa</crc32>
+    <sha1>b8fbf67ae9bee0c078c64adac0204b496c89eb21</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_004380.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>6a7fbb7a7f225193e3ddc1f6e40f771b</md5>
+    <mtime>1228062059</mtime>
+    <size>6621</size>
+    <crc32>f992d840</crc32>
+    <sha1>613429d5a7fcb8fe0b2476dec697dbec63238e49</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_004440.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>7ac1d3c232d193fbe3baa70a5fa1e878</md5>
+    <mtime>1228062071</mtime>
+    <size>6553</size>
+    <crc32>47133244</crc32>
+    <sha1>0c2b59ba8311bf3c2274d99a1086ed3b93d8b645</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_004500.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>ad469388bc4a547381ad5c5ecc730847</md5>
+    <mtime>1228062082</mtime>
+    <size>6317</size>
+    <crc32>75566e26</crc32>
+    <sha1>5c63ab63134f38ae6a73e443b21bd35d8dc8d0fb</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_004560.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>a8062da6b05c285e3e828ac28ad15810</md5>
+    <mtime>1228062092</mtime>
+    <size>6497</size>
+    <crc32>fec9a036</crc32>
+    <sha1>2c7e8d8f20ef198ef6ca28166554b8a80f467acb</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_004620.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>c2258bd7cf115b82e061378d068d5de8</md5>
+    <mtime>1228062101</mtime>
+    <size>6709</size>
+    <crc32>f46ee51a</crc32>
+    <sha1>5770b525b31a17efd08905c5bc8ae5d1758e2b4e</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_004680.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>b84e4557ee8d22836ef7a6133f0caa6c</md5>
+    <mtime>1228062112</mtime>
+    <size>6345</size>
+    <crc32>d7e6e0dd</crc32>
+    <sha1>859c102b79c244ae9489793cec1a0fe6b45173ec</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_004740.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>fffe8a84205dd1d8e9477068116b08e7</md5>
+    <mtime>1228062126</mtime>
+    <size>6697</size>
+    <crc32>2e257650</crc32>
+    <sha1>c05790407a42a25cb76ccdc34a4e60f223e6b34b</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_004800.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>c2f731585f59c6f58b92a03a5571291d</md5>
+    <mtime>1228062139</mtime>
+    <size>6579</size>
+    <crc32>6de2dd4e</crc32>
+    <sha1>459d68e6e28394208da1e582ce027632c2a9928b</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_004860.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>33d5e7b76eac961a176db376a96838e7</md5>
+    <mtime>1228062150</mtime>
+    <size>6310</size>
+    <crc32>c9ce7fbf</crc32>
+    <sha1>fe81f3f68d193defd5d7702f5a9ecec2ce217d54</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_004920.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>7e858e08554c35d1c6f7d0ed7a38cd96</md5>
+    <mtime>1228062163</mtime>
+    <size>6268</size>
+    <crc32>30923757</crc32>
+    <sha1>996e6b00df0d98a31dfe88b47b2e2187bee71340</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_004980.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>763ef625ab2f8949b24fcf7df581031d</md5>
+    <mtime>1228062175</mtime>
+    <size>6266</size>
+    <crc32>8cb7c603</crc32>
+    <sha1>980f20175866aa078ef648c46fa884e5b274c459</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_005040.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>775ab61681ada10bfe5d688d7b35ec1e</md5>
+    <mtime>1228062187</mtime>
+    <size>7004</size>
+    <crc32>db91fa2a</crc32>
+    <sha1>9081dd5ac677b728c623fa051d36719cb0da5002</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_005100.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>c73c196d0ae11698e063e199aa6fdca9</md5>
+    <mtime>1228062199</mtime>
+    <size>7035</size>
+    <crc32>6328da28</crc32>
+    <sha1>9b5b983c11e7251289f73a68346c8f5c88f6a6b8</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_005160.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>2821b5042dfb5b51b710e74339dbcf6d</md5>
+    <mtime>1228062212</mtime>
+    <size>6592</size>
+    <crc32>bd1ec1b4</crc32>
+    <sha1>56d03d8645ab6eb0f9278c36c446e38be8233a3f</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_005220.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>a7725f589df9f5f03f6ca27824059a82</md5>
+    <mtime>1228062224</mtime>
+    <size>6477</size>
+    <crc32>a054376d</crc32>
+    <sha1>3aede494327c6a6fa24790dd6c434a546aadbd9f</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_005280.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>41f2acdb245db5093d7b852138354c6b</md5>
+    <mtime>1228062236</mtime>
+    <size>6567</size>
+    <crc32>15147ca0</crc32>
+    <sha1>5429a5d2012cfb27d560c4c07a78f4877818ae1b</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_005340.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>d6e53f81ea4a4a4f36ccb6bf921d21b3</md5>
+    <mtime>1228062244</mtime>
+    <size>7130</size>
+    <crc32>9841ca9c</crc32>
+    <sha1>95cd3736ff6435a493196710d51c9bbbd1fe153b</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_005400.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>7cbab9fc2a268ef0dc9195e3c8997937</md5>
+    <mtime>1228062257</mtime>
+    <size>7012</size>
+    <crc32>58aa0ca5</crc32>
+    <sha1>c80e0d49eef629f709927a3a18abe5909b9bfb2d</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_005460.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>d2547f67374045d5ac4fd478ac785cd3</md5>
+    <mtime>1228062267</mtime>
+    <size>6969</size>
+    <crc32>1b24d91b</crc32>
+    <sha1>a1cb6cb66f343049dc7626be89d4d164182a4662</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_005520.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>fbdf288638e97b50914116e01d487fc8</md5>
+    <mtime>1228062274</mtime>
+    <size>6975</size>
+    <crc32>e7a8f15f</crc32>
+    <sha1>f0c503b0518fd620cf5ef7b3116aa39610d5a30b</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_005580.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>31f5dfdda27155d04cd0f3c6e2e18047</md5>
+    <mtime>1228062281</mtime>
+    <size>7032</size>
+    <crc32>ca91557c</crc32>
+    <sha1>62be701c8fa78afe16f9240862e2c54ff0d2e95a</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_005640.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>89ac202b0eca194218f0d8a9ddafba22</md5>
+    <mtime>1228062288</mtime>
+    <size>6979</size>
+    <crc32>4a1ea015</crc32>
+    <sha1>c5db4e07759a8d4d5f0d4a0f3cf98fdb7dd14415</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_005700.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>2e8eba3771314feec2fa05f906f5d5aa</md5>
+    <mtime>1228062295</mtime>
+    <size>7063</size>
+    <crc32>bfd4e1e8</crc32>
+    <sha1>dbef60038f5a12122738efa5501144fc26ec4e8a</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_005760.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>288407598b54182c1368f8fd58adaff9</md5>
+    <mtime>1228062304</mtime>
+    <size>7137</size>
+    <crc32>6386ca3c</crc32>
+    <sha1>7eb9b99f3b782e28e01487120d07879ab285fe6a</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_005820.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>93d05b40eb72e3ab1221be1e8aeb412c</md5>
+    <mtime>1228062310</mtime>
+    <size>6657</size>
+    <crc32>30433508</crc32>
+    <sha1>a468b1a0f83daf575ef2cfa026538aa679b68b05</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_005880.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>81a476dea7329c502041b670fd0a64ee</md5>
+    <mtime>1228062319</mtime>
+    <size>6578</size>
+    <crc32>d57055cb</crc32>
+    <sha1>03eecf8b116c90c7de9206bcdfbffc4b277778e5</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_005940.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>0446b22f083f7556491aa8165e675da2</md5>
+    <mtime>1228062330</mtime>
+    <size>6544</size>
+    <crc32>3cc17ba6</crc32>
+    <sha1>f8822cdaf5e272a8cb0aab74a20ebd8d917b53e4</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_006000.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>ed3bff6eeb56bb3a8028fa86b3a52f61</md5>
+    <mtime>1228062343</mtime>
+    <size>6716</size>
+    <crc32>3b0b9ee3</crc32>
+    <sha1>3ff91c4adfaa4c9e101024499a6a3f2736d2510a</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_006060.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>7e6fe316b6814471fc0e5d4b63aaacfa</md5>
+    <mtime>1228062356</mtime>
+    <size>6700</size>
+    <crc32>5211be42</crc32>
+    <sha1>54d28aa6226ecab91c278ad80689c5a610d9028c</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_006120.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>636aa1134fbac009243087c496bc9de2</md5>
+    <mtime>1228062369</mtime>
+    <size>6588</size>
+    <crc32>2bbbffdf</crc32>
+    <sha1>ac3d49e9d92059f7b9c62b1b019f024f0bff5bed</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_006180.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>c5963cd5570d1722cf5ac49710a1fa26</md5>
+    <mtime>1228062380</mtime>
+    <size>6467</size>
+    <crc32>79b20455</crc32>
+    <sha1>a682e15a90af35ecb7438a66ac6bc44e1b85db0a</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_006240.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>379b1085c1bc292bc8aa5d22486ab075</md5>
+    <mtime>1228062393</mtime>
+    <size>6319</size>
+    <crc32>296c2c8f</crc32>
+    <sha1>2a2073b518778f6d3df72eab5c76d1d675809b47</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_006300.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>be4a8a613484714dedb3d07e62193504</md5>
+    <mtime>1228062406</mtime>
+    <size>6512</size>
+    <crc32>902239c2</crc32>
+    <sha1>5c9150994b9adb2a339eb7bdaf1d2d400643f41e</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_006360.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>a254619a12ebe5e2a7f6f65f9965edf4</md5>
+    <mtime>1228062420</mtime>
+    <size>6807</size>
+    <crc32>2d14f5d6</crc32>
+    <sha1>9e820ffb0f06f0a83918c9f287e8d6001f05f785</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_006420.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>b66ae71e842c1b973709210a7ee0f743</md5>
+    <mtime>1228062433</mtime>
+    <size>6860</size>
+    <crc32>9b1ac242</crc32>
+    <sha1>8a1f86cb501537f947ab19bf2e539c8b1042d9ec</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_006480.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>5ebaddba64770334a20f4a0e151c61cc</md5>
+    <mtime>1228062443</mtime>
+    <size>6507</size>
+    <crc32>bca6dfda</crc32>
+    <sha1>38cd015e4fe01820244e81afa9ae0586c56eb952</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_006540.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>2279ee87bc9a1f99e1347fc1071f3add</md5>
+    <mtime>1228062456</mtime>
+    <size>6413</size>
+    <crc32>a08404c9</crc32>
+    <sha1>a09acc8b93f4af22c8e5542525ed8087054fbb2d</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_006600.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>771fbb4a5f149176c8d1d2f397566d71</md5>
+    <mtime>1228062469</mtime>
+    <size>6189</size>
+    <crc32>2b86533c</crc32>
+    <sha1>82f474f1bd3bf91736de73d810ed1cb2712afd5d</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_006660.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>d0a5bbc64f0c477a8ba374e4e8774a0d</md5>
+    <mtime>1228062482</mtime>
+    <size>6272</size>
+    <crc32>5230da66</crc32>
+    <sha1>7b5896bf393a0db20ca3a5a8ef2c7c6f2f8fe38a</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_006720.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>bd0fefaa9d5286abdeef028d0856cc80</md5>
+    <mtime>1228062495</mtime>
+    <size>6153</size>
+    <crc32>c6e1b710</crc32>
+    <sha1>03b9e67d040a9a39c50cb989b71b3d8f0c3a55fd</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_006780.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>189c14af929e0fd0c8baad07af94c2b2</md5>
+    <mtime>1228062508</mtime>
+    <size>6751</size>
+    <crc32>c72c7894</crc32>
+    <sha1>1d95cb44f2664bea66b8ad795975e05323954907</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_006840.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>adcdf60de4bc1572336c5079a29038a2</md5>
+    <mtime>1228062521</mtime>
+    <size>6359</size>
+    <crc32>ad6271a5</crc32>
+    <sha1>b267b4a6cda603cc9b1271f78d126affcd2b5c91</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_006900.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>d81502a04e3b594820ea5fed84b0d52a</md5>
+    <mtime>1228062534</mtime>
+    <size>6516</size>
+    <crc32>edbc3316</crc32>
+    <sha1>bd0fc42e3a7710416d992f06e3d547f512c43597</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_006960.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>0794656e2d39211bfd064fb864e1cdc6</md5>
+    <mtime>1228062546</mtime>
+    <size>5884</size>
+    <crc32>c34b287</crc32>
+    <sha1>a9e3005447cb932a7e24db7db32ae9abd7e243bd</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_007020.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>fbedbb30866b61f330ab7f7cd83e8a4d</md5>
+    <mtime>1228062553</mtime>
+    <size>6136</size>
+    <crc32>cbfb290f</crc32>
+    <sha1>1355c68e5a9fbcbcfe19649c93b3aaa5aee0950e</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_007080.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>bf1b15928a0012746af8b7f1a53ff72a</md5>
+    <mtime>1228062564</mtime>
+    <size>5288</size>
+    <crc32>8427454</crc32>
+    <sha1>98c54ab84b9890a98f113945c39bcf12d295c823</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_007140.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>465f004882ee9ec13dff819ebc06f000</md5>
+    <mtime>1228062573</mtime>
+    <size>4743</size>
+    <crc32>8e8e3d18</crc32>
+    <sha1>a4585ea90636a0dd44d79528e1bff2c8d70e2261</sha1>
+  </file>
+  <file name="tobacco_jbj54a00.thumbs/Bates_92377751-7756C_chunk_1_007200.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>Bates_92377751-7756C_chunk_1.mpg</original>
+    <md5>521b30238a698ee6519653c7d3aa9a3c</md5>
+    <mtime>1228062586</mtime>
+    <size>1911</size>
+    <crc32>a2d1b3de</crc32>
+    <sha1>0351747ba6c5ea5861eefc6881371da1dbfa5fe7</sha1>
+  </file>
+  <file name="tobacco_jbj54a00_archive.torrent" source="metadata">
+    <btih>0fce2e985e9e78d8f269903ae340a5995796e1d3</btih>
+    <mtime>1686017387</mtime>
+    <size>42139</size>
+    <md5>370ecfed4dc0174d8e76f33fa1a82a6d</md5>
+    <crc32>4fe8f84d</crc32>
+    <sha1>b192dc85d59817f32ee81795842905f39bb05d10</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="tobacco_jbj54a00_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>0a4f03669db264029873398039c5ee95</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="tobacco_jbj54a00_meta.xml" source="original">
+    <format>Metadata</format>
+    <mtime>1686017363</mtime>
+    <size>2001</size>
+    <md5>8064a4d1194607fa961533043bb9295d</md5>
+    <crc32>4c4905b2</crc32>
+    <sha1>595be623d1531bf4735e1d9356ed13bece3cb8d4</sha1>
+  </file>
+  <file name="tobacco_jbj54a00_reviews.xml" source="original">
+    <format>Metadata</format>
+    <md5>f6309a6c6a2afd33d1962d5e87e873f8</md5>
+    <mtime>1203635841</mtime>
+    <size>94</size>
+    <crc32>c1120759</crc32>
+    <sha1>06818259adf7aa8918a39ee72ca223dfa5f5d71c</sha1>
+  </file>
+</files>

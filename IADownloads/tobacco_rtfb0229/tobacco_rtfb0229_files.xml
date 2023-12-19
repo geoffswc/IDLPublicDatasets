@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="tobacco_rtfb0229.mp4" source="original">
+    <mtime>1567187864</mtime>
+    <size>3138051963</size>
+    <md5>ce63cf277d784dc5041797467df46306</md5>
+    <crc32>f52396b3</crc32>
+    <sha1>f0f42c17bc147a131510dc411bc5e629e9a92a3d</sha1>
+    <format>MPEG4</format>
+    <length>6613.35</length>
+    <height>484</height>
+    <width>655</width>
+  </file>
+  <file name="tobacco_rtfb0229.ogv" source="derivative">
+    <format>Ogg Video</format>
+    <original>tobacco_rtfb0229.mp4</original>
+    <mtime>1567204234</mtime>
+    <size>501733717</size>
+    <md5>d273f315ed20801c94d99b2f582cc56a</md5>
+    <crc32>c363ba0f</crc32>
+    <sha1>2080c774a8b6170559e09b308c01ddb735859e53</sha1>
+    <length>6613.35</length>
+    <height>300</height>
+    <width>406</width>
+  </file>
+  <file name="tobacco_rtfb0229_archive.torrent" source="metadata">
+    <btih>cb6ad5cdda7bc8e2d8dbf5b4c934685aa721bfe5</btih>
+    <mtime>1686019366</mtime>
+    <size>36839</size>
+    <md5>9589e1621d11c28fba9380bb76e5dece</md5>
+    <crc32>02b15af7</crc32>
+    <sha1>a686dc6f996ff79f0eb63376b7f163cc6fb1f155</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="tobacco_rtfb0229_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>2efc94d222171fca53ed5b3b5ca52d71</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="tobacco_rtfb0229_meta.sqlite" source="original">
+    <mtime>1567187907</mtime>
+    <size>9216</size>
+    <format>Metadata</format>
+    <md5>bb21a3c342dc88be6f59f43c18a20554</md5>
+    <crc32>9bea48b2</crc32>
+    <sha1>a6011976d01b337ab3a6fbcccb5833e3fdfad942</sha1>
+  </file>
+  <file name="tobacco_rtfb0229_meta.xml" source="original">
+    <mtime>1686019363</mtime>
+    <size>1201</size>
+    <format>Metadata</format>
+    <md5>19bac37cb304f222c338d772ed741841</md5>
+    <crc32>05592f0b</crc32>
+    <sha1>a51c6c23378887423728479945017fc2c7a4810f</sha1>
+  </file>
+</files>

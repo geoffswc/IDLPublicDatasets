@@ -1,0 +1,4 @@
+bigquery-pandas-output_files/*
+output-idl-json-files.archive.org/*
+.ipynb_checkpoints
+.DS_Store

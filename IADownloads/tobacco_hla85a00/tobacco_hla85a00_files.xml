@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1686017044</mtime>
+    <size>11036</size>
+    <md5>a411a7122d9220a87a1c2d1ea777b1a2</md5>
+    <crc32>9797d4bd</crc32>
+    <sha1>162c218454a860f57d4871e03e9c2a7f53c41b33</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="tobacco_hla85a00.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437708</mtime>
+    <size>532679</size>
+    <md5>f3613ba38ab1a5337a21ff78399f66c2</md5>
+    <crc32>c84d7a99</crc32>
+    <sha1>64e9f27afe08383703a16e511c39de1aad5d0207</sha1>
+  </file>
+  <file name="tobacco_hla85a00.m4v" source="original">
+    <format>MPEG4</format>
+    <length>2574.95</length>
+    <height>480</height>
+    <width>640</width>
+    <mtime>1381437301</mtime>
+    <size>1784039480</size>
+    <md5>3b4fd8f4866907d25d5ee50cd2c144ae</md5>
+    <crc32>bdc2025d</crc32>
+    <sha1>6466eaed675d856743409d49897ad0689addb20f</sha1>
+  </file>
+  <file name="tobacco_hla85a00.mp4" source="derivative">
+    <format>h.264</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381439658</mtime>
+    <size>268408751</size>
+    <md5>84c9af53967b0bb59d534cda6a45b69c</md5>
+    <crc32>a18d319f</crc32>
+    <sha1>0909a1cf9d1888db48ba634274a5587a78c21176</sha1>
+    <length>2574.94</length>
+    <height>480</height>
+    <width>640</width>
+  </file>
+  <file name="tobacco_hla85a00.ogv" source="derivative">
+    <format>Ogg Video</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381442052</mtime>
+    <size>218008003</size>
+    <md5>1c10e546513bcdd9e446489d84df3bad</md5>
+    <crc32>9e7df99b</crc32>
+    <sha1>3a121175d98f6553e39781d3d2a4e78fc2e1ff32</sha1>
+    <length>2574.94</length>
+    <height>300</height>
+    <width>400</width>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437711</mtime>
+    <size>1411</size>
+    <md5>a4f8e7086ddd052d46953b8c78e6d978</md5>
+    <crc32>8df36f21</crc32>
+    <sha1>46a4ad97788d6b10d418eda48f63d5899fb47eab</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437715</mtime>
+    <size>6487</size>
+    <md5>e426d8ed105e99dbbd3a5740429761e6</md5>
+    <crc32>dc90266d</crc32>
+    <sha1>1aa486f29e6cb2303fe67a0cfe44898fd01254f9</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437720</mtime>
+    <size>7449</size>
+    <md5>ec506fc99d1016e505fb469a0fcdb799</md5>
+    <crc32>03178d1e</crc32>
+    <sha1>8a7e0a446beeec8e56b6d44c0271fb85a915b05c</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437725</mtime>
+    <size>6664</size>
+    <md5>a758f8aa1602d63b42af75f3fca60e56</md5>
+    <crc32>4058588c</crc32>
+    <sha1>5095b67328c862c3ede1638e3417e9433e7f5a2c</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437730</mtime>
+    <size>6138</size>
+    <md5>d6d7c525c6ac6f6884ecd543629f21a4</md5>
+    <crc32>f483f320</crc32>
+    <sha1>1992600e5c13066e42b3569416d02c2cd217d577</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_000330.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437735</mtime>
+    <size>11076</size>
+    <md5>726ac37dca3ee56f1e345e405f1791fa</md5>
+    <crc32>3a14a042</crc32>
+    <sha1>69cc11250f8efc6463ca7815c3b47676dfaa082b</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_000390.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437740</mtime>
+    <size>10290</size>
+    <md5>d0194e054f3722d4fcc389e02a6ea242</md5>
+    <crc32>6c0865df</crc32>
+    <sha1>60a7a27e702d32be2a1f995116f279832c162fae</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_000450.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437745</mtime>
+    <size>10889</size>
+    <md5>40df671423895ea6e7bb937e4693e813</md5>
+    <crc32>1e108a80</crc32>
+    <sha1>78e40deb22fa74907d6b189ef08a158f06ffdb5b</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_000510.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437750</mtime>
+    <size>9150</size>
+    <md5>3ab9c3bb152d0cdbc86d66cacfe34b59</md5>
+    <crc32>2ee43e63</crc32>
+    <sha1>09acb935c4aa4d7f781c65b54d10532c5793dcbd</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_000570.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437755</mtime>
+    <size>10224</size>
+    <md5>aacd647881c2ac24532ab9d840de3d1f</md5>
+    <crc32>4e2c1f2c</crc32>
+    <sha1>409a7d65d47f8774eb16d02874b2707b1d5ea926</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_000630.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437760</mtime>
+    <size>10995</size>
+    <md5>385deb6170438f95bc442421d9fb5d81</md5>
+    <crc32>117b800b</crc32>
+    <sha1>64f0d6e903e5b3551b52cba7d8c6d37ae3ccfc60</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_000690.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437765</mtime>
+    <size>9952</size>
+    <md5>8028f2bff774afae00b8e5e77dc1084c</md5>
+    <crc32>798e9409</crc32>
+    <sha1>090e991ed83ba8e53363a5ff900c137ad46341ab</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_000750.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437770</mtime>
+    <size>10641</size>
+    <md5>1acfe72afd59741a25a3a757a2ff984e</md5>
+    <crc32>7e29e67e</crc32>
+    <sha1>ee71f56b4ad3e8308cee5b052bba288fcd2394c7</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_000810.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437775</mtime>
+    <size>9708</size>
+    <md5>5e841c9a2d7d3be64544a05c91def8a9</md5>
+    <crc32>3ee8cfb0</crc32>
+    <sha1>1a95e42c53a4c089e733d21f96568254d4ac7841</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_000870.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437780</mtime>
+    <size>10247</size>
+    <md5>a2b888b92844af19404be192b4285d31</md5>
+    <crc32>b5f7f596</crc32>
+    <sha1>e7927276db994fc83972a6c8ee1bb703a9ed4781</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_000930.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437785</mtime>
+    <size>10704</size>
+    <md5>f269b063d8f3145940184f1eb2152fee</md5>
+    <crc32>0ddc89a4</crc32>
+    <sha1>128ce42093178af8e221c43dd68d49f8940ce0d0</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_000990.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437790</mtime>
+    <size>11017</size>
+    <md5>17903a21f16275ac1ec11ce802837eb0</md5>
+    <crc32>920bf351</crc32>
+    <sha1>cc6d17fdb851f786b690444c2f634367d7f91274</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_001050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437794</mtime>
+    <size>10895</size>
+    <md5>4ba3c10edddd843f9d71cd2695cd8bcb</md5>
+    <crc32>0fa6acc1</crc32>
+    <sha1>a144430475ccbc1a5f3e65b76996608307c96ff3</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_001110.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437799</mtime>
+    <size>10771</size>
+    <md5>879b50b785f2b13f0148cabf7d943d0a</md5>
+    <crc32>ec35011a</crc32>
+    <sha1>e255d951bf658d64846b0419a2edcaaf22316cf3</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_001170.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437804</mtime>
+    <size>9889</size>
+    <md5>c50abd849e4ec4fc44a758edcdac6100</md5>
+    <crc32>0b140979</crc32>
+    <sha1>bd8a5d803a1290ecf51de19e7fea1ac707314fc1</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_001230.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437809</mtime>
+    <size>10589</size>
+    <md5>22e804d85234df1d80aaf136296aa078</md5>
+    <crc32>04e42989</crc32>
+    <sha1>8872c837478952d2f0e95af1a63d6796b5bd44e5</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_001290.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437813</mtime>
+    <size>10439</size>
+    <md5>252751fd18c75416f404aa09e27d6484</md5>
+    <crc32>0c9196f8</crc32>
+    <sha1>5f3c28c5d60aac6d4e4432a135684ca09e2da0b6</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_001350.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437818</mtime>
+    <size>10360</size>
+    <md5>9e9d4515a616c17a5ffb8152d4489107</md5>
+    <crc32>6f6b50ba</crc32>
+    <sha1>42d6c3a4b38875147bff2c7ee9326b6034a2418e</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_001410.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437823</mtime>
+    <size>10801</size>
+    <md5>78f7ab611754d2be538e83f6c3c816f9</md5>
+    <crc32>c3dbcdc6</crc32>
+    <sha1>61dfedff91675d64a065d352c240aef177fdab55</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_001470.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437828</mtime>
+    <size>10987</size>
+    <md5>58999fb64af647200e61b57769aa9896</md5>
+    <crc32>b0ff78e7</crc32>
+    <sha1>e79605a1ef6209177a548bf46f8cbaa338b6818e</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_001530.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437833</mtime>
+    <size>11150</size>
+    <md5>928c62a2c8b655effc431f626dfabc34</md5>
+    <crc32>afdfbc05</crc32>
+    <sha1>11eb6534d6f0a8229e9007c5d521f0884b93a814</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_001590.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437838</mtime>
+    <size>10377</size>
+    <md5>b82262ef4d4d8350c1195b5417d5cda5</md5>
+    <crc32>0adff6e2</crc32>
+    <sha1>b8968ac1298c4ee5a3a353839717988ef53fd367</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_001650.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437843</mtime>
+    <size>10560</size>
+    <md5>070e013c55e83f390a738a9bd7492c1d</md5>
+    <crc32>5221bc7f</crc32>
+    <sha1>ad241d9dfad05b298df20d5745f1962c044962bd</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_001710.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437848</mtime>
+    <size>9460</size>
+    <md5>3b1bccb8d222e8005f32ee12acedc382</md5>
+    <crc32>93cb4f46</crc32>
+    <sha1>81a422b51ab966a80bea860e8dcf00e4b57fc9e2</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_001770.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437853</mtime>
+    <size>10676</size>
+    <md5>58b1bae10175d0e6f7af1297de7cd771</md5>
+    <crc32>2be54d44</crc32>
+    <sha1>5b6ad7ac7d482489d5fecb1e1801a43cce5364a3</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_001830.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437858</mtime>
+    <size>9681</size>
+    <md5>c7d9ef078876dedb86bfe0586f45ea65</md5>
+    <crc32>62f01f95</crc32>
+    <sha1>9aef40673e385c9fb36f214fdcf6bd5dc640b161</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_001890.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437863</mtime>
+    <size>10226</size>
+    <md5>74bd8abc070f63505e5aca02038ffeb9</md5>
+    <crc32>9a68b95e</crc32>
+    <sha1>6abbc295accc89ada6a29c1c94cd4881277768d6</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_001950.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437868</mtime>
+    <size>10441</size>
+    <md5>42369277813cff9416a7cd330e258094</md5>
+    <crc32>1f597b1f</crc32>
+    <sha1>038a7b7436995e45ddec153d3a4ed84058c6b92e</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_002010.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437873</mtime>
+    <size>10569</size>
+    <md5>58e70554749112dc291057c797ba8982</md5>
+    <crc32>4451e700</crc32>
+    <sha1>fbfa25f6cfb2848f81e8396e7827ce6af039be4d</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_002070.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437878</mtime>
+    <size>9447</size>
+    <md5>b12c921c42ad056a1284a70865d9c556</md5>
+    <crc32>0f7d29a4</crc32>
+    <sha1>93cd29ba082cbfb488cdfa5e858ecd71ed14fe03</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_002130.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437884</mtime>
+    <size>10727</size>
+    <md5>ad9a329a7b036b83faea527bb6b5ca53</md5>
+    <crc32>e62beed4</crc32>
+    <sha1>da0af9ff02010bbabb1d5b060dc0f1eb4b8c5725</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_002190.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437889</mtime>
+    <size>9764</size>
+    <md5>e9f8b0f2cd9aff78e37adac97d0bd14c</md5>
+    <crc32>a757ab27</crc32>
+    <sha1>c7e5399fbec5d2fdeca462ed100bb742902d51de</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_002250.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437894</mtime>
+    <size>10630</size>
+    <md5>c0d1cd474746e41f6f5f32748e517ebb</md5>
+    <crc32>315e6a0a</crc32>
+    <sha1>71965d05bf99ff9b0c97f1a95069ccfa26d4b585</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_002310.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437899</mtime>
+    <size>10592</size>
+    <md5>29f1fe738ef46236f135c1de61a97253</md5>
+    <crc32>526934a7</crc32>
+    <sha1>19c72967dc1745065f5df85fa4e782d7edb2be43</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_002370.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437904</mtime>
+    <size>10653</size>
+    <md5>4a7dd9ad2d275bdb12dddc89e95e67bf</md5>
+    <crc32>966f2bec</crc32>
+    <sha1>b211469423ae85f94f74c7201607315cdfd7e394</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_002430.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437909</mtime>
+    <size>9408</size>
+    <md5>087168c86986931058a04f514dbd3375</md5>
+    <crc32>614560cf</crc32>
+    <sha1>c695cdca973e7c046d3a4fe6545d026bf4e25c96</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_002490.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437914</mtime>
+    <size>9468</size>
+    <md5>8346083a2f17f2c96c32e5a8b8e0aa2d</md5>
+    <crc32>1e3913f7</crc32>
+    <sha1>4686cd4a8603fab78f48a63329c321b180f5b67b</sha1>
+  </file>
+  <file name="tobacco_hla85a00.thumbs/hla85a00_002550.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_hla85a00.m4v</original>
+    <mtime>1381437919</mtime>
+    <size>9595</size>
+    <md5>e39b7391c9630bc7b3e3d05d7da3dd30</md5>
+    <crc32>40be78ef</crc32>
+    <sha1>f799582f84b3208b3ca7f2835580c89633c51feb</sha1>
+  </file>
+  <file name="tobacco_hla85a00_archive.torrent" source="metadata">
+    <btih>d24b950ac06012cd298dcbc0cccc8305cca835b6</btih>
+    <mtime>1686017044</mtime>
+    <size>24524</size>
+    <md5>da8c145ca18d67fef1e4c7742228d624</md5>
+    <crc32>226d0832</crc32>
+    <sha1>89669ce47b7a85711117051037f813fd68f72bcb</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="tobacco_hla85a00_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>ddc0d396fec0801fe882d186eb295e5f</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="tobacco_hla85a00_meta.sqlite" source="original">
+    <format>Metadata</format>
+    <mtime>1381437389</mtime>
+    <size>9216</size>
+    <md5>1611429255d7875c8c455414c4dea760</md5>
+    <crc32>14dbfbd3</crc32>
+    <sha1>885842b4d3690555e9849626c6c7ab2b87b1c77d</sha1>
+  </file>
+  <file name="tobacco_hla85a00_meta.xml" source="original">
+    <format>Metadata</format>
+    <mtime>1686017043</mtime>
+    <size>2274</size>
+    <md5>6fd93d4e6eff2d89fc0e61356a4e75d4</md5>
+    <crc32>8780eb0f</crc32>
+    <sha1>8e7be08e59de6c6353c9f052669d0994838137a8</sha1>
+  </file>
+</files>

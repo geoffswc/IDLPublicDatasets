@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1686022721</mtime>
+    <size>8086</size>
+    <md5>72f7b9c66983953ff8dd85fc4393e54b</md5>
+    <crc32>346ec529</crc32>
+    <sha1>8e115901795f321644ef8b62855603461c348b9f</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="tobacco_xtpp0225.mp4" source="original">
+    <mtime>1507759138</mtime>
+    <size>236754916</size>
+    <md5>d5183eeacdefda20cde5bfe98d81fab7</md5>
+    <crc32>ead362d2</crc32>
+    <sha1>f0b381548afd5977171a98674fea68566f1a4441</sha1>
+    <format>MPEG4</format>
+    <length>1812.92</length>
+    <height>480</height>
+    <width>648</width>
+  </file>
+  <file name="tobacco_xtpp0225.ogv" source="derivative">
+    <format>Ogg Video</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507763315</mtime>
+    <size>135383616</size>
+    <md5>a5eeda574ba6c3ce978a62111fe3a9d8</md5>
+    <crc32>521b0bc6</crc32>
+    <sha1>8bcca1cf65d34c2416139ba78674dca1e79d067f</sha1>
+    <length>1812.92</length>
+    <height>300</height>
+    <width>405</width>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759244</mtime>
+    <size>6923</size>
+    <md5>b405ad3d3813070c06669bb348b8f13e</md5>
+    <crc32>6227d408</crc32>
+    <sha1>c030771313128cd5bbd29f96612d6a5f90b774a1</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_000114.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759266</mtime>
+    <size>6717</size>
+    <md5>841cdeb913c41026f9dedcfbe5b7a283</md5>
+    <crc32>4e10f92b</crc32>
+    <sha1>921e2e9f5921f34599baa34c138bfcd7ddd3f8bb</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_000174.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759286</mtime>
+    <size>7011</size>
+    <md5>dca7f68c64b1223732fffd25e02cc4d0</md5>
+    <crc32>4ebb10bc</crc32>
+    <sha1>ae6c53ed8c040b23fcaaccf85bc645d252f372c4</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_000234.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759308</mtime>
+    <size>6881</size>
+    <md5>d4a9e7ae39e6e53bfc6ada50aa86c399</md5>
+    <crc32>2338a004</crc32>
+    <sha1>fcdade0d66cecd4610ce3c0f5d714d00faa33dfd</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_000294.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759331</mtime>
+    <size>6965</size>
+    <md5>410ace1c73a6bbc6873ac12edbdca7d1</md5>
+    <crc32>4a96cdb6</crc32>
+    <sha1>a9ebdde171556a53808ac6104e5dbd3cd47dcc61</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_000354.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759358</mtime>
+    <size>6058</size>
+    <md5>0546320258d30826cee2a4c0eaca1b14</md5>
+    <crc32>591504e1</crc32>
+    <sha1>409acb01c1e47d8d1f8dcbeaf9ea867912a4b654</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_000414.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759384</mtime>
+    <size>6127</size>
+    <md5>cc9f2048f7252abc4369394b04789d99</md5>
+    <crc32>54045fdb</crc32>
+    <sha1>e156ec32c52229a702a5880b81bea6088e3bdcc5</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_000474.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759408</mtime>
+    <size>6180</size>
+    <md5>a31964b9423ac738d06a7b7aebb042c9</md5>
+    <crc32>4e36305c</crc32>
+    <sha1>3fdd766eca274af42d266086379478f7c6c54ea0</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_000534.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759431</mtime>
+    <size>6230</size>
+    <md5>f6b93b79d6c27452569d41137359f07c</md5>
+    <crc32>88dc51f0</crc32>
+    <sha1>7a7d99721e40c151d4aa93a56544313664fc1199</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_000594.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759453</mtime>
+    <size>6234</size>
+    <md5>4ad0b8b0d72ee3362843422153c5654c</md5>
+    <crc32>a3112b59</crc32>
+    <sha1>e67c0f1832f8a978cfc02d54316d5457bec3d11a</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_000654.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759475</mtime>
+    <size>6215</size>
+    <md5>0f381178a899c8351285a4241e90cdf1</md5>
+    <crc32>dc6fc634</crc32>
+    <sha1>f57eaab26d388183b04c256454df005fc7b13f12</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_000714.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759498</mtime>
+    <size>6004</size>
+    <md5>973de183aa3cc03f70cead726b4fe59d</md5>
+    <crc32>b739630f</crc32>
+    <sha1>d4d246d21f80aa8a219dda17ab9865fc19e3e872</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_000774.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759522</mtime>
+    <size>6161</size>
+    <md5>737593bc28c6cc1ac61b8dbe340f0380</md5>
+    <crc32>4fc7b925</crc32>
+    <sha1>9beb3c6103f8e4a2f30b6b63ccda7ec413fa8a16</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_000834.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759547</mtime>
+    <size>6155</size>
+    <md5>6b574c0a21c0c230ee9cade72f1992c4</md5>
+    <crc32>e8b62c47</crc32>
+    <sha1>f1d1591181ef88e7f5f2e6f44d24b249f820205c</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_000894.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759568</mtime>
+    <size>5974</size>
+    <md5>e40b575ae1e9c89b010dd1a8bbbff434</md5>
+    <crc32>f8e04c12</crc32>
+    <sha1>6d827c3094a39850b0447c955f99b3a40253e13b</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_000954.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759589</mtime>
+    <size>6010</size>
+    <md5>b2521a293f664578ee17b5be59ada877</md5>
+    <crc32>1adbac67</crc32>
+    <sha1>82056d87478a6deae2fe2deeec52b3af8e51e0f0</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_001014.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759611</mtime>
+    <size>6055</size>
+    <md5>63ae960c2288e3d5ea340ca3a41e05a0</md5>
+    <crc32>554382ee</crc32>
+    <sha1>5bc3d876582c30579ace1ea66ceb7c4b6747da4c</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_001074.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759632</mtime>
+    <size>6036</size>
+    <md5>785ccd893335c3513bd326a36868be7d</md5>
+    <crc32>7ca49856</crc32>
+    <sha1>9315d6127ae776b9dd9eaf5f0d67fb8e029f59ab</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_001134.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759653</mtime>
+    <size>5962</size>
+    <md5>d13845ed76a7caf5851266212548db7a</md5>
+    <crc32>7c5d20e2</crc32>
+    <sha1>0b08f273aadb7acfc478d5451b57fd31885f4936</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_001194.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759676</mtime>
+    <size>5877</size>
+    <md5>e82aa23838bc65d0ad3f5d04711ca6fe</md5>
+    <crc32>d780a2ea</crc32>
+    <sha1>e74e070f59b85b449da26db2beac4eb48d57f7db</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_001254.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759698</mtime>
+    <size>6010</size>
+    <md5>786ec4d4dfd7a0323ee59f5389f293dd</md5>
+    <crc32>8192ef2d</crc32>
+    <sha1>f8ef0d979992d6b3176087787606c14b37a15a20</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_001314.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759719</mtime>
+    <size>6144</size>
+    <md5>dbc431491d73455abc6263ae30aca29a</md5>
+    <crc32>0b0a9825</crc32>
+    <sha1>13df94e11ffc6fdd5ae48c943d9fd734f1258981</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_001374.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759739</mtime>
+    <size>5920</size>
+    <md5>3aa82b574e034f35efccfa7e9bafd96f</md5>
+    <crc32>4652315d</crc32>
+    <sha1>5542a9ec947f0f2aede8c638a17c2470cb402375</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_001434.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759759</mtime>
+    <size>6284</size>
+    <md5>4b595b64e8f12e978a05e371b9f1d0b0</md5>
+    <crc32>2766ec88</crc32>
+    <sha1>915ad49ba9c66e1cde6382d77946a4300d4f11ec</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_001494.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759779</mtime>
+    <size>6099</size>
+    <md5>c38f6c03326cf09f6becadd3ebca8faa</md5>
+    <crc32>8b182970</crc32>
+    <sha1>fa395bbb9f4c7d37f94c116ec9dfa92f6c98d6a3</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_001554.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759801</mtime>
+    <size>6052</size>
+    <md5>4f523a097c8dbdf935ac112882de5e37</md5>
+    <crc32>ce4829c5</crc32>
+    <sha1>e69b98f831482539188fe8bc4642b7ad6ab3bd61</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_001614.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759822</mtime>
+    <size>6207</size>
+    <md5>d968df180fb2a467ab40508cb60c61df</md5>
+    <crc32>d227cc71</crc32>
+    <sha1>2bb9651442380c0a88f69f01d0e89e65273908f5</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_001674.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759843</mtime>
+    <size>6201</size>
+    <md5>68a38fa3fd5b7f89e60d0e66ee2bcf19</md5>
+    <crc32>9af1dfc5</crc32>
+    <sha1>6a6b2c18eb1123a99885d3929ee03b62e610cc94</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_001734.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759864</mtime>
+    <size>6418</size>
+    <md5>f626c72cb82f5b073e50f34511519799</md5>
+    <crc32>d1a135f0</crc32>
+    <sha1>715c97a8b83d357dd050dad5ba406278796bf34d</sha1>
+  </file>
+  <file name="tobacco_xtpp0225.thumbs/tobacco_xtpp0225_001794.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_xtpp0225.mp4</original>
+    <mtime>1507759883</mtime>
+    <size>6389</size>
+    <md5>005c922b5a25899df655c5ddf8bc6c0c</md5>
+    <crc32>f8844745</crc32>
+    <sha1>3d07e71dcbee94ed72cc9bc11fdfe3ab33070006</sha1>
+  </file>
+  <file name="tobacco_xtpp0225_archive.torrent" source="metadata">
+    <btih>4b18957993fe7e042a136851fa818acdf829f2e4</btih>
+    <mtime>1686022724</mtime>
+    <size>16221</size>
+    <md5>11be15d9a812a600583f6d6013e7f17a</md5>
+    <crc32>772cd7d7</crc32>
+    <sha1>cf2aa6a7aff83d63c7a832d86663966534c0f84c</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="tobacco_xtpp0225_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>2f2ec1e32f699e1a5e818fcd17362139</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="tobacco_xtpp0225_meta.sqlite" source="original">
+    <mtime>1507759189</mtime>
+    <size>9216</size>
+    <md5>d2c5129d6c2e5e34c0b720a736bcc429</md5>
+    <crc32>aaee0515</crc32>
+    <sha1>c0ff50774fe5d0dd0167fe5dcfeec30c86e3c858</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="tobacco_xtpp0225_meta.xml" source="original">
+    <mtime>1686022720</mtime>
+    <size>1202</size>
+    <format>Metadata</format>
+    <md5>6f460a099d902a0effd29e3d672d4be9</md5>
+    <crc32>1462c6ad</crc32>
+    <sha1>aee9690cc659cdce65b1078e75436adc56e886bb</sha1>
+  </file>
+</files>

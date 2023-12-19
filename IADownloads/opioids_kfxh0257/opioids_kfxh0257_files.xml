@@ -1,0 +1,2595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1661379327</mtime>
+    <size>9593</size>
+    <md5>0fe81ba0ea9f712a16b30c7aacfdf50c</md5>
+    <crc32>6fdabc97</crc32>
+    <sha1>23b2befd0f08eba99220c7038bdbe07a5f22e6ec</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="kfxh0257-0001.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661378477</mtime>
+    <size>853911609</size>
+    <md5>edd42e795a5bde4b07a8fd0d526eeb5d</md5>
+    <crc32>28b6b23d</crc32>
+    <sha1>24746e9dc81cb0b12aecdb60658190f5096fa80d</sha1>
+    <length>3499.47</length>
+    <width>657</width>
+    <height>480</height>
+  </file>
+  <file name="kfxh0257-0001.mp4" source="original">
+    <mtime>1661375752</mtime>
+    <size>853911609</size>
+    <md5>f6129b4366b622948777289788d31930</md5>
+    <crc32>62e992c3</crc32>
+    <sha1>6c140afa5ac38c1f236f42f88be7546b139f7ebb</sha1>
+    <format>MPEG4</format>
+    <length>3499.47</length>
+    <width>657</width>
+    <height>480</height>
+  </file>
+  <file name="kfxh0257-0002.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661378886</mtime>
+    <size>1712946587</size>
+    <md5>b7aa4328c04772b4a3a78c5ea6d02c3a</md5>
+    <crc32>ad8d6d3b</crc32>
+    <sha1>fa92334517649779d422b9fea99e7104eef2bd56</sha1>
+    <length>7023.16</length>
+    <width>657</width>
+    <height>480</height>
+  </file>
+  <file name="kfxh0257-0002.mp4" source="original">
+    <mtime>1661375672</mtime>
+    <size>1712946587</size>
+    <md5>11c6ba86e1461cd2b6fb8d4291300379</md5>
+    <crc32>45f14e7d</crc32>
+    <sha1>121dab69f8ee8d437d78828e786fc64120ac22cd</sha1>
+    <format>MPEG4</format>
+    <length>7023.16</length>
+    <width>657</width>
+    <height>480</height>
+  </file>
+  <file name="kfxh0257-0003.ia.mp4" source="derivative">
+    <format>h.264 IA</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661379072</mtime>
+    <size>1434932082</size>
+    <md5>a71610361cfe0e1f5f2e2250b1fc3eaf</md5>
+    <crc32>34eee4ca</crc32>
+    <sha1>7c72b3acd5555af26badedc3c580b327363ae1fc</sha1>
+    <length>5885.84</length>
+    <width>657</width>
+    <height>480</height>
+  </file>
+  <file name="kfxh0257-0003.mp4" source="original">
+    <mtime>1661375740</mtime>
+    <size>1434932082</size>
+    <md5>ee53d1c7dbfa1214fd4ac48f9015f2b7</md5>
+    <crc32>310f03d7</crc32>
+    <sha1>03657d3911c3d132b3f03fb0e069d1c0e8cc22db</sha1>
+    <format>MPEG4</format>
+    <length>5885.84</length>
+    <width>657</width>
+    <height>480</height>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377285</mtime>
+    <size>42619</size>
+    <md5>e784df028ad086b78a5150cd8b030f48</md5>
+    <crc32>ba8a001d</crc32>
+    <sha1>cc9c54e6b190872a88dcf62c301ced6e82df0bdb</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_000114.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377290</mtime>
+    <size>46900</size>
+    <md5>42762a8841be471fd982beecb97bb857</md5>
+    <crc32>e2bb52e0</crc32>
+    <sha1>27978833f63fe12b5e2b3232a1e89e3f88c5e0ab</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_000174.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377294</mtime>
+    <size>61979</size>
+    <md5>e0b0a3e67755d4fbe15386bb1ecd76fc</md5>
+    <crc32>11eee141</crc32>
+    <sha1>1e299a87f5fd2e1628e62e1e00822a04fa66af2b</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_000234.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377299</mtime>
+    <size>60543</size>
+    <md5>a20ccc3cc855b7071be1fb8d27c55df7</md5>
+    <crc32>5cf9d259</crc32>
+    <sha1>540ae3394b46e63a045d41ef53485a3129e5b6c0</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_000294.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377304</mtime>
+    <size>56546</size>
+    <md5>7bedca930a14c500ae5b448c1e2a732c</md5>
+    <crc32>19ba7392</crc32>
+    <sha1>fd3d270902caf8522197d6434c21a6ec91ef2656</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_000354.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377308</mtime>
+    <size>54950</size>
+    <md5>5c32ae116d12b7a8f743f93156f9812b</md5>
+    <crc32>237a501f</crc32>
+    <sha1>1f455d57764ed4da4050476f4de7807660ea0030</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_000414.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377313</mtime>
+    <size>63627</size>
+    <md5>c46b90b4218f1e8c073105fa4e5daedb</md5>
+    <crc32>715f65ef</crc32>
+    <sha1>7503d30d16ce2bd8e2b346fda92f4adb30a64765</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_000474.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377318</mtime>
+    <size>57681</size>
+    <md5>bc548fb666971a2c5aa38d7ef825ee6e</md5>
+    <crc32>35d7cf64</crc32>
+    <sha1>1640fd9191d5b46188fdd2cde59b5e6836979c7d</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_000534.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377323</mtime>
+    <size>64595</size>
+    <md5>4697734b93b931175cce52313bf2f14e</md5>
+    <crc32>824a71de</crc32>
+    <sha1>ae443201cb79713ea4b0ceaa68b2cd06ce82b971</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_000594.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377328</mtime>
+    <size>57561</size>
+    <md5>6465d920494aeef77c7eee0628f3a318</md5>
+    <crc32>928c95c3</crc32>
+    <sha1>92e03dcf225dd97ab1adf11939e882b0ed5784bd</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_000654.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377333</mtime>
+    <size>57706</size>
+    <md5>60539e311c3dde33fffad97b17deea91</md5>
+    <crc32>34cd58d5</crc32>
+    <sha1>efa47b264e266780d9398367b7b4eeb0e792d854</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_000714.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377338</mtime>
+    <size>58357</size>
+    <md5>425fcdf6e26a580aded58289ffe148a0</md5>
+    <crc32>e9423497</crc32>
+    <sha1>6a2150964cd9036a9cd87c4030e4bd355f7bd9e8</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_000774.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377343</mtime>
+    <size>55187</size>
+    <md5>1b62c578dc28ff1c8378554fe1b30961</md5>
+    <crc32>f2466127</crc32>
+    <sha1>7c951bb970c3f9aa21f7adf8032215e06290e869</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_000834.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377347</mtime>
+    <size>56898</size>
+    <md5>bfa96bb73f6a575fdc2537baa0435eb9</md5>
+    <crc32>3f9b36e1</crc32>
+    <sha1>fe6a1f0f00a935f14130c9096ea01456ee121ebb</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_000894.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377352</mtime>
+    <size>62793</size>
+    <md5>97b3f87ef7edfaf9c2f61b1a549bf9fb</md5>
+    <crc32>bd22efe7</crc32>
+    <sha1>4474d1b755cda177b0fe84a0e1fa1c0003bf404a</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_000954.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377357</mtime>
+    <size>52548</size>
+    <md5>a9403f8db13403f966e18ff0ebcfc5a7</md5>
+    <crc32>4c39630b</crc32>
+    <sha1>e03f9e805f025fe5945474a7b4472adb559d54a3</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_001014.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377361</mtime>
+    <size>53163</size>
+    <md5>69d658d08820d65e3bf9e5f1316d2375</md5>
+    <crc32>13911cf4</crc32>
+    <sha1>8670f80ebc3d91ec12dc96eb131f79fd8fd476ff</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_001074.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377366</mtime>
+    <size>56939</size>
+    <md5>4ad117dfd51e597a962123d349df2509</md5>
+    <crc32>43f3129c</crc32>
+    <sha1>6626e30255882487cdb4dcf4261f99f925dbcdb8</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_001134.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377373</mtime>
+    <size>56635</size>
+    <md5>78d30897c158547bb2b3a63aea12c854</md5>
+    <crc32>8edff147</crc32>
+    <sha1>c845f29d9c54127b285668c9c04164a36c309fdc</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_001194.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377382</mtime>
+    <size>59231</size>
+    <md5>1be6215bc41a08edb85c1865273d7b58</md5>
+    <crc32>40cd4aaa</crc32>
+    <sha1>0439d6712e88a8778fbe9b8b8f0f626069369d2c</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_001254.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377390</mtime>
+    <size>58572</size>
+    <md5>465791dff7015fa3b49763ec6cddf467</md5>
+    <crc32>386fcce5</crc32>
+    <sha1>0648b64ddbe31c75dc424731ea5b411b476e2943</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_001314.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377399</mtime>
+    <size>55688</size>
+    <md5>c257430abc2cc2188548e45742df3518</md5>
+    <crc32>9442fd80</crc32>
+    <sha1>a36dc36ea6190c921d1cfadd00c6a0275b196277</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_001374.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377408</mtime>
+    <size>56418</size>
+    <md5>d94608c6dcfe523c5eff8366624b99c9</md5>
+    <crc32>986bf31f</crc32>
+    <sha1>1bfb8153183373c2b13db0b134908f76e813e521</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_001434.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377419</mtime>
+    <size>63211</size>
+    <md5>295adadda24f8b405b9071308750e8dd</md5>
+    <crc32>0206e42f</crc32>
+    <sha1>f240179a8adc92adde0d840520743811755b5150</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_001494.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377429</mtime>
+    <size>56368</size>
+    <md5>3ee15e9914a93b6378fade4ab2a1efca</md5>
+    <crc32>88f9377f</crc32>
+    <sha1>43667d1eb7ce3dd5c905e61bc17cdb293deb8c82</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_001554.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377436</mtime>
+    <size>61895</size>
+    <md5>2250ca709f81ee503bdd78fd1ab1721b</md5>
+    <crc32>6e997b87</crc32>
+    <sha1>612f9881222ffe5b3ffe0eb72517750cce3dcb1e</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_001614.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377445</mtime>
+    <size>52503</size>
+    <md5>d02823a72688d41f68bf7ac3af14b098</md5>
+    <crc32>898161dd</crc32>
+    <sha1>02a57934ffeb51c8e7da76dc75f9ed0fcf21980f</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_001674.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377454</mtime>
+    <size>64791</size>
+    <md5>dee9e86a4d1ae5bf984f4577f32952e7</md5>
+    <crc32>e26250e3</crc32>
+    <sha1>46a954d1fcebdaed58ee1deb94f9eb8068cfc355</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_001734.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377465</mtime>
+    <size>61010</size>
+    <md5>ae3c79e282ab2319803adfa38fddad79</md5>
+    <crc32>7f6dd43d</crc32>
+    <sha1>534cb85e6bc6ea3e183783d049366fd838ad6614</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_001794.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377473</mtime>
+    <size>58506</size>
+    <md5>d362bd525c453e3a2f4bfade5a495cbd</md5>
+    <crc32>7962c755</crc32>
+    <sha1>c1a7cbd18dfd5bde7ccd4d34f4e0706fc482e124</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_001854.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377481</mtime>
+    <size>53437</size>
+    <md5>f96ae7df29a14cfd4e8c637fa6dfe4e9</md5>
+    <crc32>c03397e2</crc32>
+    <sha1>b8d71c1a4352b3864a5013863fe6b7c1418fd48e</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_001914.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377489</mtime>
+    <size>59812</size>
+    <md5>358091d17d6ea62c22bbac985a7f0de8</md5>
+    <crc32>e1b3b669</crc32>
+    <sha1>56ff31dd630a85d710f7b4e81ead969edf65c11d</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_001974.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377496</mtime>
+    <size>62715</size>
+    <md5>16eef1f9735717ca08d1ae8bce2f2187</md5>
+    <crc32>68465898</crc32>
+    <sha1>cce304b427fe6abe74756af72e3361ffa7773cc0</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_002034.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377501</mtime>
+    <size>61920</size>
+    <md5>61b8ad3ee3712dd04623149924e70930</md5>
+    <crc32>5b7beeb3</crc32>
+    <sha1>54c685483d9a742e6e53bc36eb57f0ccaa5d9d2d</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_002094.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377508</mtime>
+    <size>55945</size>
+    <md5>e9d810384dd6da8b3f4156e412ff1b02</md5>
+    <crc32>511132e8</crc32>
+    <sha1>476242cd00def49043df099f0945a2ad14a703bb</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_002154.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377516</mtime>
+    <size>51425</size>
+    <md5>08c382b9c5e5ee5221021cee94525fe3</md5>
+    <crc32>16430ff0</crc32>
+    <sha1>fc4ad0d7542ce3ff82b4e626e83c8f7a304e826c</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_002214.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377523</mtime>
+    <size>50077</size>
+    <md5>512544b31cbc31edaec75e710110cecc</md5>
+    <crc32>65d525d9</crc32>
+    <sha1>b6fc2be1530768ff08abe9422db3b97671a199b5</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_002274.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377531</mtime>
+    <size>59223</size>
+    <md5>275bd39dc74cbdce16de8c891219c1c2</md5>
+    <crc32>d1f6a0ac</crc32>
+    <sha1>bbe31d8d6dd010b25327d0c9f4cc2db0535e084e</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_002334.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377540</mtime>
+    <size>62386</size>
+    <md5>a2a70b1ae92212058a1462cc5708798a</md5>
+    <crc32>cc98c77d</crc32>
+    <sha1>2196f1fca2b93d4b2238c268b32cd556abad1580</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_002394.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377546</mtime>
+    <size>59911</size>
+    <md5>2ab76d70efadcef659a6ee53d1b0d5ca</md5>
+    <crc32>6ada0c3e</crc32>
+    <sha1>1b520c3096afd15c3f24d1e3d1fc2ac52dc4ea48</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_002454.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377553</mtime>
+    <size>55747</size>
+    <md5>f0c5c8e712680436075101ee9f590004</md5>
+    <crc32>63cc4108</crc32>
+    <sha1>835eff28522a2f3575a41576c0c89df1df91ad93</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_002514.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377560</mtime>
+    <size>63648</size>
+    <md5>3adf15e2c01ce1d52a73b161bb5f68d7</md5>
+    <crc32>1411c15e</crc32>
+    <sha1>d036f27560871b7508fd2202b326a880d2cc3852</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_002574.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377568</mtime>
+    <size>49657</size>
+    <md5>a1eabbc065e4acb839f4c8716d4c2eb3</md5>
+    <crc32>93a8765f</crc32>
+    <sha1>ab566ebd6b19a883751babc8484486f107430a63</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_002634.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377577</mtime>
+    <size>59259</size>
+    <md5>0e2e65d651f8907acbd98f50eec4e162</md5>
+    <crc32>ea179049</crc32>
+    <sha1>15511f8f155bb2d2f2d7e7aa0a206892f556a1b9</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_002694.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377585</mtime>
+    <size>53320</size>
+    <md5>c518c8d3031be8f343e91be1b85e909d</md5>
+    <crc32>36f23ce7</crc32>
+    <sha1>a46623ca4c97dea22001d835ac7538c6b8b5ed4b</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_002754.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377591</mtime>
+    <size>61723</size>
+    <md5>3f89b7498f8a8abe1e1ce4a673c1f0dc</md5>
+    <crc32>6a22acd8</crc32>
+    <sha1>87e3e31100216f08bf81203fcd2d4e05dc245ec0</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_002814.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377600</mtime>
+    <size>52051</size>
+    <md5>feec08dbf9bf7c8bf00c473c913093e5</md5>
+    <crc32>035b72d6</crc32>
+    <sha1>1db393e35d756ac8c82180f47157d7abf5ebf2f8</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_002874.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377607</mtime>
+    <size>53522</size>
+    <md5>2098407dac9613bb87e4bf084d1e9e7d</md5>
+    <crc32>68cd0838</crc32>
+    <sha1>76933c9204bb7f7d79f830382c4842090ebc23c1</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_002934.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377612</mtime>
+    <size>63844</size>
+    <md5>ac46525bad3bed45279b86913726f7ce</md5>
+    <crc32>effe9a4a</crc32>
+    <sha1>b2f703dbdcda768869c69c817c72212ee87e8d59</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_002994.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377620</mtime>
+    <size>60294</size>
+    <md5>d36901da6ed00c11a2f3dfeee84e2c92</md5>
+    <crc32>e106eaa9</crc32>
+    <sha1>67809f802491cf37047d95c3d2373866aefa8a7e</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_003054.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377627</mtime>
+    <size>59615</size>
+    <md5>8873874e5772c7b72d33eb79bfb34a40</md5>
+    <crc32>1044f03b</crc32>
+    <sha1>83490580ac6c39ad589c82a39b68ea843e8b3e37</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_003114.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377635</mtime>
+    <size>50808</size>
+    <md5>0c3ee03e875cd631375c38670e3f084b</md5>
+    <crc32>b3f395c3</crc32>
+    <sha1>1ac0cb57f6d8c61f9d57f6b1f9bcb56c0ff90bd9</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_003174.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377642</mtime>
+    <size>51920</size>
+    <md5>eb1c7eed750e61dd49e8f37b8b888f57</md5>
+    <crc32>d30fbd04</crc32>
+    <sha1>07b56d23c85a3497f728dd6af44b151cd15c2d74</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_003234.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377650</mtime>
+    <size>57416</size>
+    <md5>d7f728de548645771344963cf56aaeb4</md5>
+    <crc32>acefac5f</crc32>
+    <sha1>7f126c4d8c8fdb0be2044b14eafc76b15153fb59</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_003294.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377658</mtime>
+    <size>59978</size>
+    <md5>c8fd01bd0dd26453a77db884a14e1af7</md5>
+    <crc32>c79626d5</crc32>
+    <sha1>94bb305a10ca86d68b4d3dad50b2389c5d388924</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_003354.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377666</mtime>
+    <size>62458</size>
+    <md5>673c792123d40487f8058fe49bb10c73</md5>
+    <crc32>3726ee2c</crc32>
+    <sha1>84076119cf18a91e6f3ae8e7fea610c18bffd0e4</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_003414.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377674</mtime>
+    <size>61389</size>
+    <md5>13a91fe301ddfeae72de583751b0d73e</md5>
+    <crc32>ad035b70</crc32>
+    <sha1>c072b8a23068e9e65f639215fe9ea56129cb04c4</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_003474.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377682</mtime>
+    <size>54825</size>
+    <md5>31977b4fda71708409c9babde2fe09ba</md5>
+    <crc32>8d0f8335</crc32>
+    <sha1>3e33548bc20d2540f2534b2af25c47c340785159</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0001_003499.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0001.mp4</original>
+    <mtime>1661377686</mtime>
+    <size>63131</size>
+    <md5>7e3661de75ce33116929f5e1dddb40cb</md5>
+    <crc32>a7d2957c</crc32>
+    <sha1>e7b611a0ab924a775c93fd87ae81cd9274d9241b</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376620</mtime>
+    <size>47497</size>
+    <md5>33be32ed38370edc73b21e8b45667bdf</md5>
+    <crc32>07c1c12d</crc32>
+    <sha1>eab89193ea6917fa86467b956b5669ed6d37a491</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_000114.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376624</mtime>
+    <size>45454</size>
+    <md5>aaecaa913cb7453ee0f7347bab607a53</md5>
+    <crc32>a7ecbc12</crc32>
+    <sha1>26628986428b7b934568fcd18cee8b43b995c5ef</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_000174.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376628</mtime>
+    <size>60233</size>
+    <md5>ff5abc334db045010ee0d3e2adf30121</md5>
+    <crc32>50e387d3</crc32>
+    <sha1>f2440511857c792becaec1a868abb80c7b8e47f3</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_000234.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376631</mtime>
+    <size>64564</size>
+    <md5>c69f106a6b15b00e2ba4f44cd6cdc3de</md5>
+    <crc32>c35177e1</crc32>
+    <sha1>f3fc276008ad1a3ba4cdcc21d1364ba42d68ec9b</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_000294.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376635</mtime>
+    <size>58247</size>
+    <md5>d42750efd6ac596ae6d9821042c53945</md5>
+    <crc32>b99c460a</crc32>
+    <sha1>ee34591487240858212f5c89562441482519442a</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_000354.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376639</mtime>
+    <size>53148</size>
+    <md5>3dfcd053d265602e98fc23bae874778e</md5>
+    <crc32>02163550</crc32>
+    <sha1>8413f663f9a1cdafa582e4e88a4c38adb40a3d66</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_000414.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376643</mtime>
+    <size>64780</size>
+    <md5>b46cccdfb9d85ffd86f60c88f15ec88a</md5>
+    <crc32>5fc5e257</crc32>
+    <sha1>91918241804cb7da62ba3a4ed119b2f532e6155c</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_000474.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376647</mtime>
+    <size>55731</size>
+    <md5>fa1a08a0a4ccc4c01183cc0613ae8060</md5>
+    <crc32>8630ec26</crc32>
+    <sha1>911134b6c43389045d53b52f745029cac0b93e3d</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_000534.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376651</mtime>
+    <size>53836</size>
+    <md5>6c15a1cb2e6957fb6e138c0ba8416fab</md5>
+    <crc32>d7232495</crc32>
+    <sha1>65aa9e5e64a32da5aeba934644331753bb7965be</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_000594.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376654</mtime>
+    <size>62257</size>
+    <md5>a8d587314f31936c36580933804dea76</md5>
+    <crc32>0f25ddfc</crc32>
+    <sha1>89e5a9fc405add2831e6aefd508e334dd69142b4</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_000654.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376657</mtime>
+    <size>58036</size>
+    <md5>0c29561c065d604725ef03ab365d48f0</md5>
+    <crc32>ad02d5ab</crc32>
+    <sha1>43f982d38ce06a56ce2f41302935a66a0f4f6741</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_000714.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376661</mtime>
+    <size>50775</size>
+    <md5>df0165cf7a03701fd9b806e77fafed19</md5>
+    <crc32>1877ba29</crc32>
+    <sha1>03527828fb10c441fd9e63ad32e3761bf095f1c3</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_000774.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376664</mtime>
+    <size>54486</size>
+    <md5>52dc9388953ce917901021b67b33d436</md5>
+    <crc32>79009819</crc32>
+    <sha1>cfa77cb07a5980d18de64fc0619e3a5f9553b7cf</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_000834.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376668</mtime>
+    <size>62541</size>
+    <md5>ea70dd860062173f047e7cbaa6b60a69</md5>
+    <crc32>ebf8646e</crc32>
+    <sha1>60a8eaa3bcc4d50c6b2de5efa9da4b62b1420caa</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_000894.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376671</mtime>
+    <size>60211</size>
+    <md5>49ee924bf3c447cdb1e2fa09b40bf9b4</md5>
+    <crc32>d8cdb434</crc32>
+    <sha1>d90223b137ada00b38ab18dabafe6b140cfb04f9</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_000954.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376675</mtime>
+    <size>62370</size>
+    <md5>64de9a2da1eebfd9c486ca2bddd39443</md5>
+    <crc32>892116b3</crc32>
+    <sha1>0094bf4e827c276f9942705e6c31f98b77eb730f</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_001014.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376679</mtime>
+    <size>60358</size>
+    <md5>cfb8ae10282c94b067831e9a9d9c5fb2</md5>
+    <crc32>b7a452de</crc32>
+    <sha1>b9fc127061709cb78f93253174a5d868665e1d8c</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_001074.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376682</mtime>
+    <size>63916</size>
+    <md5>27bdfd7b9b187f57a56e9f85ed8c5df7</md5>
+    <crc32>171e2eef</crc32>
+    <sha1>4ae917b121e1bc0f152879d2cb7ed2da275af74a</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_001134.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376685</mtime>
+    <size>59637</size>
+    <md5>e40de6e5ef17d7e556e95546864ecb57</md5>
+    <crc32>d4cdce5e</crc32>
+    <sha1>d5ef590cd39de22a075ebbd844fa07e25a55eea7</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_001194.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376689</mtime>
+    <size>49259</size>
+    <md5>85de351e65f8da1b480fec8c3aed4008</md5>
+    <crc32>3f1ba835</crc32>
+    <sha1>3c6da6c888eba6371ba282da61e88c7348361f82</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_001254.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376693</mtime>
+    <size>61108</size>
+    <md5>ab07e7f3b871c751f5f98edb294aaea8</md5>
+    <crc32>8fad6711</crc32>
+    <sha1>32c879c3f7977f023e4979d4a5af5a8963b10635</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_001314.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376697</mtime>
+    <size>54102</size>
+    <md5>e5405b8c53e3e38d302bbf3e5e4a7172</md5>
+    <crc32>3b6ddfb1</crc32>
+    <sha1>1f0efca9e17faec7100c41dec5b58cae964257fe</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_001374.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376701</mtime>
+    <size>58768</size>
+    <md5>add1f99877423828be2b42cb1f952533</md5>
+    <crc32>af9b606e</crc32>
+    <sha1>15e81a64e8133bfc9833a48bec6a17c37b5471b7</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_001434.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376705</mtime>
+    <size>48163</size>
+    <md5>82dd48ab08060d644cdb588e8fc7a44e</md5>
+    <crc32>ad152d1f</crc32>
+    <sha1>76952bd125315db1cab57ff1d8153818c547d051</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_001494.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376709</mtime>
+    <size>55860</size>
+    <md5>f6128fb83e8d87349439d1712cdb35a2</md5>
+    <crc32>a6422e03</crc32>
+    <sha1>8967f439ed6016ca412f0cab1d87d8c86c817ff2</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_001554.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376712</mtime>
+    <size>52419</size>
+    <md5>67bcb3cf58d3b9e9fea6397ec8e3d153</md5>
+    <crc32>6f0af860</crc32>
+    <sha1>ce23c58466fca42365412a0d090cb35f276b3d3d</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_001614.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376716</mtime>
+    <size>51687</size>
+    <md5>f58d4c3ce84dbcb7bc9ec970d3a296f0</md5>
+    <crc32>c0b025fd</crc32>
+    <sha1>d87277ee4f29f758cf50eb8e0c46aa96c2df54d4</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_001674.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376719</mtime>
+    <size>59634</size>
+    <md5>04af49b21b88be78c168eb538f7a7ae4</md5>
+    <crc32>36dcdf9f</crc32>
+    <sha1>2695f9c73fe1eb67f8d971d2b1a6c25f5dea77c8</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_001734.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376723</mtime>
+    <size>55682</size>
+    <md5>90dc29fb642285bacc359a5d24161bf9</md5>
+    <crc32>f5555c36</crc32>
+    <sha1>25d7a6bc9bc868023401ab532e748f9a4e3d5f6f</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_001794.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376727</mtime>
+    <size>55296</size>
+    <md5>a233ac29733d699e2554e909296decf7</md5>
+    <crc32>428cc194</crc32>
+    <sha1>8e2aa919363d1d3443f0841f11ba6c7d3a6af23f</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_001854.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376730</mtime>
+    <size>52930</size>
+    <md5>2fb1d02fbcdc3f124aa16d1e7533026e</md5>
+    <crc32>5cd47e91</crc32>
+    <sha1>c6737db1db9fc4c7473821ce31a4d73aaae3f55d</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_001914.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376733</mtime>
+    <size>61680</size>
+    <md5>8b646ebec9a8a6978bfe78484f95d59e</md5>
+    <crc32>e0c76736</crc32>
+    <sha1>186910d6359dd124a06f36a3d1728b89eeedca88</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_001974.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376736</mtime>
+    <size>59961</size>
+    <md5>e4aa7ca2d7355ee1631527139dc808d9</md5>
+    <crc32>64497fab</crc32>
+    <sha1>97f6f77af3a4a858dd64f7399eb5170151f24a50</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_002034.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376739</mtime>
+    <size>57853</size>
+    <md5>2fe9c2995d4eb7e77a8ce5c1a57b6325</md5>
+    <crc32>c422d7ec</crc32>
+    <sha1>7e8417e86c6d81b9b492cb22ba5bfc1f007e6d20</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_002094.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376743</mtime>
+    <size>50862</size>
+    <md5>61d108db4e0b15b80ea95a2580bfbc6a</md5>
+    <crc32>93809dd9</crc32>
+    <sha1>7d0c82e01b0e7415bd581a1bf6c14b412a9d8648</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_002154.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376746</mtime>
+    <size>58375</size>
+    <md5>6648ee0f1fe07ea7581d8368e84f2c49</md5>
+    <crc32>f0429d91</crc32>
+    <sha1>695a0a845b5d7443ddfb951e6b30a1666acaed20</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_002214.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376749</mtime>
+    <size>62091</size>
+    <md5>37807aa1de951d518b48923f66c61afb</md5>
+    <crc32>8d1f4c94</crc32>
+    <sha1>488bb9af64d77ce462a5145950e60d87542b3617</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_002274.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376752</mtime>
+    <size>58941</size>
+    <md5>7913bdfd96ac0f0d961ed40278c32b54</md5>
+    <crc32>70d247d5</crc32>
+    <sha1>c2736684164a54e246d8964dc8a223b357c71e92</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_002334.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376755</mtime>
+    <size>59677</size>
+    <md5>096e9c7c315b899f3b6ecdb9749af80f</md5>
+    <crc32>0cb744a0</crc32>
+    <sha1>a96d0e71585666108339425912919791e940d550</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_002394.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376758</mtime>
+    <size>53355</size>
+    <md5>7bdf5b471b67fbd958284e16a03b9846</md5>
+    <crc32>26910e6d</crc32>
+    <sha1>5a6e8d3641918889e849c8aceee50a5d415b24ab</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_002454.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376761</mtime>
+    <size>65562</size>
+    <md5>6a94339533881d727357a590855def37</md5>
+    <crc32>109aaa14</crc32>
+    <sha1>8ff0856f6b4a4bbee5eab7265d17680c055e5585</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_002514.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376764</mtime>
+    <size>49107</size>
+    <md5>8e66e0b3e4986f35cba0519bdff203a1</md5>
+    <crc32>8bfcf82d</crc32>
+    <sha1>1a4b5c22df92bb87a599e8188b0d4ab6d673e9f0</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_002574.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376766</mtime>
+    <size>55528</size>
+    <md5>9646bbeb701d7d0db6978470548aa8f5</md5>
+    <crc32>ceafa4e0</crc32>
+    <sha1>5ae417a72e75205ee335d2c89dec1688bf52329e</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_002634.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376768</mtime>
+    <size>61526</size>
+    <md5>f6797e8103b03f66d86686e57e04eaa0</md5>
+    <crc32>d870776b</crc32>
+    <sha1>2e8a73d9cfdc671ca513f30635301ec6719616b3</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_002694.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376770</mtime>
+    <size>55752</size>
+    <md5>5c94c35e4eb836d3db38f24bc08d7b42</md5>
+    <crc32>1d9689f0</crc32>
+    <sha1>5fcfca8b78684c0f94c83e8faafa7c5cd0ffba5d</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_002754.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376772</mtime>
+    <size>60602</size>
+    <md5>2807bb1374a4702c3aa99bae0e4859cc</md5>
+    <crc32>a90805ce</crc32>
+    <sha1>6e68abc8268db916f1568f6b684adeb2c365453c</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_002814.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376774</mtime>
+    <size>52758</size>
+    <md5>584a1aaac2e47a697eecde2634fbf394</md5>
+    <crc32>00c78f81</crc32>
+    <sha1>715b576d25f8284fe016179ea59eb053945b85dd</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_002874.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376776</mtime>
+    <size>54459</size>
+    <md5>7bf78d93e57afe33abf907cfd7799c26</md5>
+    <crc32>e47a66fe</crc32>
+    <sha1>ceb9cbfb417d727a3102cc3a718d20bbf4f7b949</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_002934.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376778</mtime>
+    <size>51377</size>
+    <md5>b5e8f9ed68019f9f1b747e8b9b16ce15</md5>
+    <crc32>cb311fc8</crc32>
+    <sha1>32c23b793f6d8f28415c4e42c295142e000ffab6</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_002994.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376781</mtime>
+    <size>58619</size>
+    <md5>8f6f9a83afe8da9b20d01401f5edb688</md5>
+    <crc32>b2847682</crc32>
+    <sha1>62985a488e279bf052286c9f217db980d11a025d</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_003054.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376783</mtime>
+    <size>58254</size>
+    <md5>c82cb4a3f0ed593f91af47dd43bfb02f</md5>
+    <crc32>457c0bde</crc32>
+    <sha1>73f029c9b56c722a5c6244563ee441e3f32b3ba0</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_003114.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376785</mtime>
+    <size>59051</size>
+    <md5>74145fac253ed5f6d7a2f53bfd4e147d</md5>
+    <crc32>da36e567</crc32>
+    <sha1>0c2f211f536dbd999f4d7679babd4045c63d05b4</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_003174.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376787</mtime>
+    <size>59082</size>
+    <md5>28180f4a235ee39aac8180500668e3b2</md5>
+    <crc32>cae2a86e</crc32>
+    <sha1>58458cd99d79556804ade416d9b87bc2cec2882c</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_003234.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376789</mtime>
+    <size>59059</size>
+    <md5>332e097af036d044ad0007109de3c43c</md5>
+    <crc32>d1208ff5</crc32>
+    <sha1>2ae61d9095ab07d799260eb579f33df8d781a550</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_003294.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376792</mtime>
+    <size>54311</size>
+    <md5>4a5b3bb337bb2db97465b65f80c7eb9d</md5>
+    <crc32>6f4e3eae</crc32>
+    <sha1>742b54de8d86923df8c72e6b199c4f71ba536279</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_003354.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376794</mtime>
+    <size>54775</size>
+    <md5>c658108187b63c42ef825ea13f8b7284</md5>
+    <crc32>7704c795</crc32>
+    <sha1>3727d964cac6a9127a0bcbc531940f7a33650da2</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_003414.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376796</mtime>
+    <size>59602</size>
+    <md5>0f68298d0d3204786a410ab3951cf8ae</md5>
+    <crc32>edd83f80</crc32>
+    <sha1>10c9d98be9b150480c8d09ab1da02d8517f6f536</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_003474.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376798</mtime>
+    <size>56617</size>
+    <md5>a18844c4de1712bb06a7d18b5066925c</md5>
+    <crc32>acdf1d16</crc32>
+    <sha1>1c64d81fe0c6656b498c2d7cd2c1a8c0226197b7</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_003534.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376800</mtime>
+    <size>57079</size>
+    <md5>4c4355a5204abf71dd31a6ef6b102f28</md5>
+    <crc32>b7cc92eb</crc32>
+    <sha1>4a8aeb1124af9295dac02540812502323e9e3a23</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_003594.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376803</mtime>
+    <size>61207</size>
+    <md5>58210ad8fc161bd95abcae56721eae17</md5>
+    <crc32>9649d7f7</crc32>
+    <sha1>9c59757bae38b0bee0660bb7125def1a7f50ca2d</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_003654.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376805</mtime>
+    <size>52733</size>
+    <md5>29c4e53286e6fa5d3b01f1d2bd0e3316</md5>
+    <crc32>02413d7d</crc32>
+    <sha1>e43eab9448f1a551032367a163543666ee14ad60</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_003714.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376808</mtime>
+    <size>62340</size>
+    <md5>8aa544b359f2809e1f3fe74422ab23a4</md5>
+    <crc32>f5059412</crc32>
+    <sha1>dfdead3bd05b906363524ef5525b217847e27864</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_003774.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376810</mtime>
+    <size>51589</size>
+    <md5>abfa4de48c364c8303546d77dc89db71</md5>
+    <crc32>a8ade24c</crc32>
+    <sha1>e1002116ee6b9b594936f94722959df82040a3e1</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_003834.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376813</mtime>
+    <size>57030</size>
+    <md5>a87a917fc88333ddc9f9125440d0730d</md5>
+    <crc32>2560f5ae</crc32>
+    <sha1>45083b364c0d4f68df74b1bf7238dda2396654af</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_003894.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376815</mtime>
+    <size>55540</size>
+    <md5>a077d819096961ae8155af06946042d5</md5>
+    <crc32>a4f30183</crc32>
+    <sha1>c058a9d4d70e5187aa1f4817a00f8665bd670e54</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_003954.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376817</mtime>
+    <size>50273</size>
+    <md5>f14f2f5b2b936b4f09df44c723bc568c</md5>
+    <crc32>89a21718</crc32>
+    <sha1>bc9f34e76070cc8d90bfe40f1d42893b06332308</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_004014.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376820</mtime>
+    <size>59898</size>
+    <md5>a29b3732971491d01709db88f735f417</md5>
+    <crc32>c5af49aa</crc32>
+    <sha1>ad4a3f26a6e1e7f8a170d295a573fec7e4dcbbdc</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_004074.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376823</mtime>
+    <size>55761</size>
+    <md5>d0c66c2b0b8f2f116c4c54519712aed9</md5>
+    <crc32>1c3dc760</crc32>
+    <sha1>09f5eef665e4c0e0f8def85c466b5b713560fa09</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_004134.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376825</mtime>
+    <size>59034</size>
+    <md5>6cebd340f75b8dd971765ef08af635f3</md5>
+    <crc32>5debabc9</crc32>
+    <sha1>8e193157eddd5fd9decfec2820f9496c052822bf</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_004194.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376828</mtime>
+    <size>59606</size>
+    <md5>ee0c07471f97b2fc996630329800ec46</md5>
+    <crc32>2513a635</crc32>
+    <sha1>19b322ba397432a4efa4bc30ecd4f6e46b3f847b</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_004254.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376830</mtime>
+    <size>60694</size>
+    <md5>fe36fe27859d73972ee0e29bf4f220fd</md5>
+    <crc32>78100b1c</crc32>
+    <sha1>914e2aacad60d06907443bb8e355ab9bf22fac7f</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_004314.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376832</mtime>
+    <size>57686</size>
+    <md5>07ac5986f373532704204143bd50c0c7</md5>
+    <crc32>76922e0e</crc32>
+    <sha1>0b2e16431dfb2914cc8af8033a3a4fee08d15f89</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_004374.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376835</mtime>
+    <size>52415</size>
+    <md5>a76483a09966d77b9d425b19ca8ec89a</md5>
+    <crc32>ffa0866a</crc32>
+    <sha1>79f9bd0a479a644109cc49a9c267bb429e32c069</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_004434.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376837</mtime>
+    <size>56382</size>
+    <md5>6fcfbe4f2258de75d5c3d41178672b2b</md5>
+    <crc32>23031b92</crc32>
+    <sha1>0f20add04cafd139ac4e41973e3b67fc434476b8</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_004494.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376840</mtime>
+    <size>61989</size>
+    <md5>d80d833e2b29c340ba4092b8ac6d099e</md5>
+    <crc32>3e6c8d75</crc32>
+    <sha1>1de3e33fa2dced84f10e277d83eebd35e26f1a04</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_004554.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376842</mtime>
+    <size>54951</size>
+    <md5>13313c40d9c6f7633455643ee6c0af35</md5>
+    <crc32>b77fe259</crc32>
+    <sha1>7575c49264437534372eab8a23c3649e7e139c9d</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_004614.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376845</mtime>
+    <size>65600</size>
+    <md5>b26fb833687ffb2aecc72178b87bbef2</md5>
+    <crc32>2bc18041</crc32>
+    <sha1>2beef95d2a0a74d0ed7e875a6a1b3985d25f7676</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_004674.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376848</mtime>
+    <size>57206</size>
+    <md5>e331423612120665cf0b3934ad0bcb8b</md5>
+    <crc32>c1135d5c</crc32>
+    <sha1>25267747c56d498f80b4cd686f5faeae435a9769</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_004734.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376850</mtime>
+    <size>62585</size>
+    <md5>6afb8538a48f8fd4ea232d4a1ebd3b6c</md5>
+    <crc32>c9dfd324</crc32>
+    <sha1>9e725cb9ee2a7a1d34601c16fb9edeb482eabb54</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_004794.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376852</mtime>
+    <size>53040</size>
+    <md5>c0b47f8467ebe36e48d1ed2a197a3f74</md5>
+    <crc32>d558a116</crc32>
+    <sha1>63af21d6f3a644f592602d117a71ca3eef8145ab</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_004854.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376854</mtime>
+    <size>53639</size>
+    <md5>c86dba011fac433f78fb921bc1b5bef3</md5>
+    <crc32>bac22b67</crc32>
+    <sha1>d04aa9f88743e79ff2358641e2734f2aa985c505</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_004914.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376857</mtime>
+    <size>58815</size>
+    <md5>e0bde9104d33b42b5ad1cff9b4e7dead</md5>
+    <crc32>6cf7ed9f</crc32>
+    <sha1>5c5a92d2ef7e286fd85615f2071010659e3d5212</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_004974.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376859</mtime>
+    <size>51624</size>
+    <md5>e81c882fd75bd63bad322f4a9ca1d712</md5>
+    <crc32>f36c07dc</crc32>
+    <sha1>b539dac84fc112ffd8d6a544e39cc0aab5b1d60e</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_005034.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376861</mtime>
+    <size>53294</size>
+    <md5>22d336c26fb8703563f1da7c6162da37</md5>
+    <crc32>7c81fed8</crc32>
+    <sha1>9a14bae288f76f871b44f037333093ad6c70c47a</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_005094.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376863</mtime>
+    <size>47739</size>
+    <md5>39a31fdf49ee076f0bb15e113095ea88</md5>
+    <crc32>46bac3fe</crc32>
+    <sha1>723a857e28a97380a579ec60e62115666da1cfad</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_005154.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376865</mtime>
+    <size>56808</size>
+    <md5>d5d3643e99b3e0b87663e27ddbf3fc9e</md5>
+    <crc32>a07618d2</crc32>
+    <sha1>03947b1df401e0c148480777385572c72b97e6cf</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_005214.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376868</mtime>
+    <size>58166</size>
+    <md5>e4d3ec1546265a463a672933c8d43bd3</md5>
+    <crc32>92647498</crc32>
+    <sha1>d5e9c06f7b101f48dcd411d5c643301e485f2124</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_005274.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376870</mtime>
+    <size>55064</size>
+    <md5>94fe2b2bbd0a47d10f3783b00d52744a</md5>
+    <crc32>6b9539f6</crc32>
+    <sha1>cc2e82ec5c01d147a35864b8c7cc1c33e5edd82e</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_005334.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376872</mtime>
+    <size>64182</size>
+    <md5>c21cb8183fc12f9758c2fecdf3c5b8de</md5>
+    <crc32>3cee00fc</crc32>
+    <sha1>e14016a591449f4d23ee00efa9c0dca89c1237fb</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_005394.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376874</mtime>
+    <size>52124</size>
+    <md5>dbf731c8f254d6632dec81869844cc48</md5>
+    <crc32>e5d3bedf</crc32>
+    <sha1>f000e95dd9df87001cff565f4449c48dd1f10693</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_005454.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376876</mtime>
+    <size>53295</size>
+    <md5>8406c4afbad77a376643bc1765bb803b</md5>
+    <crc32>0951d6d5</crc32>
+    <sha1>a0d1260fe9f59daf43d10215f9658eb98c7960f9</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_005514.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376878</mtime>
+    <size>51735</size>
+    <md5>4b908d075d026e9d6d755f3f7eb659fd</md5>
+    <crc32>a39b6dd1</crc32>
+    <sha1>689fa533e1119ca643137871dfb3bc7d04da0f87</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_005574.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376880</mtime>
+    <size>61148</size>
+    <md5>4a610953dcddeefe140b9616afb75aa2</md5>
+    <crc32>8d5c729a</crc32>
+    <sha1>9242b0ae8e193b582c4cf487d0f13eae558ffe77</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_005634.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376883</mtime>
+    <size>58673</size>
+    <md5>72c7b02e114d3c086492ec9f754bd1a1</md5>
+    <crc32>fbfd54a1</crc32>
+    <sha1>753de4d2cc2de8aff233b326f40d4aa643e68ecd</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_005694.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376885</mtime>
+    <size>57800</size>
+    <md5>c8d8b0db3e1a61ed5c28a1c348ce473f</md5>
+    <crc32>5f13fc7b</crc32>
+    <sha1>ad49724b9ab137d39d7eadc750c172c272c5f264</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_005754.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376888</mtime>
+    <size>57769</size>
+    <md5>01ee4a76ca627fc708e5684d105a7145</md5>
+    <crc32>b60b9ae4</crc32>
+    <sha1>aa1205b463c48920457cddd4dd0e8732fc4b645b</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_005814.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376890</mtime>
+    <size>60822</size>
+    <md5>7e4d22b5b28b999cd059419c5a3b9d2f</md5>
+    <crc32>88c98a63</crc32>
+    <sha1>0f2a1c63aeb19c246674e32e86c48463187f4c89</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_005874.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376892</mtime>
+    <size>63583</size>
+    <md5>b980d47addd83702e5ea32ed7b2dc8fb</md5>
+    <crc32>db23a4ba</crc32>
+    <sha1>182682442426d86af4fbd34c2604bf52532cb929</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_005934.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376894</mtime>
+    <size>63525</size>
+    <md5>e56b688b11e7a3d112c2aa544f17d1d7</md5>
+    <crc32>92cfa938</crc32>
+    <sha1>f07406a2e42a75737c15bf359ff33eb9d888731d</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_005994.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376897</mtime>
+    <size>66446</size>
+    <md5>d36802287e8e424c27e01610d78f5a85</md5>
+    <crc32>f51f30df</crc32>
+    <sha1>89f0fcd76661a02dbea45a45bcdd9b44e730de06</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_006054.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376899</mtime>
+    <size>54628</size>
+    <md5>5a52cb1d569f7d4200738c7e8cee4450</md5>
+    <crc32>c269be9f</crc32>
+    <sha1>cc36e52a957c85c87cf501c3e3b554dfa0a2a10d</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_006114.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376903</mtime>
+    <size>58673</size>
+    <md5>4e1916934df0edd128a71518e697555b</md5>
+    <crc32>e172d52c</crc32>
+    <sha1>29574a266a8c7ca50f7cb8473c40ba22ecdae6cf</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_006174.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376905</mtime>
+    <size>59131</size>
+    <md5>506238c1bd3bf4b19e32dd784ae56086</md5>
+    <crc32>59b737ac</crc32>
+    <sha1>1c0b6a48145cd6f327151074ebce3ab9adb9d3de</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_006234.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376907</mtime>
+    <size>55899</size>
+    <md5>b4d351d07a2ff8a6b232cbd2b3585dec</md5>
+    <crc32>779d9130</crc32>
+    <sha1>610d86449b2736b91f4d0af20342f29ffa011ca5</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_006294.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376909</mtime>
+    <size>59430</size>
+    <md5>c71e6f22072ca4571e3ac11ae51596e7</md5>
+    <crc32>393ed42b</crc32>
+    <sha1>cb1a3a3312c9f5658eef3859606400e9cf390a7e</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_006354.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376911</mtime>
+    <size>57285</size>
+    <md5>e056bcc2e6ecb4e8964e62d744e40d2a</md5>
+    <crc32>4eb8ea3b</crc32>
+    <sha1>6b284090e507b6206063a9dac69655dc62ea7e49</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_006414.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376913</mtime>
+    <size>54190</size>
+    <md5>02bc1d4672eca74992a9af37f8f07890</md5>
+    <crc32>b90516e7</crc32>
+    <sha1>5d5dd6947a9e17911ea837710d34a5277398362f</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_006474.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376916</mtime>
+    <size>52327</size>
+    <md5>5c0d8a23ef1cb3dc7b041ae217acdcda</md5>
+    <crc32>2aa6731a</crc32>
+    <sha1>33d259787bd123d24e98fa3bf034ec74f4160175</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_006534.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376918</mtime>
+    <size>53158</size>
+    <md5>ebc8a3052cc5eacaf4ce54e56172aa2b</md5>
+    <crc32>6ba7a7e8</crc32>
+    <sha1>4ca92f491fa282e67c4c9c2098803f046365c047</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_006594.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376921</mtime>
+    <size>51737</size>
+    <md5>b5a1fc84ecd3bca3c8a9c01acd3508de</md5>
+    <crc32>ff35be49</crc32>
+    <sha1>608fcc2b8f264ebf841a420af60339b671ea5220</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_006654.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376923</mtime>
+    <size>54734</size>
+    <md5>b5ab449b5294f55da07b179de67aa77c</md5>
+    <crc32>7284c003</crc32>
+    <sha1>2141f8e1f6e56f9b8c3f1d164ee27c3bcef46eef</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_006714.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376926</mtime>
+    <size>54808</size>
+    <md5>e7e09d37fab72cf0582953258684e4a6</md5>
+    <crc32>b5fe5a10</crc32>
+    <sha1>12ada24a202c99e39a4e735e872166d9c3e6a110</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_006774.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376928</mtime>
+    <size>54903</size>
+    <md5>26d290e70be482d8c6d43d5890f4b0c6</md5>
+    <crc32>d155718b</crc32>
+    <sha1>34412bebace5c2de1dfa828023befb9aedb0d35f</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_006834.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376930</mtime>
+    <size>50719</size>
+    <md5>6540dbe985259f0e73d77e2028da276e</md5>
+    <crc32>c7ca35c3</crc32>
+    <sha1>6b758f97da90a2bf0ac325d27f44bf3e7ddad641</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_006894.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376933</mtime>
+    <size>55704</size>
+    <md5>c8b4b5b03192847d846021157f3df86f</md5>
+    <crc32>4377bc4d</crc32>
+    <sha1>c977337812341575adc7fce066e7dfd0debd2085</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_006954.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376935</mtime>
+    <size>52880</size>
+    <md5>ff94ef8198d5263b428818765ae4cb40</md5>
+    <crc32>4ebb8a2a</crc32>
+    <sha1>83e21cb078f1d6e8254b3554a94c974e1804dd6c</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_007014.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376938</mtime>
+    <size>59981</size>
+    <md5>e95887c9f8d0e5dd30024d1358ca433a</md5>
+    <crc32>4b864860</crc32>
+    <sha1>aef0af4df48a0d8d019cbd9cb348cc8d2c872227</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0002_007022.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0002.mp4</original>
+    <mtime>1661376938</mtime>
+    <size>61168</size>
+    <md5>3564cdf782b1731714e7ded45396dc32</md5>
+    <crc32>016f919e</crc32>
+    <sha1>495971dbbd17b7cf40135389a28fc1a8c754e509</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377885</mtime>
+    <size>34368</size>
+    <md5>1d605d90de9f21a65a461c683b0fd03b</md5>
+    <crc32>943e57b5</crc32>
+    <sha1>97cf6349597b019d4b7705f6050ca2d0f0c4ed91</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_000114.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377890</mtime>
+    <size>40431</size>
+    <md5>00c6190ebffe8133943ad71b54a838b7</md5>
+    <crc32>f74ff729</crc32>
+    <sha1>b88507d4a90edd158aeb05260fe17ae587fbbf78</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_000174.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377896</mtime>
+    <size>53363</size>
+    <md5>d881fc162074574a955f4693d4caea20</md5>
+    <crc32>33fa9e01</crc32>
+    <sha1>9f8ce2d396c8ebe7635169bcea3ac8679e6f269e</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_000234.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377901</mtime>
+    <size>52290</size>
+    <md5>62fc3616e21db6ae0e736367e6ec29f9</md5>
+    <crc32>f0dd537d</crc32>
+    <sha1>c1d113f18cfb7652501ed696ac565b166ba11ea0</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_000294.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377907</mtime>
+    <size>52048</size>
+    <md5>2673e67cd25356d5349a99a43c161f71</md5>
+    <crc32>08c7e78a</crc32>
+    <sha1>ed97f8c82ad0cee414a933649c8fedf9d1008913</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_000354.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377912</mtime>
+    <size>52340</size>
+    <md5>ce8e9ff34c4b10ae8fae6166cac9e7ba</md5>
+    <crc32>3cf71286</crc32>
+    <sha1>cfe8edb1e34ff95a0b4715a15d6ceeec3bf437f4</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_000414.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377917</mtime>
+    <size>61406</size>
+    <md5>1ccf07adb72eba524af5e193173b462c</md5>
+    <crc32>b05cc8c0</crc32>
+    <sha1>8b73cb47ba56a940d2f35e730448d9e8869e4647</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_000474.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377922</mtime>
+    <size>56757</size>
+    <md5>0c124e65000c2241366512a6c3d60f17</md5>
+    <crc32>54a85919</crc32>
+    <sha1>c66e6711ae8f2640609f16f099ac5b9af465f07d</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_000534.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377926</mtime>
+    <size>56642</size>
+    <md5>fa2c7d5250c5a6f1529c99dfc1ebf0ab</md5>
+    <crc32>ad41f3a5</crc32>
+    <sha1>daf5b01b2c471085dd37639e16e0937349ffc757</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_000594.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377931</mtime>
+    <size>57706</size>
+    <md5>91ca03eed57d4a764091d3fb32717caa</md5>
+    <crc32>7b9bdfa2</crc32>
+    <sha1>d6f9025d2c640ff1f73a46bc810f7694fe003b25</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_000654.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377936</mtime>
+    <size>58906</size>
+    <md5>bf407a53b2c574c6231672ce5ebe19a0</md5>
+    <crc32>55418838</crc32>
+    <sha1>42ad5c7b0e4a916a774446e2925f47538a13d87d</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_000714.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377940</mtime>
+    <size>60939</size>
+    <md5>3ca1041dc112ad38b6ee2eb89933281e</md5>
+    <crc32>76a1724c</crc32>
+    <sha1>938b8d535a7c75da75c0b8743cc9e8b41838dccb</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_000774.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377944</mtime>
+    <size>62053</size>
+    <md5>e0f1a921a779cf673e8a2ac5c77dd2f7</md5>
+    <crc32>a8d1c4c9</crc32>
+    <sha1>1a227cf0bedce84bcc659200910298edb65fbbe3</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_000834.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377949</mtime>
+    <size>59852</size>
+    <md5>aab58df66501942d7839994edb75dbde</md5>
+    <crc32>b41ce6d7</crc32>
+    <sha1>9cdcb382d565f6bdd7c93a06d8672d73e2181175</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_000894.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377954</mtime>
+    <size>55979</size>
+    <md5>5b5e0e1e3c8cdd675e2047d66d245d8e</md5>
+    <crc32>8d8afc1d</crc32>
+    <sha1>5c2d0f1e7f38bd07289b50030ca3f575dd45b2a4</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_000954.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377959</mtime>
+    <size>58377</size>
+    <md5>9e3e93a27c06cbd7dbdf9a69ffbf6d64</md5>
+    <crc32>f43ee616</crc32>
+    <sha1>6f84bf06620476d02c9540a7ba41db704fdf772f</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_001014.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377963</mtime>
+    <size>51061</size>
+    <md5>03e9eace85afc087f6fca73658aefcd3</md5>
+    <crc32>84993fad</crc32>
+    <sha1>e93d608a2f763effe20b79706fef39d06278e00d</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_001074.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377967</mtime>
+    <size>58336</size>
+    <md5>80fc44c35c0d9095d9e736d177049c6a</md5>
+    <crc32>3253c59e</crc32>
+    <sha1>f42b2082cbb9e200c513bb54b5d6b3b9fe826cd7</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_001134.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377971</mtime>
+    <size>56004</size>
+    <md5>1338219964e79a227b694ad7f3d0d6fe</md5>
+    <crc32>66e23041</crc32>
+    <sha1>8a224abda74eaa05c2793d921a5945701f0fe0bd</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_001194.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377975</mtime>
+    <size>59934</size>
+    <md5>f5eaa9a64c8816fe9d2d79565f24bc82</md5>
+    <crc32>c0d7cba9</crc32>
+    <sha1>6dd6dfbe4610d95ca749bc040f422fc2f6562980</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_001254.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377979</mtime>
+    <size>61210</size>
+    <md5>63ac853b3ef9a1a141980e8a48fa2554</md5>
+    <crc32>a539c44f</crc32>
+    <sha1>340702c34e2cf04f19502ccbc66aef41679d7bc2</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_001314.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377983</mtime>
+    <size>60683</size>
+    <md5>904f285c8bc8850b0e8e73411c9eeeb1</md5>
+    <crc32>b023fd72</crc32>
+    <sha1>6ff37151c3d5efa784a77b8d19eac1c374536794</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_001374.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377986</mtime>
+    <size>62047</size>
+    <md5>57699e915e3e9dd24d3d87b84b3d6950</md5>
+    <crc32>f7583375</crc32>
+    <sha1>3f1bb421be8548a4e95b4276bca9a4b670d18f52</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_001434.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377990</mtime>
+    <size>59058</size>
+    <md5>e0549f51286aa0731d410d17f6cef505</md5>
+    <crc32>1db23380</crc32>
+    <sha1>ec7105f1e557abbc57489ed3c15817f1574713ce</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_001494.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377994</mtime>
+    <size>47872</size>
+    <md5>5de36635177c47ed9b3ddf6aba7742a1</md5>
+    <crc32>c9be80f5</crc32>
+    <sha1>cfcd7a1a342fb3c47d46c646ab1e71f7cc54cb39</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_001554.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661377998</mtime>
+    <size>49845</size>
+    <md5>a48e27ce66b920a856890eba7193d62c</md5>
+    <crc32>e9aeeffe</crc32>
+    <sha1>64bd332d1edf13689bdab37d45e5b49219d3a01f</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_001614.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378002</mtime>
+    <size>56906</size>
+    <md5>e60d2a6d5560a7f8a1310c1b4e47de98</md5>
+    <crc32>6111b3fd</crc32>
+    <sha1>086050100657bfab152f59f45ef6209f51623ba2</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_001674.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378006</mtime>
+    <size>61129</size>
+    <md5>7839e0fe0e3a4701484409e433005cbe</md5>
+    <crc32>7fbf7d03</crc32>
+    <sha1>67fc4955ca270c14a706cffbbc27af9e0272d0a9</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_001734.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378010</mtime>
+    <size>56651</size>
+    <md5>8d114207fce2bc41e5965fe899a5bb3f</md5>
+    <crc32>b3fd574a</crc32>
+    <sha1>997ba725b2238a8c23c05539d3a7c5923ccf2359</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_001794.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378013</mtime>
+    <size>57013</size>
+    <md5>31eee5de29e52cb49d4aaaec51cc09ba</md5>
+    <crc32>29169f20</crc32>
+    <sha1>1ee10ebac0104251dfe689697d8aaf426b92db0f</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_001854.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378018</mtime>
+    <size>62533</size>
+    <md5>886d660f524386f89744d09b9c06eb36</md5>
+    <crc32>73dd9467</crc32>
+    <sha1>ffbd50cdbffe9d431f0294d73dc3453823971338</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_001914.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378022</mtime>
+    <size>62835</size>
+    <md5>da68b1ec07e42217b8f771208c853d4c</md5>
+    <crc32>2307eea9</crc32>
+    <sha1>85d13b589bd2ebda3faa823c0f33b78a4a7a10c2</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_001974.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378027</mtime>
+    <size>60415</size>
+    <md5>28ce48e9c57b252b4bdcb271686a7f29</md5>
+    <crc32>02582ecf</crc32>
+    <sha1>f218d882347d821c09b06c1f15d273cdfbe8df12</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_002034.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378032</mtime>
+    <size>61387</size>
+    <md5>5c9a8178faa54be2c63a70ecd2d93a12</md5>
+    <crc32>74900b44</crc32>
+    <sha1>a6c5fdf21af6ddb344c37a18cb5e73bcd70bf7ae</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_002094.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378036</mtime>
+    <size>56168</size>
+    <md5>0dd7e4f25b322a14174c334d0ef3ee80</md5>
+    <crc32>a92114e0</crc32>
+    <sha1>58bad6e37f357d0c8029b279db3b94e45320e6f8</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_002154.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378040</mtime>
+    <size>61969</size>
+    <md5>88293965c0e3fc8ce29886612a5a943b</md5>
+    <crc32>ba8ba45f</crc32>
+    <sha1>c22e195676bdb637d549267bffc2d0d22b4145a9</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_002214.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378045</mtime>
+    <size>59748</size>
+    <md5>1fbc13846e2208473197153ff6238996</md5>
+    <crc32>7ebd6301</crc32>
+    <sha1>9560864ea8fb0ddaf771434ce5e58b3bf1db3c58</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_002274.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378049</mtime>
+    <size>61266</size>
+    <md5>61608bf0ee77b09a491721bf65481251</md5>
+    <crc32>b25d82f0</crc32>
+    <sha1>8af5f5239c11383df3321f4dca5c1b9d3cf0c395</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_002334.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378054</mtime>
+    <size>58080</size>
+    <md5>fb5699ee5d117567a8733104b8d8b1d6</md5>
+    <crc32>694ed5ec</crc32>
+    <sha1>db45659fc91afa56e7eb516a2b334459e9d9c7ca</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_002394.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378058</mtime>
+    <size>56488</size>
+    <md5>b754273fc24b1d87bc440cdce7302f28</md5>
+    <crc32>a612e3d4</crc32>
+    <sha1>389328d6dba3d78ee49d98a8c411f1571f2386b0</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_002454.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378062</mtime>
+    <size>53445</size>
+    <md5>1fcb317386414503409c9621ffab4222</md5>
+    <crc32>aacae659</crc32>
+    <sha1>ceecbdbbbc356753e455f18b1359211a99304668</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_002514.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378066</mtime>
+    <size>51457</size>
+    <md5>e028a04603ba915bddfb03dfa2e673bf</md5>
+    <crc32>e94a8cb0</crc32>
+    <sha1>f9f24cee2964704fa068060f00a358272b9bdcab</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_002574.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378071</mtime>
+    <size>49199</size>
+    <md5>ca16b422f785aca7fc55997be8dabdbe</md5>
+    <crc32>99e77afa</crc32>
+    <sha1>686e3e334bba8a331141abc28dcb750655424b5e</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_002634.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378075</mtime>
+    <size>51449</size>
+    <md5>d8b23ddfd231fb5e457df73d71e879b3</md5>
+    <crc32>d0320b79</crc32>
+    <sha1>e62aab3b10e39310f5ba530deca7dfbef79d3bc4</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_002694.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378079</mtime>
+    <size>47872</size>
+    <md5>4c6e14bd5a36657e33d8400eea2664b1</md5>
+    <crc32>9ef40d05</crc32>
+    <sha1>847bf3413e1fa42176ff2f7540a836e10cf4207a</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_002754.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378084</mtime>
+    <size>51067</size>
+    <md5>f4a2f2d4b3f95e08782ba899ca0d5f0a</md5>
+    <crc32>ab38bf05</crc32>
+    <sha1>2c4607d4c00061852a54339655a373291b9df410</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_002814.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378088</mtime>
+    <size>59067</size>
+    <md5>5841ab4b330adb2d764bdba2ce716958</md5>
+    <crc32>c8ad7eaf</crc32>
+    <sha1>daf56e40e6ea652ce5110845ed22a4ba326c904b</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_002874.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378093</mtime>
+    <size>62386</size>
+    <md5>800e4bf418d320c6f35f7bdf594848c5</md5>
+    <crc32>e27f69b8</crc32>
+    <sha1>f5e73d62e94eaedf30cc04a5a9e8f0f236fad0de</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_002934.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378098</mtime>
+    <size>61470</size>
+    <md5>46a39b0c685c02d570016404af400bbf</md5>
+    <crc32>64b5b968</crc32>
+    <sha1>512fa347fa65b62d77d2af8138cedae22208315c</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_002994.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378102</mtime>
+    <size>55044</size>
+    <md5>e94896c3e895f7dff94eaaba17636782</md5>
+    <crc32>c486db73</crc32>
+    <sha1>1c7946d4a08fe27cb89f41c572acbcc64e14ebf7</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_003054.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378106</mtime>
+    <size>56808</size>
+    <md5>cb982ee04cc390c8185bb0ab0e780731</md5>
+    <crc32>6919e0fd</crc32>
+    <sha1>73964d2d399bde5018cb7542c9272b22553bc379</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_003114.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378111</mtime>
+    <size>51312</size>
+    <md5>6f562da2ba2f998b62fc1ea937843a06</md5>
+    <crc32>3f9a9a9c</crc32>
+    <sha1>e44ac881e6fd5bab27f706f4bae4255a7cb563cf</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_003174.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378115</mtime>
+    <size>53129</size>
+    <md5>6d529b739796d6e0e4cbcabc98d003bc</md5>
+    <crc32>1210a8b1</crc32>
+    <sha1>983baeb49760dfcfd20c451ba465209c2812da6f</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_003234.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378119</mtime>
+    <size>58325</size>
+    <md5>0faebd13301b6d387d98b1fb853cf3ff</md5>
+    <crc32>f2dda866</crc32>
+    <sha1>6976225885ed6f3a55aa937ef5c6e1f68eb5dcc3</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_003294.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378123</mtime>
+    <size>56720</size>
+    <md5>1a43ca3794df9c56514eb281569ab46d</md5>
+    <crc32>caa0a59b</crc32>
+    <sha1>cb35fba01de08b1081bb4874d58fccf334e3e249</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_003354.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378127</mtime>
+    <size>45896</size>
+    <md5>e1fc101a12871df1ead7e527bba4d19c</md5>
+    <crc32>2efaa24b</crc32>
+    <sha1>21a17a71bed8f16248a4c7e088d1e0235414529d</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_003414.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378132</mtime>
+    <size>55430</size>
+    <md5>7cf575d5ecd1639200769b08050c7654</md5>
+    <crc32>8ffbdbec</crc32>
+    <sha1>da7abfe6cd233a208e52447ffffec11098ec6fa2</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_003474.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378136</mtime>
+    <size>55630</size>
+    <md5>a606b3805e3387e7acb7cd2b2d0d1810</md5>
+    <crc32>167be89e</crc32>
+    <sha1>cf4fceb46f9470e42a7ed3d746c97f004a43ee90</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_003534.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378140</mtime>
+    <size>61791</size>
+    <md5>eeb97252d1488b2254abdebe0fc3f1ac</md5>
+    <crc32>1df27c40</crc32>
+    <sha1>e0357cce28e72953694e01dd53a9fab3e50ae059</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_003594.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378144</mtime>
+    <size>61530</size>
+    <md5>a6064186109dbbe6d7e38ce365047150</md5>
+    <crc32>ca5323ce</crc32>
+    <sha1>e7b7b8f29b1fcd6d0c75df50522a5228fc16c0c2</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_003654.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378148</mtime>
+    <size>55334</size>
+    <md5>b283e8370bcfa0cf20d446d89a918065</md5>
+    <crc32>dd9bd6f9</crc32>
+    <sha1>8e4662fca840bab4b8ee859efbac72bb10a5cb0e</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_003714.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378152</mtime>
+    <size>55062</size>
+    <md5>f55279aa4a3e7f3c862883da5f667cb7</md5>
+    <crc32>725de942</crc32>
+    <sha1>8618ec3fbd34e0abfc2e680c739cfb5c667ea6a6</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_003774.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378156</mtime>
+    <size>65535</size>
+    <md5>1a21319a8446e532e4a57f3e7241a215</md5>
+    <crc32>1dc29ee9</crc32>
+    <sha1>c6c42934e5b0565a268f702a78e3af57de90d6cf</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_003834.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378160</mtime>
+    <size>62774</size>
+    <md5>b2ec0d3bce755f48774794d8acd62dd4</md5>
+    <crc32>8dd848a5</crc32>
+    <sha1>6af7c341d4d6c9f4f74c6e5c0178de5020f3fa37</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_003894.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378164</mtime>
+    <size>51701</size>
+    <md5>efca9dff63df9457070fc19502adb778</md5>
+    <crc32>76aacb75</crc32>
+    <sha1>71e475715787d072e24ae230ff9720013e94f88a</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_003954.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378168</mtime>
+    <size>54267</size>
+    <md5>01cf190fadc86cae9c2e4bd329ffa1c7</md5>
+    <crc32>d326a3a7</crc32>
+    <sha1>cbf1fde4a782a8c1b0514689ad6d5fb55c84afce</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_004014.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378172</mtime>
+    <size>60972</size>
+    <md5>de0e0522fb115b2d3d8fddb982c7cc8b</md5>
+    <crc32>b4f4c111</crc32>
+    <sha1>2dfd369bf5d4be89248b4763fae49c7df15d2c69</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_004074.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378176</mtime>
+    <size>61103</size>
+    <md5>0d00ec4d5fb657e3a371a1752265e895</md5>
+    <crc32>371d19e5</crc32>
+    <sha1>9cfcec0d4fcb477100becf2a31f8949a6be55e6e</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_004134.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378180</mtime>
+    <size>58419</size>
+    <md5>e3cf1e3e09fbeb3e2d39b6e154bcb58c</md5>
+    <crc32>39f940d6</crc32>
+    <sha1>c67922c7548de9d879477e9c7409e1fa1ed8349d</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_004194.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378184</mtime>
+    <size>56391</size>
+    <md5>46e84a0f2825243706d67a8a283062ac</md5>
+    <crc32>207fb645</crc32>
+    <sha1>18c813ed43b20de19db8344cd4d5c419f396e0da</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_004254.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378189</mtime>
+    <size>56960</size>
+    <md5>0214ff0de378853ad7a3107c81a89627</md5>
+    <crc32>c49b1ee7</crc32>
+    <sha1>7ef7a7c672e1b2880554b83bd237715a820d7e35</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_004314.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378194</mtime>
+    <size>56021</size>
+    <md5>e7c7d842bf96990066f6262bc4c6f35a</md5>
+    <crc32>d815a4ed</crc32>
+    <sha1>1ad0db2205bf680e1055eead198a3b40af15b0d1</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_004374.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378198</mtime>
+    <size>58249</size>
+    <md5>58ac2fa22f573ce0c8d5e00af8595e8a</md5>
+    <crc32>0ff1390f</crc32>
+    <sha1>7534624af0dffdb03713057790a3219f0cf16099</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_004434.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378203</mtime>
+    <size>61552</size>
+    <md5>8253a29fb30daee8c62b7f215fdd32c0</md5>
+    <crc32>6c9bdcfa</crc32>
+    <sha1>7adb2e114158da56837e5c475f3acfee7b4773fb</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_004494.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378207</mtime>
+    <size>61672</size>
+    <md5>f3715b8efaf140abefa6341be0d585c9</md5>
+    <crc32>b0f5fc83</crc32>
+    <sha1>cc8a9b0cfdc9fd59205b137a49fb2e8b73a25bb4</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_004554.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378211</mtime>
+    <size>61340</size>
+    <md5>6ceb159afdcaf3b4f403c5b0e290514b</md5>
+    <crc32>9dbc7bc4</crc32>
+    <sha1>7c0f4456103b24e4c25bdc6aa428045091716907</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_004614.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378215</mtime>
+    <size>59005</size>
+    <md5>8251454561c8dc293f15a6ad58a81f18</md5>
+    <crc32>05724c88</crc32>
+    <sha1>e1332ce65638b1ea46e0c5a949119d6f5e8e1fe8</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_004674.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378219</mtime>
+    <size>59845</size>
+    <md5>6e8006bab9d1a3e01913a257c91ef365</md5>
+    <crc32>ec9972ce</crc32>
+    <sha1>3f66629ceb6e1e6f550421f9a09c9a1c3efe2088</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_004734.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378222</mtime>
+    <size>56518</size>
+    <md5>fb1b7bfc02b6fa6d67da0c03482265fd</md5>
+    <crc32>deac5f19</crc32>
+    <sha1>44050e137f5d586baceed17eae5b46e97b822d6b</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_004794.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378227</mtime>
+    <size>49844</size>
+    <md5>6d7f595b231e209820919459357b3556</md5>
+    <crc32>383b4e89</crc32>
+    <sha1>1df3ffc62ce8c458a18bf5473de476b385b45c8d</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_004854.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378231</mtime>
+    <size>55119</size>
+    <md5>b9f131aee3189aa320026d699c65f517</md5>
+    <crc32>def51ac1</crc32>
+    <sha1>a036ef91238f2293d33e62c346c80198b88a882a</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_004914.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378235</mtime>
+    <size>52895</size>
+    <md5>f39282759cec3041b4d4e29c3c7c8910</md5>
+    <crc32>2f154f4b</crc32>
+    <sha1>fbbc056a5d1cf1cc330fc91271a72f734dbe125b</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_004974.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378239</mtime>
+    <size>58804</size>
+    <md5>fbc79260f8fb517f1398ff26f42fe571</md5>
+    <crc32>a0250486</crc32>
+    <sha1>92c2da844096eb10dfce568eb4a66c8764b0e4d1</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_005034.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378243</mtime>
+    <size>62112</size>
+    <md5>7e1929ee7406bd2e6f65c7821c1b5276</md5>
+    <crc32>6918edf9</crc32>
+    <sha1>7ffb894f223661f2e38dbc3a72d2d1e97370dd58</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_005094.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378248</mtime>
+    <size>58667</size>
+    <md5>34438874b02cb676d4663af446ecd117</md5>
+    <crc32>5d876e3d</crc32>
+    <sha1>f6e44402b3caa70eb2de8dd5950b242a16d12fad</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_005154.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378252</mtime>
+    <size>53115</size>
+    <md5>402341eef444fb3792c7e5e0f01bb771</md5>
+    <crc32>b5d23222</crc32>
+    <sha1>26235a67e4441f6de7292075cb57c3c84b53def9</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_005214.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378257</mtime>
+    <size>59788</size>
+    <md5>019e2ebd4954d9bdb4105a1acafe827e</md5>
+    <crc32>0887e238</crc32>
+    <sha1>c8054cae3a7594a557c9d10fc1495822d011e81a</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_005274.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378261</mtime>
+    <size>55485</size>
+    <md5>cb0478b1ad4be3e4f00cdc0f8e1d6ccf</md5>
+    <crc32>dbce03b6</crc32>
+    <sha1>e04fb5037f26f43b258c93e94905430ed679b145</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_005334.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378265</mtime>
+    <size>56153</size>
+    <md5>e690b2a20ac1e63ae273fa14bacfef02</md5>
+    <crc32>ebd21e14</crc32>
+    <sha1>0355d4a9b62e45f90db0f988e390bf3050422522</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_005394.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378269</mtime>
+    <size>53373</size>
+    <md5>2d51d6efe51b5272d6a5841504876b22</md5>
+    <crc32>6b8cda12</crc32>
+    <sha1>2fa8b9cd0e63b34f5fc94a16e419caf83189fc00</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_005454.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378273</mtime>
+    <size>57978</size>
+    <md5>89482175c3df4c799ff424343ac073eb</md5>
+    <crc32>0cdaf048</crc32>
+    <sha1>eeefdefe8d4d36a31064fda9b55b24a058573f06</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_005514.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378277</mtime>
+    <size>49393</size>
+    <md5>a42617a5aae1de702f7c0d03b4350fcf</md5>
+    <crc32>5dfe7aa8</crc32>
+    <sha1>b9fb22fb884aca5a0c92697b24c0dc3893942c9d</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_005574.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378280</mtime>
+    <size>55623</size>
+    <md5>5aa5f1616c9dbadd72cebf3bf37d3766</md5>
+    <crc32>c823bb52</crc32>
+    <sha1>cf54db6e21cef0ba939d4c4fb26c024efd00d5d3</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_005634.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378285</mtime>
+    <size>53828</size>
+    <md5>681660a938b3ab3232fcce6eb0118a27</md5>
+    <crc32>6db2c05a</crc32>
+    <sha1>dde26b1bf3d8473ef0f5514895ff29d137f94fc0</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_005694.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378289</mtime>
+    <size>51766</size>
+    <md5>34e56d6789b83ab4e52ab642bea48cb8</md5>
+    <crc32>19b9c024</crc32>
+    <sha1>f7ef603fc0ff2498e32931004d0cdd36e75c6b64</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_005754.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378293</mtime>
+    <size>55124</size>
+    <md5>657856c4e05cefa2a4a8b0f2832c7857</md5>
+    <crc32>9e19f2c8</crc32>
+    <sha1>da710d62117b4e2d64a47ed09c41f39fc6321bb1</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_005814.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378297</mtime>
+    <size>62452</size>
+    <md5>244309cd67a06a34f03a623e5c1816eb</md5>
+    <crc32>e6103e02</crc32>
+    <sha1>aa2fe5ca640bf3baa93b514dd62c405303bd52fa</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_005874.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378302</mtime>
+    <size>62956</size>
+    <md5>b5c0faca07da39da166c5c5e7355455f</md5>
+    <crc32>20ab3305</crc32>
+    <sha1>3c02239df0e6a4d8f52452912659a4577bc2ab2e</sha1>
+  </file>
+  <file name="opioids_kfxh0257.thumbs/kfxh0257-0003_005885.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>kfxh0257-0003.mp4</original>
+    <mtime>1661378302</mtime>
+    <size>54576</size>
+    <md5>3476547eb3278c48e4c2695f57972957</md5>
+    <crc32>07a7de27</crc32>
+    <sha1>a9e14080f1b2e69491173a3c53fec6d49ee0f4d7</sha1>
+  </file>
+  <file name="opioids_kfxh0257_archive.torrent" source="metadata">
+    <btih>7b23720f08274cf80a72efaa20227b571eab12bb</btih>
+    <mtime>1686015736</mtime>
+    <size>79690</size>
+    <md5>d0d2b8b125cac55bc751ae8c9a71bd2e</md5>
+    <crc32>ad55e1b7</crc32>
+    <sha1>1e1cbd4e0d0c19fe0898bb5f6bca973c683ffc1e</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="opioids_kfxh0257_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>88f9f2796e77abb56233d5360514b6a2</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="opioids_kfxh0257_meta.sqlite" source="original">
+    <mtime>1661377083</mtime>
+    <size>20480</size>
+    <md5>b499d325b7dcfe326c35b040566e522c</md5>
+    <crc32>c3e0577a</crc32>
+    <sha1>5fa7ed69eea0da3d7a1039c668e7587c4698f529</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="opioids_kfxh0257_meta.xml" source="original">
+    <mtime>1686015734</mtime>
+    <size>1026</size>
+    <md5>0076ebbd7b0bf3baf83e7ba5dcb9d65e</md5>
+    <crc32>3b2d3228</crc32>
+    <sha1>c2d6ebc0d02b466f350cff396191bb10843fbe55</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

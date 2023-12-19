@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1686016206</mtime>
+    <size>7243</size>
+    <md5>328c65ab65e405bbeb19df568b4d49f4</md5>
+    <crc32>40be643f</crc32>
+    <sha1>3d3110284fe2498618bf2260a564496cb8d5c597</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="tobacco_clm09c00.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890406</mtime>
+    <size>490878</size>
+    <md5>47d917b90a5e81188f17e6f42111bd8a</md5>
+    <crc32>a0cca412</crc32>
+    <sha1>26b45cc0a5e60ae658b07ad504cd4a7433386219</sha1>
+  </file>
+  <file name="tobacco_clm09c00.mp4" source="derivative">
+    <format>h.264</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390894840</mtime>
+    <size>313887651</size>
+    <md5>a0977858863b57f8823d6bb4c978c04d</md5>
+    <crc32>dfae3d2e</crc32>
+    <sha1>d8da8c9555826b104aadec5330c6bc36a9ad6599</sha1>
+    <length>3025.02</length>
+    <height>480</height>
+    <width>640</width>
+  </file>
+  <file name="tobacco_clm09c00.mpg" source="original">
+    <format>MPEG2</format>
+    <length>3024.59</length>
+    <height>480</height>
+    <width>640</width>
+    <mtime>1390889512</mtime>
+    <size>2391842816</size>
+    <md5>853a269c6f920edfa4d0b15c6a6eef7b</md5>
+    <crc32>6a656ea4</crc32>
+    <sha1>168f32ae310f5f0e91f65318af49549803847fc7</sha1>
+  </file>
+  <file name="tobacco_clm09c00.mpg.idx" source="derivative">
+    <format>Video Index</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890420</mtime>
+    <size>2504938</size>
+    <md5>94f276b0045b83c21feacf66cdc720a0</md5>
+    <crc32>eed1932b</crc32>
+    <sha1>7b98cb54041ec5d20799da83685b4a2c1d60c71a</sha1>
+  </file>
+  <file name="tobacco_clm09c00.ogv" source="derivative">
+    <format>Ogg Video</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390901010</mtime>
+    <size>235590669</size>
+    <md5>971fd76860ee1247ec1bcd9b9d85523c</md5>
+    <crc32>4cc126e5</crc32>
+    <sha1>bf71ff0d82ed96ec12396390b89730289dc41406</sha1>
+    <length>3025.02</length>
+    <height>300</height>
+    <width>400</width>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890429</mtime>
+    <size>5201</size>
+    <md5>2ef35835801c8e516cb1f0da86fbda2f</md5>
+    <crc32>2647d889</crc32>
+    <sha1>ac92a014af4d103a9117ec00fec751774890bba5</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_000090.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890440</mtime>
+    <size>4534</size>
+    <md5>65b138b03293554e04cab0b12c699396</md5>
+    <crc32>d6afdf04</crc32>
+    <sha1>fd9ae2e233399baf9f4624832d59abc216646d8a</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_000150.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890452</mtime>
+    <size>5251</size>
+    <md5>b44b0917bb3e3c6263912c893771b250</md5>
+    <crc32>145097c1</crc32>
+    <sha1>41b89be86b82f07937d2e0435dfd8e6cbbebd272</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_000210.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890463</mtime>
+    <size>5054</size>
+    <md5>e7c7c58f0b20f3e1e52afd14acff9deb</md5>
+    <crc32>429af638</crc32>
+    <sha1>970b823acecaba304add7aa89e7b4575768f7c61</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_000270.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890474</mtime>
+    <size>5102</size>
+    <md5>8ffd931d7dfaa52760c1c74ab77a9aa3</md5>
+    <crc32>57263cdc</crc32>
+    <sha1>059cb2c4976a667c4a3ec64a0b5060a583b2cfc1</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_000330.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890485</mtime>
+    <size>6414</size>
+    <md5>4de9ecb8803f7e8fdbf6488e35671ba6</md5>
+    <crc32>7e7173de</crc32>
+    <sha1>a3983ee9fa632409a91db884596cd9546347ae63</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_000390.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890496</mtime>
+    <size>6400</size>
+    <md5>f83370a6a83af6e481596cfcb83b2349</md5>
+    <crc32>ef9a3ea9</crc32>
+    <sha1>b6baf8ec8d259e5a81d95c3774cc00661f0f8b50</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_000450.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890508</mtime>
+    <size>6449</size>
+    <md5>5d2ceddf6fb1e87f43469f2385b0bbb1</md5>
+    <crc32>9acdaf6f</crc32>
+    <sha1>6bdef59dbfc2009b9e96b4842495b9d1a944ee99</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_000510.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890521</mtime>
+    <size>6422</size>
+    <md5>e66f79cc6987dee3e6053e22360c5e8d</md5>
+    <crc32>3d912838</crc32>
+    <sha1>1183aaeabc660d1b4d5394b04a4147eec1ae54cb</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_000570.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890533</mtime>
+    <size>6415</size>
+    <md5>ca6f5fcda89456435c04bc5ceb457ef2</md5>
+    <crc32>5f729167</crc32>
+    <sha1>969aa9262c85c6c3ddc9adf110d4eefc7264713e</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_000630.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890544</mtime>
+    <size>6395</size>
+    <md5>97cd0e67237751af46b77bb23a9e6a75</md5>
+    <crc32>e941ff03</crc32>
+    <sha1>6e52458b55807aa1efa784a59b112b5c732a4cc3</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_000690.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890555</mtime>
+    <size>6506</size>
+    <md5>f36e37ab0941c5b52786a14b762782aa</md5>
+    <crc32>ea7ebac1</crc32>
+    <sha1>bfce08616d1ca708bcc295402fa55941eade998f</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_000750.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890566</mtime>
+    <size>6665</size>
+    <md5>557de1b9f392d13d64f738204d04c444</md5>
+    <crc32>96be0ab7</crc32>
+    <sha1>53f56524f4ed1e48b62eff71f51d2c0606107db0</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_000810.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890577</mtime>
+    <size>6403</size>
+    <md5>2343bfd8838b647fdcebfe5dc3558bae</md5>
+    <crc32>04bbe243</crc32>
+    <sha1>009a14342a8f5064a413b5edda42a4b7b20b07c5</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_000870.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890588</mtime>
+    <size>6563</size>
+    <md5>3affbc0493a3842cf89266f58833c72a</md5>
+    <crc32>5b24ed4c</crc32>
+    <sha1>9820a95d187474fda1d4add00f376fbb6c4c7c02</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_000930.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890599</mtime>
+    <size>6476</size>
+    <md5>a24391ed0d4953772aa8fdd865071cfd</md5>
+    <crc32>a818dfa0</crc32>
+    <sha1>5205f973da4d8793edfcf92d91f876d52ec25d34</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_000990.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890610</mtime>
+    <size>6580</size>
+    <md5>6b008bf6c8e58b384cea9c45e117bf7b</md5>
+    <crc32>26b65817</crc32>
+    <sha1>b7ea91eaa45c1de4222eb8df4b502ea797431eae</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_001050.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890621</mtime>
+    <size>6551</size>
+    <md5>050668f0d8e48f08f6bb0fc8e09692f1</md5>
+    <crc32>34074a3c</crc32>
+    <sha1>8449d3b65aa9015db92dee61e643da09bca43739</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_001110.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890633</mtime>
+    <size>6547</size>
+    <md5>e22608d423a89626098e56affd758251</md5>
+    <crc32>c9a7187a</crc32>
+    <sha1>905d57b0223e41392b57755fb7e59b64c4b42328</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_001170.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890644</mtime>
+    <size>6654</size>
+    <md5>550093c5fd4e87b4e61d2a1ff19ecb34</md5>
+    <crc32>89c75acc</crc32>
+    <sha1>2a729a966fc815808c04c9fb58d2b916f088469b</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_001230.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890655</mtime>
+    <size>6429</size>
+    <md5>9542104c8c57b9e36a0a553b9ad8444c</md5>
+    <crc32>3957e67b</crc32>
+    <sha1>814a9669c475113c7688120b195d460e11d5317c</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_001290.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890667</mtime>
+    <size>6548</size>
+    <md5>861e6a57a2f758fea1a1715992800dda</md5>
+    <crc32>b7c3a83c</crc32>
+    <sha1>2a4f74901c20db0fe521a599e7a06253716265f0</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_001350.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890678</mtime>
+    <size>6722</size>
+    <md5>8cf8eb6ae5b0c018dba25d24a5821b6d</md5>
+    <crc32>63d29c98</crc32>
+    <sha1>579facc8de6e14c14dc21536e77b09c470a0409b</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_001410.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890689</mtime>
+    <size>6391</size>
+    <md5>c62081dfb8d946480c9620d3356b4bcf</md5>
+    <crc32>0dad5381</crc32>
+    <sha1>ff89d3d6e580976ed18736280e527ffb746cf4a6</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_001470.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890699</mtime>
+    <size>6444</size>
+    <md5>c8422660f6ecf4adb05cb845d7140fde</md5>
+    <crc32>546b31cb</crc32>
+    <sha1>f9adab3f7e7dd152a92295c2e989d9cd7f073cd7</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_001530.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890710</mtime>
+    <size>6180</size>
+    <md5>948e148551c1a23ecfe2ec6eaa9f4978</md5>
+    <crc32>755cdd43</crc32>
+    <sha1>f2f82c261ab05681ab433924ea0267c216b9b5d5</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_001590.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890721</mtime>
+    <size>6084</size>
+    <md5>65af5046f741f9a33dac711b4ed6117b</md5>
+    <crc32>68ca15e2</crc32>
+    <sha1>5abea292c9caa3aed8450a942ebce55913b57efc</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_001650.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890732</mtime>
+    <size>6550</size>
+    <md5>d4301d8fada256ace8b7baadcf95adc7</md5>
+    <crc32>2957a1e0</crc32>
+    <sha1>43b0971ac3ee79efee0dc2db84ae8145ce871e01</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_001710.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890744</mtime>
+    <size>6708</size>
+    <md5>b31a29e8483c89e0e90054b0b03f15cf</md5>
+    <crc32>52db1f14</crc32>
+    <sha1>54e67d341b72a34c3d851d30ca8a60cb78f95974</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_001770.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890755</mtime>
+    <size>6574</size>
+    <md5>1e9d1c9278930627afd77003e1d39982</md5>
+    <crc32>85c4ba34</crc32>
+    <sha1>9253da85fd295ee4aebbff1a65e9896d9069e6c9</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_001830.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890766</mtime>
+    <size>6318</size>
+    <md5>e24bd8d0a0c5c088c74492272d47728b</md5>
+    <crc32>a6a472a5</crc32>
+    <sha1>9a1478abac48126b1c812eaf71aa7e109832a0e0</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_001890.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890777</mtime>
+    <size>6167</size>
+    <md5>c4248b461b6c9dfd002ecb390651ee07</md5>
+    <crc32>ecd4627a</crc32>
+    <sha1>ab43c777de92524b5ddc964a78f54743b10665df</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_001950.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890788</mtime>
+    <size>6363</size>
+    <md5>b25c44612528fa891463e9caf8fefa80</md5>
+    <crc32>18d08fe4</crc32>
+    <sha1>d96d795615b0cbe12d6da6bdcb89436e52cd5500</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_002010.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890799</mtime>
+    <size>6438</size>
+    <md5>b77f83e0deba0613b3a31ce39dbd8b25</md5>
+    <crc32>9dd713bc</crc32>
+    <sha1>94feea3356ee967cb00435ea1abdbf7106a18a88</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_002070.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890809</mtime>
+    <size>6456</size>
+    <md5>cfe7ec09cf5dadbe4fdef09762f5097b</md5>
+    <crc32>91c7f270</crc32>
+    <sha1>f122b6007f1e7f8d3a91b0d76108c8285368fdea</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_002130.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890821</mtime>
+    <size>6290</size>
+    <md5>04de671177416414de18e7ea599916cf</md5>
+    <crc32>72d36985</crc32>
+    <sha1>41b9f9b8984b824bd6d0bdd27f0dbd16359fb422</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_002190.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890832</mtime>
+    <size>6831</size>
+    <md5>a883da1b332884f820c3e2002423088b</md5>
+    <crc32>1875e4b4</crc32>
+    <sha1>2511d50d9286aee02e8eff26414e5e495fdb4f67</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_002250.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890843</mtime>
+    <size>6424</size>
+    <md5>2fe9dddac47a70305ce1f5ed52440c91</md5>
+    <crc32>e710d192</crc32>
+    <sha1>2daa3c01298e2182e84d6f8fdb063540048c99b6</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_002310.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890855</mtime>
+    <size>6376</size>
+    <md5>1f84750d9d14863cf2fbe9e1f4b8d567</md5>
+    <crc32>c3b0e03f</crc32>
+    <sha1>eabbe1d3be0048e34fcde6abe435cff094d89409</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_002370.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890866</mtime>
+    <size>6255</size>
+    <md5>76662963ae93cbaab355ca0fcd93d318</md5>
+    <crc32>00477896</crc32>
+    <sha1>2955f05d00c82d3564daf55241f96a6da9e81509</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_002430.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890878</mtime>
+    <size>6383</size>
+    <md5>8b326e78879166ee7be26c004b1c51c5</md5>
+    <crc32>021e09a5</crc32>
+    <sha1>27dbe98accae925eb54570730b6c2b4d198d3b8c</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_002490.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890889</mtime>
+    <size>6374</size>
+    <md5>3a0cc4f72f5e0d2fb98fca4eb4b0c99a</md5>
+    <crc32>1c44cfb1</crc32>
+    <sha1>8b99873d02a3608e8b9418b186c6dfd12e904320</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_002550.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890900</mtime>
+    <size>6460</size>
+    <md5>66ab6871fe7789b9eb50fd209a904eb9</md5>
+    <crc32>db16037d</crc32>
+    <sha1>a69fbbf30d0a2a9c4afb742819ba7a95bb5db78c</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_002610.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890911</mtime>
+    <size>6396</size>
+    <md5>105c301e88934710b58e6d7305b6d0ca</md5>
+    <crc32>6b51575c</crc32>
+    <sha1>0249feee36624e9414742dcef42208c8df2902a5</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_002670.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890923</mtime>
+    <size>6566</size>
+    <md5>b198bb8f7f10f1aa29f8be3e9d81bd27</md5>
+    <crc32>4bfc8d23</crc32>
+    <sha1>cdeb5f0e0fe9508349e1bace4567b57eeef010a3</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_002730.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890935</mtime>
+    <size>6372</size>
+    <md5>cd2128739d50a0087149791d9a823094</md5>
+    <crc32>cd51bc0a</crc32>
+    <sha1>a0679d2a81328fbf5172e10ee9b17843a1579996</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_002790.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890947</mtime>
+    <size>6535</size>
+    <md5>3f9f817cb3fc797e82e0047a6d5d4b8d</md5>
+    <crc32>384bfd11</crc32>
+    <sha1>fc790a980015275c3d49c2a8e5a4e6f90b99b1e7</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_002850.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890958</mtime>
+    <size>6429</size>
+    <md5>adf2541b4218eb23a57bb08d4fd673e4</md5>
+    <crc32>8c3a8bf5</crc32>
+    <sha1>48367eb7acffbf8d4a09bd6f1f83b256d33ffa46</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_002910.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890971</mtime>
+    <size>6565</size>
+    <md5>251df20c7da76c6402aad4964c78bbd8</md5>
+    <crc32>73973d5a</crc32>
+    <sha1>f82e344d006129a68b291092f3987044db572e14</sha1>
+  </file>
+  <file name="tobacco_clm09c00.thumbs/tobacco_clm09c00_002970.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_clm09c00.mpg</original>
+    <mtime>1390890982</mtime>
+    <size>6594</size>
+    <md5>d2521cb0bde9e64255813923c6790f97</md5>
+    <crc32>e716ef7e</crc32>
+    <sha1>990ecb779c1b5846d30f1ec583c0d3c403ae6938</sha1>
+  </file>
+  <file name="tobacco_clm09c00_archive.torrent" source="metadata">
+    <btih>56dbc9131b0c3a68cf0b5df31b9b506c457811e6</btih>
+    <mtime>1686016206</mtime>
+    <size>31224</size>
+    <md5>87cb4f33e9827ae32fd583dc30bb0faf</md5>
+    <crc32>371185ee</crc32>
+    <sha1>664bf07106e3712c3036c8bb9ffc799482f703ed</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="tobacco_clm09c00_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>af2dbd3b75693fe7501b459533560077</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="tobacco_clm09c00_meta.sqlite" source="original">
+    <format>Metadata</format>
+    <mtime>1390889578</mtime>
+    <size>9216</size>
+    <md5>3b7df1a9796812836062f946f71ad462</md5>
+    <crc32>3c3ed7be</crc32>
+    <sha1>f1767b30ce5bdf0bcf4e8245183c49e103b2e8cb</sha1>
+  </file>
+  <file name="tobacco_clm09c00_meta.xml" source="original">
+    <format>Metadata</format>
+    <mtime>1686016205</mtime>
+    <size>1485</size>
+    <md5>9f6f7d598b6339ed6877b7b7c1472128</md5>
+    <crc32>3958b712</crc32>
+    <sha1>0cfc87832202ac975f12c3ca0ee8f23d71d85fa5</sha1>
+  </file>
+</files>

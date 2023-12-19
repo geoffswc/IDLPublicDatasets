@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1686025190</mtime>
+    <size>1546</size>
+    <md5>53bd5cd1e79d57b9a6ad39944500716e</md5>
+    <crc32>1352594e</crc32>
+    <sha1>7a91d1ab157fbd83c3afb1935cef9438430b8cb4</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="tobacco_yxxh0225.mp4" source="original">
+    <mtime>1496719176</mtime>
+    <size>2495783</size>
+    <md5>5248f22347297c0ea4d637853878309a</md5>
+    <crc32>b404f9f6</crc32>
+    <sha1>0670cfb99ad3d6776b92cb7f4e3eb2340b509c4f</sha1>
+    <format>MPEG4</format>
+    <length>25.76</length>
+    <height>240</height>
+    <width>320</width>
+  </file>
+  <file name="tobacco_yxxh0225.ogv" source="derivative">
+    <format>Ogg Video</format>
+    <original>tobacco_yxxh0225.mp4</original>
+    <mtime>1496719315</mtime>
+    <size>1928524</size>
+    <md5>99088f7120663a4b2007d95a20288494</md5>
+    <crc32>bc6e7cd8</crc32>
+    <sha1>a8cd113d9e98109d35d8500d4648927038833e24</sha1>
+    <length>25.76</length>
+    <height>300</height>
+    <width>400</width>
+  </file>
+  <file name="tobacco_yxxh0225.thumbs/tobacco_yxxh0225_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_yxxh0225.mp4</original>
+    <mtime>1496719261</mtime>
+    <size>6363</size>
+    <md5>edc02e2b223a563552490505890f5ff0</md5>
+    <crc32>b06069a4</crc32>
+    <sha1>bf80511a3954b36d331328973f2c6bb7ca2387ee</sha1>
+  </file>
+  <file name="tobacco_yxxh0225.thumbs/tobacco_yxxh0225_000009.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_yxxh0225.mp4</original>
+    <mtime>1496719261</mtime>
+    <size>1350</size>
+    <md5>efc09d54b2e775854c376d403dbaf738</md5>
+    <crc32>541d4118</crc32>
+    <sha1>22ff0e1c2ece53951b813086b78b671ec28f06e3</sha1>
+  </file>
+  <file name="tobacco_yxxh0225.thumbs/tobacco_yxxh0225_000014.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_yxxh0225.mp4</original>
+    <mtime>1496719262</mtime>
+    <size>9572</size>
+    <md5>901214e97135b942b0b396802ad480de</md5>
+    <crc32>681dd792</crc32>
+    <sha1>3d7879c29253537333db5bf0279a12f9dbe75540</sha1>
+  </file>
+  <file name="tobacco_yxxh0225.thumbs/tobacco_yxxh0225_000019.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_yxxh0225.mp4</original>
+    <mtime>1496719264</mtime>
+    <size>6726</size>
+    <md5>87f58f58d2166cb0af9782a48e7e254b</md5>
+    <crc32>6b522b7d</crc32>
+    <sha1>9835eeb0a8eb021d47dd3e249b921799b29ac84b</sha1>
+  </file>
+  <file name="tobacco_yxxh0225.thumbs/tobacco_yxxh0225_000024.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>tobacco_yxxh0225.mp4</original>
+    <mtime>1496719265</mtime>
+    <size>5362</size>
+    <md5>404488c4d47f5ce4d2d0e74d55d30d3a</md5>
+    <crc32>3791c4cf</crc32>
+    <sha1>21608a39e0068a9b3a0e4e4970422d59341d6da1</sha1>
+  </file>
+  <file name="tobacco_yxxh0225_archive.torrent" source="metadata">
+    <btih>30973df702ee5ca805dd65f3a6ba94d234f14fd1</btih>
+    <mtime>1686025191</mtime>
+    <size>2195</size>
+    <md5>471f2ed287fdc694fd78558c06739721</md5>
+    <crc32>66fb7278</crc32>
+    <sha1>973868e72d239a1498176643e5ac102abc68e39d</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="tobacco_yxxh0225_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>12a4c25d2ca7cd680cf98fb5df7d89bc</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="tobacco_yxxh0225_meta.sqlite" source="original">
+    <mtime>1496719232</mtime>
+    <size>9216</size>
+    <md5>06e1ce4b92675d5f44bc21fa4328e4aa</md5>
+    <crc32>1a2608a1</crc32>
+    <sha1>25b63d1ab83907ebf2a5dab677077cb44eba9fde</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="tobacco_yxxh0225_meta.xml" source="original">
+    <mtime>1686025189</mtime>
+    <size>1169</size>
+    <format>Metadata</format>
+    <md5>d26f5e07c5c8c28e2df0b47957d0edfb</md5>
+    <crc32>7b4a1e87</crc32>
+    <sha1>4dd73f34d7efec2d503087e05146788d0d6252b3</sha1>
+  </file>
+</files>
