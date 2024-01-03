@@ -67,4 +67,9 @@ Estimated Costs for all Deposition Files
 * TEXT_DETECTION ($0.15/min): $ 6344.99
 * SPEECH_RECOGNITION ($0.048/min): $ 2030.4
 
+### Further Information
+
+For a full review of this process including steps for creating and querying a BigQuery dataset, please see the video on the CLE page.
+(video will be posted after presentation)
+
 
