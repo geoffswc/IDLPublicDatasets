@@ -10,9 +10,7 @@ The process for generating and formatting transcripts and annotations relies hea
 
 #### 1. Identify a dataset.
 
-This pilot uses a set of deposition related videos from the Industry Documents Library Tobacco and Opioid collections. To view these documents in the IDL application, search you can search on "deposition": https://archive.org/details/industry-archives?query=deposition (144 records at the time of this pilot, more may have been added since then). 
-
-
+This pilot uses a set of deposition related videos from the Industry Documents Library Tobacco and Opioid collections. To view these documents in the IDL application, search you can search on "deposition": https://archive.org/details/industry-archives?query=deposition (144 records at the time of this pilot, more may have been added since then). The query results in 144 records and 559 related video files. 
 
 #### 2. Read the metadata and file locations for the video media
 
@@ -38,5 +36,35 @@ Results for transcriptions and annotations are directed to a Google Cloud Storag
 
 The level of detail is very high for the JSON output from video intelligence. Although we should keep these files and and make them available to researchers, we do want a more condensed CSV format as a public dataset download link and/or as a set of columns in a BigQuery dataset. The Create-Pandas-Annotations workbook contains code to extract the relevant annotations and transcripts from the JSON files and create a CSV output.
 
+#### 7. Prepare a CSV file for BigQuery
+
+A few modifications are required to prep a csv file to work as a dataset in BigQuery (escaping certain characters and other minor cleanup). The Prep-BigQuery-Dataset contains code for this step.
+
+#### 8. Upload the file to BigQuery as a dataset and run a Query.
+
+This step takes place on Google Cloud and doesn't involve code that can be stored in this repo. It's all SQL and runs through the cloud console.
+
+### Costs
+
+To manage costs, we only processed the first 100 video files. 
+
+FIRST 100 Deposition Files
+* TOTAL TIME (hrs):  88.03
+* TOTAL COST: $ 2366.34
+* LABEL_DETECTION ($0.10/min): $ 528.2
+* LOGO_RECOGNITION ($0.15/min): $ 792.3
+* TEXT_DETECTION ($0.15/min): $ 792.3
+* SPEECH_RECOGNITION ($0.048/min): $ 253.54
+
+It's important to note that the transcription (speech_recognition) is only a little more than 10% of the total cloud computing costs.
+Costs are overwhelmingly related to use of the video intelligence to generate transcripts and annotations. Storage and other cloud computing costs are very small (around $3-$4), so the costs of processing these files on the cloud rather than locally won't be a influencing factor in cost related decisions. 
+
+Estimated Costs for all Deposition Files
+* TOTAL TIME (hrs):  705.0
+* TOTAL COST: $ 18950.36
+* LABEL_DETECTION ($0.10/min): $ 4229.99
+* LOGO_RECOGNITION ($0.15/min): $ 6344.99
+* TEXT_DETECTION ($0.15/min): $ 6344.99
+* SPEECH_RECOGNITION ($0.048/min): $ 2030.4
 
 
