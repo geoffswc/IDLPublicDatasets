@@ -26,7 +26,7 @@ Google Cloud provides a method to trigger a python script that runs transcriptio
 
 #### 5. Upload the list of URIs 
 
-Create a data transfer to google cloud storage by providing a list of public URIs to the video media for each record in the query. This will automate the process for generating transcripts and annotations through Vertex Video Intelligence. 
+Create a data transfer to google cloud storage by providing a list of public URIs to the video media for each record in the query. This will automate the process for generating transcripts and annotations through Vertex Video Intelligence. The list of URLs must be stored in a google cloud bucket with public visibility. The URL lists for the depositions (all records and the first 100 records) are available in the cloud-data-transfer-lists directory. 
 
 #### 5. Download the annotations and transcriptions
 
