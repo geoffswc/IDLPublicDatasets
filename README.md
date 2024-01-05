@@ -59,7 +59,7 @@ FIRST 100 Deposition Files
 It's important to note that the transcription (speech_recognition) is only a little more than 10% of the total cloud computing costs.
 Costs are overwhelmingly related to use of the video intelligence to generate transcripts and annotations. Storage and other cloud computing costs are very small (around $3-$4), so the costs of processing these files on the cloud rather than locally won't be a influencing factor in cost related decisions. 
 
-Estimated Costs for all Deposition Files
+Estimated Costs for all 559 Deposition Files
 * TOTAL TIME (hrs):  705.0
 * TOTAL COST: $ 18950.36
 * LABEL_DETECTION ($0.10/min): $ 4229.99
