@@ -34,7 +34,7 @@ Results for transcriptions and annotations are directed to a Google Cloud Storag
 
 #### 6. Extract the relevant annotations and transcriptions from the JSON files
 
-The level of detail is very high for the JSON output from video intelligence. Although we should keep these files and and make them available to researchers, we do want a more condensed CSV format as a public dataset download link and/or as a set of columns in a BigQuery dataset. The Create-Pandas-Annotations workbook contains code to extract the relevant annotations and transcripts from the JSON files and create a CSV output.
+The JSON output files from video intelligence contain very granular information about transcripts and annotations. For example, the JSON file includes information about location, time, and confidence for each character in embedded text, stored in a deep and elaborate tree structure. Because this information is expensive to generate and may be useful, we should keep these files and and make them available to researchers. However, for a prepared dataset on IDL or public take on BigQuery, we will want to provide a more condensed tablular version CSV format. The Create-Pandas-Annotations workbook contains code to extract the relevant annotations and transcripts from the JSON files and create a CSV output.
 
 #### 7. Prepare a CSV file for BigQuery
 
