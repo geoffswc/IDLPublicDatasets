@@ -67,6 +67,21 @@ Estimated Costs for all Deposition Files
 * TEXT_DETECTION ($0.15/min): $ 6344.99
 * SPEECH_RECOGNITION ($0.048/min): $ 2030.4
 
+### Payment
+
+#### Google Cloud Credits and Eductation Credits
+
+If you'd like to try this, there are a couple of ways to fund it. First, Google Vertex AI offers "free" tier for light use, so there may be no charges if you experiment with a small number of short video files. Google cloud provides (at the time of writing) a few hundred dollars of credits for the first year for new accounts, and you get a bit more if you sign up with an academic email address. 
+
+If you need more funding for a larger project, you can apply for funding: https://cloud.google.com/billing/docs/how-to/edu-grants
+
+I was able to get $5,000 in cloud credits by linking to my UCSF profile and providing a summary of the project. I've used about half of them on the 100 files in this project, though keep in mind I was using most of the annotation services. Transcription alone is relatively inexpensive. I've heard that it's relatively easy to get the minimum ($5,000) grant for a year, but not easy to get an extension if you don't use it within the year. FWIW, that's just what I've heard, it's not anything confirmed by a Google or a survey. Still, I'd recommend you only apply for the grant if you're ready to start working and have a plan to complete your project within the year. 
+
+#### Alternative Payment Requirement
+
+Note - unfortunately, you do need an "alternative" method of payment to access these grands, which means some kind of credit card, even if you don't plan to (and never do) exceed your education credits. There are ways to inform Google not to convert your account into a paid one if you run through your credits, but it's still a big obstacle for learners if they are obliged to put down a payment system at an early experimentation phase. Some services, such as CoLab and certain datasets on BigQuery, don't require a paid tier. In the UCSF Workshop series, I'll walk the class through hands-on use for Google Cloud AI products that require a gmail/docs account, but I limit features that require an "alternate payment" to demos. If workshop participants are interested in pursuing this further, I will meet with them in a consulting session to help them get set up and understand how to avoid unexpected charges.
+
+
 ### Further Information
 
 For a full review of this process including steps for creating and querying a BigQuery dataset, please see the video on the CLE page.
