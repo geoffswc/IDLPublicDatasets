@@ -14,11 +14,11 @@ This pilot uses a set of deposition related videos from the Industry Documents L
 
 #### 2. Read the metadata and file locations for the video media
 
-To access the metadata and url for video files for this query, we'll use the search API from the internet archive. Code for this step is available in the IADownloads/Search_IA.ipynb notebook. This workbook will run the deposition query from step 1 and download metadata and file list files in XML format from the internet archives into a set of local files.
+To access the metadata and url for video files for this query, we'll use the search API from the internet archive. Code for this step is available in the IADownloads/Search-IA.ipynb notebook. This workbook will run the deposition query from step 1 and download metadata and file list files in XML format from the internet archives into a set of local files.
 
 #### 3. Extract metadata and URL links into a tabular data format
 
-To create a dataset with transcriptions, annotations, and metadata, we'll need to extract the metadata into a separate pandas dataframe. Next, to extract transcripts and annotations from these depositions using Google Vertex AI, we'll need a list of URIs for each video in the document list. These two steps are accomplished in the Generate_Metadata_URL_Table.ipynb workbook.
+To create a dataset with transcriptions, annotations, and metadata, we'll need to extract the metadata into a separate pandas dataframe. Next, to extract transcripts and annotations from these depositions using Google Vertex AI, we'll need a list of URIs for each video in the document list. These two steps are accomplished in the Generate-Metadata-URL-Table.ipynb workbook.
 
 #### 4. Use a Cloud Function to automate transcription and annotation
 
@@ -38,7 +38,7 @@ The JSON output files from video intelligence contain very granular information 
 
 #### 7. Prepare a CSV file for BigQuery
 
-A few modifications are required to prep a csv file to work as a dataset in BigQuery (escaping certain characters and other minor cleanup). The Prep-BigQuery-Dataset contains code for this step.
+A few modifications are required to prep a csv file to work as a dataset in BigQuery (escaping certain characters and other minor cleanup). The Prep-BigQuery-Dataset.ipynb notebook contains code for this step.
 
 #### 8. Upload the file to BigQuery as a dataset and run a Query.
 
