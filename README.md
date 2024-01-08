@@ -85,15 +85,16 @@ Unfortunately, you do need an "alternative" method of payment to access these gr
 
 For a full review of this process including steps for creating and querying a BigQuery dataset, please see the video on the CLE page.
 
-This presentation will cover:
+This presentation will cover how to:
 
 1. Find and query public datasets using BigQuery (no payment enabled account required)
 2. Upload query a dataset using BigQuery
 3. Use Vertex AI Natural Language features in BigQuery to predict document sentiment and classification.
 4. Create a Cloud Function to automate transcription and annotation
-5. Process JSON results and create a pandas dataframe and CSV File
-6. Estimate Costs
-7. Discuss payment options for university researchers. 
+5. Analyze and parse annotation and transcript information in Google Cloud Intelligence JSON output
+6. Process JSON results and create a pandas dataframe and CSV File
+7. Estimate Costs
+8. Discuss payment options for university researchers. 
 
 (video will be posted after presentation)
 
