@@ -81,7 +81,7 @@ I was able to get $5,000 in cloud credits by linking to my UCSF profile and prov
 
 Unfortunately, you do need an "alternative" method of payment to access these grands, which means some kind of credit card, even if you don't plan to (and never do) exceed your education credits. There are ways to inform Google not to convert your account into a paid one if you run through your credits, but it's still a big obstacle for learners if they are obliged to put down a payment system at an early experimentation phase. Some services, such as CoLab and certain datasets on BigQuery, don't require a paid tier. In the UCSF Workshop series, I'll walk the class through hands-on use for Google Cloud AI products that require a gmail/docs account, but I limit features that require an "alternate payment" to demos. If workshop participants are interested in pursuing this further, I will meet with them in a consulting session to help them get set up and understand how to avoid unexpected charges.
 
-### Further Information
+### Full Process for Creating and Hosting Public Datasets
 
 For a full review of this process including steps for creating and querying a BigQuery dataset, please see the video on the CLE page.
 
@@ -97,5 +97,13 @@ This presentation will cover how to:
 8. Discuss payment options for university researchers. 
 
 (video will be posted after presentation)
+
+### Further Reading
+
+#### UCR 3-year agreement with Google Cloud Platform
+
+The UC Riverside agreement with Google could provide a template for providing access to Vertex AI Tools:
+
+https://cloud.google.com/blog/topics/public-sector/pioneering-agreement-google-cloud-and-uc-riverside-launch-new-model-research-access
 
 
