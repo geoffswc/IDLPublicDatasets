@@ -98,6 +98,14 @@ This presentation will cover how to:
 
 (video will be posted after presentation)
 
+#### Demo File
+
+The demo file provides audio transcript and annotations for a video file from the Tobacco archives:
+https://archive.org/details/tobacco_wbr62a00
+
+The raw JSON output from VideoIntelligence is available in the sample_json directory
+Parse-VideoIntelligence-JSON-Demo.ipynb provides an example for how to parse and aggregate data from this file. 
+
 ### Further Reading
 
 #### UCR 3-year agreement with Google Cloud Platform
