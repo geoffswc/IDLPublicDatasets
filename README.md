@@ -108,6 +108,16 @@ Parse-VideoIntelligence-JSON-Demo.ipynb provides an example for how to parse and
 
 ### Repository Contents
 
+#### Notebooks (top level)
+* **Analyze-IA-File.ipynb**: analyze the output from the internet archives (metadata and file info)
+* **Analyze-Video-Intelligence-File.ipynb**: analyze the CSV file containing aggregated data from video-intelligence output
+* **Create-Pandas-Annotations.ipynb**: extract elements of JSON output from videointelligence into tabular (CSV) file
+* **Generate-Metadata-URL-Table.ipynb**: merge metadata and file list information for InternetArchive data into CSV file
+* **Parse-BigQuery-Classification-Results.ipynb**: process JSON output from BigQuery machine learning query tables
+* **Parse-VideoIntelligence-JSON-Demo.ipynb**: parse and view elements of single demo videointelligence file
+* **Prep-BigQuery-Dataset.ipynb**: generate CSV file for upload to BigQuery from videointelligence JSON output
+
+
 #### IADownloads
 This repository contains the xml file downloads for deposition metadata and URIs from the industry archives.
 * IADownloads/Search_IA.ipynb workbook contains code to search the Internet Archicves and download the metadata and file information
