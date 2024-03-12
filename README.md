@@ -106,6 +106,37 @@ https://archive.org/details/tobacco_wbr62a00
 The raw JSON output from VideoIntelligence is available in the sample_json directory
 Parse-VideoIntelligence-JSON-Demo.ipynb provides an example for how to parse and aggregate data from this file. 
 
+### Repository Contents
+
+#### IADownloads
+This repository contains the xml file downloads for deposition metadata and URIs from the industry archives.
+* IADownloads/Search_IA.ipynb workbook contains code to search the Internet Archicves and download the metadata and file information
+
+#### bigquery-pandas-output-files
+This repository contains the CSV output for the processed XML and JSON output from Internet Archives and Google Video Intelligence Output
+
+#### cloud-data-transfer-lists
+This directory contains the list of public video (mp4) URLs from the InternetArchives, formatted for data transfer to google cloud storage. 
+
+#### cloud-functions
+This directory contains the code and requirements to create the google cloud function used to automate transcription and annotation of videos uploaded to cloud storage.
+
+#### cloud-notebooks
+This directory contains the code extract transcripts or text from pdf/tiff files from google cloud video or image data, formatted to run as a notebook on a google cloud hosted notebook.
+
+* pdf_transcript.ipynb: extract text from a single pdf or tiff file (OCR using the image api)
+* video_transcript.ipynb: extract transcripts and annotations from a single video (using the video-ingelligence api)
+* read_transcript_json.ipynb - process a JSON file containing the output from videointelligence in a hosted jupyter notebook
+
+#### metadata-output-files
+This directory contains CSV files generated from the XML data on internet archives for the deposition collection
+
+#### output-idl-json-files.archive.org
+This directory contains the JSON files produced by google video-intelligence. The deposition collection is not included here as it is too large for GitHub storage limits, but included here to provide the expected directory structure.
+
+#### sample_json
+This contains a sample JSON output for a smaller file to provide an example for parsing and viewing video-intelligence output.
+
 ### Further Reading
 
 #### UCR 3-year agreement with Google Cloud Platform
