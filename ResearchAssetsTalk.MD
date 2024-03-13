@@ -10,7 +10,7 @@
 * No video transcriptions or annotations
 3. **Video Material**
 * https://www.industrydocuments.ucsf.edu/tobacco/
-* Sample: https://www.industrydocuments.ucsf.edu/ (2:17 for demo)
+* Sample: https://archive.org/details/tobacco_wbr62a00 (2:17 for demo)
 4. **Create transcriptions and annotations**
 * Google Vertex AI videointelligence API and speech API (audio only)
 * https://cloud.google.com/video-intelligence
