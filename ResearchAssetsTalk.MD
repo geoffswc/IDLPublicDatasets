@@ -1,4 +1,4 @@
-#### Research Assets Talk Notes (3/13/24)
+### Research Assets Talk Notes (3/13/24)
 
 1. **Overview of Industry Documents**
 * https://www.industrydocuments.ucsf.edu/
