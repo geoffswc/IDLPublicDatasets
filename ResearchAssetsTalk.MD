@@ -28,6 +28,9 @@
 * https://cloud.google.com/bigquery/docs/sandbox
 * uploaded data set
 * public data sets
+9. **Costs**
+* Audio transcription was 1/10 the cost of audio + annotations (labels, embedded text, logos)
+* Full cost breakdown available on main README
 
   
 
