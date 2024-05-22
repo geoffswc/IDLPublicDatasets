@@ -98,13 +98,14 @@ This presentation will cover how to:
 
 (video will be posted after presentation)
 
-#### Demo File
+### Demo File
 
 The demo file provides audio transcript and annotations for a video file from the Tobacco archives:
 https://archive.org/details/tobacco_wbr62a00
 
-The raw JSON output from VideoIntelligence is available in the sample_json directory
-Parse-VideoIntelligence-JSON-Demo.ipynb provides an example for how to parse and aggregate data from this file. 
+The raw JSON output from VideoIntelligence is available in the sample_json directory.
+
+**Parse-VideoIntelligence-JSON-Demo.ipynb** provides an example for how to parse and aggregate data from this file. 
 
 ### Repository Contents
 
@@ -146,13 +147,4 @@ This directory contains the JSON files produced by google video-intelligence. Th
 
 #### sample_json
 This contains a sample JSON output for a smaller file to provide an example for parsing and viewing video-intelligence output.
-
-### Further Reading
-
-#### UCR 3-year agreement with Google Cloud Platform
-
-The UC Riverside agreement with Google could provide a template for providing access to Vertex AI Tools:
-
-https://cloud.google.com/blog/topics/public-sector/pioneering-agreement-google-cloud-and-uc-riverside-launch-new-model-research-access
-
 
